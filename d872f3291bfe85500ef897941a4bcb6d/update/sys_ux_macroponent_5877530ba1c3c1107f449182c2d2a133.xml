@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "heading",
+  "elementLabel" : "Heading",
+  "propertyValues" : {
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Record Information",
+        "comment" : ""
+      }
+    },
+    "level" : {
+      "type" : "JSON_LITERAL",
+      "value" : "2"
+    },
+    "variant" : {
+      "type" : "JSON_LITERAL",
+      "value" : "header-secondary"
+    },
+    "wontWrap" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "hasNoMargin" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : {
+    "margin-top" : "calc(var(--now-scale-space--xs, 1) * var(--now-static-space--xs))",
+    "margin-bottom" : "var(--now-static-space--lg)",
+    "padding-top" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))",
+    "padding-right" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))",
+    "padding-left" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))"
+  }
+}, {
+  "elementId" : "loader",
+  "elementLabel" : "Loader",
+  "propertyValues" : {
+    "size" : {
+      "type" : "JSON_LITERAL",
+      "value" : "lg"
+    },
+    "label" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Loading...",
+        "comment" : ""
+      }
+    },
+    "action" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "dc87bcee22259d229390a8da7fb7b0b3",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "CLIENT_TRANSFORM_SCRIPT",
+    "script" : {
+      "apiVersion" : "1.0.0",
+      "inlineScript" : "/**\n  * @param {params} params\n  * @param {api} params.api\n  * @param {any} params.imports\n  */\nfunction evaluateProperty({api}) {\n\treturn !api.state.isLoading;\n}",
+      "scriptSysId" : null
+    }
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : {
+    "margin-top" : "50%"
+  }
+}, {
+  "elementId" : "display_value_block",
+  "elementLabel" : "Display value block",
+  "propertyValues" : {
+    "title" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Overview",
+        "comment" : ""
+      }
+    },
+    "items" : {
+      "type" : "STATE_BINDING",
+      "binding" : {
+        "address" : [ "displayBlockItems" ]
+      }
+    },
+    "layoutType" : {
+      "type" : "JSON_LITERAL",
+      "value" : "distributed"
+    },
+    "delimiter" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "hideLabels" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "displayInline" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "maxLinesPerValue" : {
+      "type" : "JSON_LITERAL",
+      "value" : 1
+    },
+    "rowsBeforeToggleShown" : {
+      "type" : "JSON_LITERAL",
+      "value" : "5"
+    }
+  },
+  "eventMappings" : [ {
+    "eventMappingId" : "ckmeeaaqhhaddaaaagffddhhhuiihhipffgmf",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "sn_now_record_side.NOW_DISPLAY_VALUE_BLOCK#LINK_CLICKED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "sn_now_record_side.NOW_DISPLAY_VALUE_BLOCK#LINK_CLICKED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : {
+        "sysId" : "1877530ba1c3c1107f449182c2d2a162"
+      },
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : null,
+      "operation" : null,
+      "targetId" : "ckmeeaaqhhaddaaaagggddhhhuyoafbbiibbaa",
+      "type" : "CLIENT_SCRIPT"
+    } ]
+  } ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "c573bd7eec7d763a1009669c8c97825c",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "CLIENT_TRANSFORM_SCRIPT",
+    "script" : {
+      "apiVersion" : "1.0.0",
+      "inlineScript" : "/** * @param {params} params * @param {api} params.api * @param {any} params.imports */ function evaluateProperty({api}) { const loc = api.context.app.record_secondary_values_location; if (typeof loc === 'undefined') { loc = 'sidebar'; } return (loc !== 'sidebar') || (api.context.props.recordSecondaryItems.length &lt; 1) || api.state.isLoading; }",
+      "scriptSysId" : null
+    }
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : {
+    "border-radius" : "var(--now-card--border-radius)",
+    "background" : "RGB(var(--now-color--background-primary))",
+    "border-width" : "var(--now-card--border-width)",
+    "border-style" : "solid",
+    "border-color" : "RGB(var(--now-container--border-color))",
+    "padding" : "var(--now-static-space--lg)",
+    "margin-right" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))",
+    "margin-left" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))",
+    "box-shadow" : "var(--now-static-drop-shadow--sm)"
+  }
+}, {
+  "elementId" : "ribbon",
+  "elementLabel" : "Ribbon",
+  "propertyValues" : {
+    "table" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "ribbonConfig", "table" ],
+        "category" : "props"
+      }
+    },
+    "sysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "ribbonConfig", "sysId" ],
+        "category" : "props"
+      }
+    },
+    "widgets" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "ribbonConfig", "widgets" ],
+        "category" : "props"
+      }
+    },
+    "active" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "isVisible" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "collapsed" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "orientation" : {
+      "type" : "JSON_LITERAL",
+      "value" : "vertical"
+    },
+    "isOpenframeConfigValid" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "isOpenFrameConfigValid" ],
+        "category" : "props"
+      }
+    },
+    "transparentBackground" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "70384114ef8d8eb4f9f5566feb0064e8",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "CLIENT_TRANSFORM_SCRIPT",
+    "script" : {
+      "apiVersion" : "1.0.0",
+      "inlineScript" : "/** * @param {params} params * @param {api} params.api * @param {any} params.imports */ function evaluateProperty({api}) { const loc = api.context.app.ribbonLocation; if (typeof loc === 'undefined') { loc = 'sidebar'; } return (loc !== 'sidebar') || (api.context.app.ribbonLocation !== 'sidebar') || (typeof api.context.app.ribbonConfigId === 'undefined') || api.state.isLoading; }",
+      "scriptSysId" : null
+    }
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : {
+    "padding-right" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))",
+    "padding-left" : "calc(var(--now-scale-space--xl, 1) * var(--now-static-space--xl))"
+  }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{
+  "MACROPONENT_PROPERTY_CHANGED" : [ {
+    "broker" : null,
+    "clientScript" : {
+      "sysId" : "9077530ba1c3c1107f449182c2d2a15e"
+    },
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : null,
+    "targetId" : "ckoccfffddhuaaaahhjjddghhtiigghhwbddaabb",
+    "type" : "CLIENT_SCRIPT"
+  } ],
+  "MACROPONENT_READY" : [ {
+    "broker" : null,
+    "clientScript" : {
+      "sysId" : "9077530ba1c3c1107f449182c2d2a15e"
+    },
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : null,
+    "targetId" : "ckmeeaaljjiiaaaaaadaaddhhhuumqoxeeoz",
+    "type" : "CLIENT_SCRIPT"
+  }, {
+    "broker" : null,
+    "clientScript" : {
+      "sysId" : "9877530ba1c3c1107f449182c2d2a15a"
+    },
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : null,
+    "targetId" : "cksgglhhhhfaaaaaaggffddhiicldiiyddffmq",
+    "type" : "CLIENT_SCRIPT"
+  } ]
+}</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"slotName":"Main","rules":{"grid-area":"main"},"styles":{"display":"flex","flex-direction":"column"}}],
+    "root" : null,
+    "rules" : {"grid-template-rows":"minmax(400px,auto)","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+    "styles" : null,
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",
+    "type" : "grid"
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Record Information</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "isOpenFrameConfigValid",
+  "label" : "isOpenFrameConfigValid",
+  "fieldType" : "boolean",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : "",
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "recordSecondaryItems",
+  "label" : "recordSecondaryItems",
+  "fieldType" : "json",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : "",
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "ribbonConfig",
+  "label" : "ribbonConfig",
+  "fieldType" : "json",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : "",
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ {
+  "message" : "Loading...",
+  "comment" : ""
+}, {
+  "message" : "Overview",
+  "comment" : ""
+}, {
+  "message" : "Record Information",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ {
+  "name" : "displayBlockItems",
+  "label" : "displayBlockItems",
+  "fieldType" : "json",
+  "valueType" : "json",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : [ ]
+  }
+}, {
+  "name" : "isLoading",
+  "label" : "isLoading",
+  "fieldType" : "boolean",
+  "valueType" : "boolean",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  }
+} ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:14:29</sys_created_on>
+        <sys_id>5877530ba1c3c1107f449182c2d2a133</sys_id>
+        <sys_name>Record Information</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_macroponent_5877530ba1c3c1107f449182c2d2a133</sys_update_name>
+    </sys_ux_macroponent>
+</record_update>

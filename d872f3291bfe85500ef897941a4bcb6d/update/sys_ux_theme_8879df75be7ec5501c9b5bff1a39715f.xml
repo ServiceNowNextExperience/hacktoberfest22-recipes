@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Recipe Theme</name>
+        <parent display_value="Default">a309795273230010fd843c78caf6a724</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8879df75be7ec5501c9b5bff1a39715f</sys_id>
+        <sys_name>Recipe Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_theme_8879df75be7ec5501c9b5bff1a39715f</sys_update_name>
+        <theme>{&#13;
+    "--now-form-field--scale-size-block": "2",&#13;
+    "--now-color--primary-0": "134,237,120",&#13;
+    "--now-button--bare_secondary--color": "134,237,120",&#13;
+    "--now-color--primary-1": "03,45,66",&#13;
+    "--now-button--primary--background-color": "03,45,66",&#13;
+    "--now-color--neutral-3": "219,219,219"&#13;
+}</theme>
+    </sys_ux_theme>
+</record_update>

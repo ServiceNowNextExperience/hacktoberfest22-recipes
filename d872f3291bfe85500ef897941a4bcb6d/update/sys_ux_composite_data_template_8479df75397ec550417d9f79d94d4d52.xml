@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template">
+    <sys_ux_composite_data_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Popular articles template</name>
+        <sys_class_name>sys_ux_composite_data_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:08</sys_created_on>
+        <sys_id>8479df75397ec550417d9f79d94d4d52</sys_id>
+        <sys_name>Popular articles template</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_8479df75397ec550417d9f79d94d4d52</sys_update_name>
+        <template>{&#13;
+	"component": "now-card-evam-content",&#13;
+    "staticValues": {&#13;
+		"detailLabelOne": {&#13;
+            "translatable": true,&#13;
+            "key": "Views"&#13;
+        },&#13;
+        "subtitleImageType": {&#13;
+            "translatable": false,&#13;
+            "key": "avatar"&#13;
+        },&#13;
+        "detailLabelTwo": {&#13;
+            "translatable": true,&#13;
+            "key": "Rating"&#13;
+        }&#13;
+	},&#13;
+	"mappings": {&#13;
+		"titleLabel": "short_description",&#13;
+		"subtitleAvatarName": "author.name",&#13;
+        "subtitleAvatarURL": "author.avatar",&#13;
+        "subtitle": "author.name",&#13;
+		"summary": "description",&#13;
+        "detailValueOne": "sys_view_count",&#13;
+        "detailValueTwo": "rating"&#13;
+	},&#13;
+       "actionMappings": {&#13;
+               "clickAction": "navigation"&#13;
+       }&#13;
+}&#13;
+</template>
+    </sys_ux_composite_data_template>
+</record_update>

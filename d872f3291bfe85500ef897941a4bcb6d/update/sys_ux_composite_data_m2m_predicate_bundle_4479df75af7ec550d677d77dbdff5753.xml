@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">4079df75ba7ec5501ac85ef60cba3155</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">8079df751c7ec550fcc628cb03da6753</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:10</sys_created_on>
+        <sys_id>4479df75af7ec550d677d77dbdff5753</sys_id>
+        <sys_name/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_4479df75af7ec550d677d77dbdff5753</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

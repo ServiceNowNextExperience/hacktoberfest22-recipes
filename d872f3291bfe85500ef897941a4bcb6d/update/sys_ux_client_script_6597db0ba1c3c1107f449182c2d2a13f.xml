@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Consume">ed97db0ba1c3c1107f449182c2d2a128</macroponent>
+        <name>Consume</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+function handler({api, event, helpers, imports}) {
+    var selectedQuantity = api.state.quantity;
+    var user = api.state.user;
+    var asset = api.state.asset;
+    var stockroom = api.state.stockroom;
+    var sysId = api.context.props.sysId;
+
+    var availableQuantity = parseInt(api.data.look_up_consumable_record.result.quantity.value, 10);
+
+    // Verify quantity
+    var quantityCheckPassed = true;
+    if (!selectedQuantity || isNaN(selectedQuantity)) {
+        helpers.translate("Please enter a non-zero number for quantity").then(
+            (value) => {
+                api.setState("errorMessage", value);
+            }
+        );
+        quantityCheckPassed = false;
+    } else {
+        selectedQuantity = parseInt(selectedQuantity, 10);
+
+        if (selectedQuantity < 1) {
+            helpers.translate("Please enter a non-zero number for quantity").then(
+                (value) => {
+                    api.setState("errorMessage", value);
+                }
+            );
+            quantityCheckPassed = false;
+        } else if (selectedQuantity > availableQuantity) {
+            helpers.translate("Please enter a quantity less than or equal to quantity in stock").then(
+                (value) => {
+                    api.setState("errorMessage", value);
+                }
+            );
+            quantityCheckPassed = false;
+        }
+    }
+
+    if (!quantityCheckPassed) { return; }
+
+    // Verify if asset/user has been provided
+    var assetUserCheckPassed = true;
+    if (!asset && !user) {
+        helpers.translate("Please select an asset/user to attach the consumed items to").then(
+            (value) => {
+                api.setState("errorMessage", value);
+            }
+        );
+        assetUserCheckPassed = false;
+    }
+
+    if (!assetUserCheckPassed) { return; }
+
+    api.data.consume.execute({
+        "quantity": selectedQuantity,
+        "user": user,
+        "asset": asset,
+        "stockroom": stockroom,
+        "sysId": sysId
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:15:08</sys_created_on>
+        <sys_id>6597db0ba1c3c1107f449182c2d2a13f</sys_id>
+        <sys_name>Consume</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_6597db0ba1c3c1107f449182c2d2a13f</sys_update_name>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

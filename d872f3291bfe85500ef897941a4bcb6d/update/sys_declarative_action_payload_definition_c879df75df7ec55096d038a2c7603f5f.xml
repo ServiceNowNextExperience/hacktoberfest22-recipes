@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_definition">
+    <sys_declarative_action_payload_definition action="INSERT_OR_UPDATE">
+        <action_key>MY_TASK_REJECT_ACTION</action_key>
+        <applicable_to>035d270073151010c342d5fdbdf6a715</applicable_to>
+        <description/>
+        <label>Reject</label>
+        <payload_field_table>var__m_sys_declarative_action_payload_field_c879df75df7ec55096d038a2c7603f5f</payload_field_table>
+        <payload_template>{&#13;
+        "table": "{{table}}",&#13;
+        "sysId": "{{sys_id}}"&#13;
+}</payload_template>
+        <sys_class_name>sys_declarative_action_payload_definition</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:10</sys_created_on>
+        <sys_id>c879df75df7ec55096d038a2c7603f5f</sys_id>
+        <sys_name>Reject</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_definition_c879df75df7ec55096d038a2c7603f5f</sys_update_name>
+    </sys_declarative_action_payload_definition>
+</record_update>

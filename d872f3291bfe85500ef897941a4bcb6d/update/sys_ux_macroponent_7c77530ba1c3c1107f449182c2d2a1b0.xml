@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "mra_content_1",
+  "elementLabel" : "Mult-record Associator content",
+  "propertyValues" : {
+    "userGivenTable" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "userGivenTable" ],
+        "category" : "props"
+      }
+    },
+    "table" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "table" ],
+        "category" : "props"
+      }
+    },
+    "label" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "label" ],
+        "category" : "props"
+      }
+    },
+    "parentRecordSysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "parentRecordSysId" ],
+        "category" : "props"
+      }
+    },
+    "parentFieldName" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "parentFieldName" ],
+        "category" : "props"
+      }
+    },
+    "referencedFieldName" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "referencedFieldName" ],
+        "category" : "props"
+      }
+    },
+    "extensionPoint" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "extensionPoint" ],
+        "category" : "props"
+      }
+    },
+    "view" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "view" ],
+        "category" : "props"
+      }
+    },
+    "columns" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "columns" ],
+        "category" : "props"
+      }
+    },
+    "hideSelectAll" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "hideSelectAll" ],
+        "category" : "props"
+      }
+    },
+    "type" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "type" ],
+        "category" : "props"
+      }
+    }
+  },
+  "eventMappings" : [ {
+    "eventMappingId" : "ckfshsxhmaaaaddjddhhhddqbbvyggoiidd",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "global.SN_MULTI_RECORD_ASSOCIATOR_CONTENT#ADD_SELECTED_SUCCEEDED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "global.SN_MULTI_RECORD_ASSOCIATOR_CONTENT#ADD_SELECTED_SUCCEEDED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "global.MODAL_SELECTED_RELAY_6413351eff67501035be517f793bf1d2",
+        "payload" : {
+          "type" : "JSON_LITERAL",
+          "value" : {
+            "modalId" : null,
+            "showModal" : false,
+            "displayOptions" : null
+          }
+        },
+        "sysId" : null
+      },
+      "operation" : null,
+      "targetId" : "ckfsixyauaaaaddvddhhhddebbddzsvoj",
+      "type" : "EVENT"
+    }, {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "global.RELATED_LIST_REFRESH_REQUESTED_RELAY_6413351eff67501035be517f793bf1d2",
+        "payload" : {
+          "type" : "MAP_CONTAINER",
+          "container" : {
+            "relatedListName" : {
+              "type" : "CONTEXT_BINDING",
+              "binding" : {
+                "address" : [ "relatedListName" ],
+                "category" : "props"
+              }
+            }
+          }
+        },
+        "sysId" : null
+      },
+      "operation" : null,
+      "targetId" : "xyauaadebbddzsaaddvdckfsidhhhdvoj",
+      "type" : "EVENT"
+    } ]
+  }, {
+    "eventMappingId" : "ckfxzlqtiaaaahhrddhhhddeehjjddyyygg",
+    "isConfiguration" : false,
+    "offRowStorageId" : null,
+    "sourceEventApiName" : "global.SN_MULTI_RECORD_ASSOCIATOR_CONTENT#CANCEL_REQUESTED",
+    "sourceEventCorrelationId" : null,
+    "sourceEventDefinition" : {
+      "apiName" : "global.SN_MULTI_RECORD_ASSOCIATOR_CONTENT#CANCEL_REQUESTED",
+      "id" : null,
+      "type" : "UXEVENT"
+    },
+    "sourceEventSysId" : null,
+    "targets" : [ {
+      "broker" : null,
+      "clientScript" : null,
+      "conditional" : null,
+      "declarativeAction" : null,
+      "event" : {
+        "apiName" : "global.MODAL_SELECTED_RELAY_6413351eff67501035be517f793bf1d2",
+        "payload" : {
+          "type" : "JSON_LITERAL",
+          "value" : {
+            "modalId" : null,
+            "showModal" : false,
+            "displayOptions" : null
+          }
+        },
+        "sysId" : null
+      },
+      "operation" : null,
+      "targetId" : "ckfxzlqtiaaaahhsddhhhddggajccbboeeq",
+      "type" : "EVENT"
+    } ]
+  } ],
+  "slot" : "Main",
+  "definition" : {
+    "id" : "339ba596ff67501035be517f793bf11c",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "isNonDestructive" : false,
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events>3c79bf2aff6f501035be517f793bf10a,5581c8e0537f101035beddeeff7b1242</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"slotName":"Main","rules":{"grid-area":"main"},"styles":{"display":"flex","flex-direction":"column"}}],
+    "root" : null,
+    "rules" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+    "styles" : null,
+    "templateId" : null,
+    "type" : "grid"
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>DA Modal Multi-Record Associator</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "userGivenTable",
+  "label" : "userGivenTable",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "table",
+  "label" : "table",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "label",
+  "label" : "label",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "parentRecordSysId",
+  "label" : "parentRecordSysId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "parentFieldName",
+  "label" : "parentFieldName",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "referencedFieldName",
+  "label" : "referencedFieldName",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "extensionPoint",
+  "label" : "extensionPoint",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "view",
+  "label" : "view",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "columns",
+  "label" : "columns",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "hideSelectAll",
+  "label" : "hideSelectAll",
+  "fieldType" : "boolean",
+  "typeMetadata" : null,
+  "valueType" : "boolean",
+  "mandatory" : false,
+  "defaultValue" : false,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "type",
+  "label" : "type",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "relatedListName",
+  "label" : "relatedListName",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : "Identifier for the Related List tab that popped this modal",
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:14:31</sys_created_on>
+        <sys_id>7c77530ba1c3c1107f449182c2d2a1b0</sys_id>
+        <sys_name>DA Modal Multi-Record Associator</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_macroponent_7c77530ba1c3c1107f449182c2d2a1b0</sys_update_name>
+    </sys_ux_macroponent>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes>58d17acf0b531010a8b1c96237673a68</includes>
+        <macroponent display_value="Agent assist">7f875b0ba1c3c1107f449182c2d2a133</macroponent>
+        <name>agentAssistOpenRecordRouteMapping</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[function handler({
+    api,
+    helpers,
+    event,
+    imports
+}) {
+    const {
+        routeMapping,
+        buildDefaultRoutePayload
+    } = imports["global.recordRoutesMapping"]();
+
+    var route = 'record';
+    var targetRoute = 'current';
+    const defaultRoutePayload = buildDefaultRoutePayload(route, targetRoute, event);
+    
+    const routeMap = api.data.dynamic_routing_agent_assist.routeMap;
+    const payload = routeMapping(routeMap, defaultRoutePayload, event);
+
+    const {
+        emit
+    } = api;
+    emit('NAV_ITEM_SELECTED', payload);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:15:01</sys_created_on>
+        <sys_id>4c975b0ba1c3c1107f449182c2d2a141</sys_id>
+        <sys_name>agentAssistOpenRecordRouteMapping</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_4c975b0ba1c3c1107f449182c2d2a141</sys_update_name>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

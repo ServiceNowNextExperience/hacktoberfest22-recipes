@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Recipe DB">4879df75de7ec550cdffa24f0f76c440</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">8479df753e7ec5500591cb2b84265f58</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4c79df75f07ec550c33162408db1fd42</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_page_property_4c79df75f07ec550c33162408db1fd42</sys_update_name>
+        <type>json</type>
+        <unique_name>x_snc_recipe_db.4879df75de7ec550cdffa24f0f76c440.route.chrome_header.8479df753e7ec5500591cb2b84265f58</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c79df75f07ec550c33162408db1fd42"/>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Recipe">4d71937d1b3ec5500ef897941a4bcbcc</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-12 14:20:14</sys_created_on>
+        <sys_id>c1715b7d1b3ec5500ef897941a4bcbeb</sys_id>
+        <sys_name>Service Catalog.New Recipe</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c1715b7d1b3ec5500ef897941a4bcbeb</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>

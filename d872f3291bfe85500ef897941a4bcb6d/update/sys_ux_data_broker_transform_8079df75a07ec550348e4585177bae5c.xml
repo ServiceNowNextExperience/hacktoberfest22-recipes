@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_snc_recipe_db.Data row evam broker - My Tasks</api_name>
+        <description>Used to transform EVAM data to fit design of custom portal data row cards.</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Data row evam broker - My Tasks</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[&#13;
+  {&#13;
+    "name": "evambroker",&#13;
+    "label": "EVAM Broker",&#13;
+    "fieldType": "json",&#13;
+    "valueType": "object",&#13;
+    "readOnly": false,&#13;
+    "mandatory": true,&#13;
+    "description": "Graphql Query Output"&#13;
+  }&#13;
+]&#13;
+</props>
+        <required_translations>[{"message":"EVAM Broker","comment":""},{"message":"Graphql Query Output","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	for(var i = 0; i < input.evambroker.items.length; i++){
+		var model = input.evambroker.items[i].propValues;
+		var currDate = new GlideDate();
+		var dueDate = new GlideDate();
+		dueDate.setValue(model.model.due_date);
+		if(model.model.due_date != ""){
+				model.highlightedHeaderLabel = gs.getMessage("Approval due: {0}", dueDate);
+				if(currDate.getDisplayValue() > dueDate.getDisplayValue()){
+					model.highlightedHeaderBkgColor = "critical";
+					model.highlightedHeaderLabel = gs.getMessage("Approval overdue: {0}", dueDate);
+				}
+		}
+		model.title = gs.getMessage("Approval Request: {0}", model.title);
+		if(model.model.table == "sc_req_item"){
+			if(model.model.recurring_frequency != null){
+				model.subtitle = model.subtitle + " + " + model.model.recurring_price + " " + model.model.recurring_frequency;
+			}
+		}
+    if(model.model.sys_created_on != null){
+			var createdDate = new GlideDate();
+			createdDate.setValue(model.model.sys_created_on);
+			model.detailValueOne = createdDate.toString();
+		}
+	}
+	return input;
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:09</sys_created_on>
+        <sys_id>8079df75a07ec550348e4585177bae5c</sys_id>
+        <sys_name>Data row evam broker - My Tasks</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_8079df75a07ec550348e4585177bae5c</sys_update_name>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=8079df75a07ec550348e4585177bae5c"/>
+</record_update>

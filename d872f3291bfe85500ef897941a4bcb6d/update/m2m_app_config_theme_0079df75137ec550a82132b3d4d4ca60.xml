@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">0879df75197ec55071e22051fb31d45f</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0079df75137ec550a82132b3d4d4ca60</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_0079df75137ec550a82132b3d4d4ca60</sys_update_name>
+        <theme display_value="Recipe Theme">8879df75be7ec5501c9b5bff1a39715f</theme>
+        <ux_app_configuration display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

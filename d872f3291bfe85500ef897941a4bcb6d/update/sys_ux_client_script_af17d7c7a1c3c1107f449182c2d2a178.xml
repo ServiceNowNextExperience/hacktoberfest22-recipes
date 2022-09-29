@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">6e179b47a1c3c1107f449182c2d2a1c2</macroponent>
+        <name>Launch Special Handling Notes</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Special handling notes",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[async function handler({
+    api,
+    helpers,
+    event,
+    imports
+}) {
+   const {
+    snHttp,
+    modal,
+    screen
+} = helpers;
+
+    var SHNOutput = api.data.get_special_handling_notes.output.data.GlideSHN_Query;
+    var showModal = SHNOutput && SHNOutput.totalMsg > 0;
+
+    if (api.state.specialHandlingNotesDisplayed)    return;
+
+    if (showModal && api.context.props.screen.isActive) {
+        api.emit('RECORD#OPEN_MODAL', {
+            "route": "shn",
+            "fields": {
+                "confs": SHNOutput,
+                "table": api.context.props.table,
+                "sysId": api.context.props.sysId
+            },
+            "ariaLabel": await helpers.translate("Special handling notes")
+        });
+        api.setState("specialHandlingNotesDisplayed", true);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:13:05</sys_created_on>
+        <sys_id>af17d7c7a1c3c1107f449182c2d2a178</sys_id>
+        <sys_name>Launch Special Handling Notes</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_af17d7c7a1c3c1107f449182c2d2a178</sys_update_name>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

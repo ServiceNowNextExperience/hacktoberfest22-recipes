@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckiveehhefftaaaabbddddgiijjohhfhwyzx",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_uib_base_aw.GFORM_EXECUTE_UI_ACTION_RELAY_195fd4970f0210107d20409dc4767e0a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_uib_base_aw.GFORM_EXECUTE_UI_ACTION_RELAY_195fd4970f0210107d20409dc4767e0a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "EXECUTE_UI_ACTION",
+      "parentResourceId" : "gform",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "actionSysId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "actionSysId" ]
+            }
+          }
+        }
+      }
+    },
+    "targetId" : "ckiveehhefftaaaabbeeddgiijjjjdherdiix",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckgaadhhiggjaaaaaazddhhhctjjvffyafe",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_uib_base_aw.GFORM_SAVE_RELAY_195fd4970f0210107d20409dc4767e0a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_uib_base_aw.GFORM_SAVE_RELAY_195fd4970f0210107d20409dc4767e0a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SAVE",
+      "parentResourceId" : "gform",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckgaadhhiggjaaaabbaaddhhhceeeoebiiccy",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckfrheeucccaaaabbaaddhhhauddkjcvkbb",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_uib_base_aw.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_195fd4970f0210107d20409dc4767e0a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_uib_base_aw.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_195fd4970f0210107d20409dc4767e0a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "items" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "items" ]
+            }
+          }
+        }
+      },
+      "sysId" : "49fe7d575f983bb3f8eea3fa8d40694c"
+    },
+    "operation" : null,
+    "targetId" : "ckfrheeucccaaaaaazddhhhaffyziccpqs",
+    "type" : "EVENT"
+  } ]
+}, {
+  "eventMappingId" : "ckfninrqbaaaaaazddhhharnggdffffiih",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_uib_base_aw.GFORM_SET_VALUE_RELAY_195fd4970f0210107d20409dc4767e0a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_uib_base_aw.GFORM_SET_VALUE_RELAY_195fd4970f0210107d20409dc4767e0a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SET_VALUE",
+      "parentResourceId" : "gform",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "fieldName" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fieldName" ]
+            }
+          },
+          "value" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "value" ]
+            }
+          },
+          "displayValue" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayValue" ]
+            }
+          }
+        }
+      }
+    },
+    "targetId" : "ckfninrqbaaaabbaaddhhhakffbbmubbfjj",
+    "type" : "DATABROKER_OP"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Agent assist">7f875b0ba1c3c1107f449182c2d2a133</macroponent>
+        <macroponent_config>{
+  "isNewRecord" : "@data.gform.nowRecordFormBlob.isNewRecord",
+  "fields" : "@data.gform.nowRecordFormBlob.fields",
+  "sysId" : "@data.gform.nowRecordFormBlob.sysId",
+  "table" : "@data.gform.nowRecordFormBlob.table",
+  "cxsTableConfig" : "e15061a4b30303002bf182c136a8dc34",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : true,
+  "views" : "workspace",
+  "selectedTabIndex" : 0,
+  "headingOnlyVisibleToScreenReaders" : false
+}</macroponent_config>
+        <name>Agent assist incident</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">3e671fc7a1c3c1107f449182c2d2a194</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>parent.table=incident</screen_condition>
+        <screen_type display_value="Edit Recipe default Agent assist">77875b0ba1c3c1107f449182c2d2a118</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:15:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb875b0ba1c3c1107f449182c2d2a135</sys_id>
+        <sys_name>Agent assist incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_screen_bb875b0ba1c3c1107f449182c2d2a135</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb875b0ba1c3c1107f449182c2d2a135"/>
+</record_update>

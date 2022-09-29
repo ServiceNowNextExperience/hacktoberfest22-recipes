@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">0879df75197ec55071e22051fb31d45f</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">0479df750a7ec550317dce8029d5385a</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-12 14:55:10</sys_created_on>
+        <sys_id>8479df75587ec5501ad9fc20781bb55a</sys_id>
+        <sys_name/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_8479df75587ec5501ad9fc20781bb55a</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

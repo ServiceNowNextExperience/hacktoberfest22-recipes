@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Record">3e671fc7a1c3c1107f449182c2d2a194</macroponent>
+        <macroponent_config>{
+  "views" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "selectedTabIndex" : {
+    "type" : "JSON_LITERAL",
+    "value" : 0
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Edit Recipe default - 3.0.0 preview.</name>
+        <order>9999</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen display_value="Edit Recipe default">aa179b47a1c3c1107f449182c2d2a1c5</rollback_screen>
+        <screen_condition/>
+        <screen_type display_value="Edit Recipe">ee179b47a1c3c1107f449182c2d2a1bd</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:14:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa67dfc7a1c3c1107f449182c2d2a18e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit Recipe default - 3.0.0 preview.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_screen_fa67dfc7a1c3c1107f449182c2d2a18e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 22:15:19</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=fa67dfc7a1c3c1107f449182c2d2a18e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</application>
+        <file_path/>
+        <instance_id>306a5bd61b4f0910637120622a4bcbfe</instance_id>
+        <instance_name>CCL1072-K22-apr26brt-001-instructor</instance_name>
+        <name>sys_ux_screen_fa67dfc7a1c3c1107f449182c2d2a18e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Record">3e671fc7a1c3c1107f449182c2d2a194</macroponent><macroponent_config>{
+  "views" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "selectedTabIndex" : {
+    "type" : "JSON_LITERAL",
+    "value" : 0
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Edit Recipe default - 3.0.0 preview.</name><order>9999</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen display_value="Edit Recipe default">aa179b47a1c3c1107f449182c2d2a1c5</rollback_screen><screen_condition/><screen_type display_value="Edit Recipe">ee179b47a1c3c1107f449182c2d2a1bd</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-28 22:14:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fa67dfc7a1c3c1107f449182c2d2a18e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Edit Recipe default - 3.0.0 preview.</sys_name><sys_overrides/><sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package><sys_policy/><sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope><sys_update_name>sys_ux_screen_fa67dfc7a1c3c1107f449182c2d2a18e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-28 22:15:19</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=fa67dfc7a1c3c1107f449182c2d2a18e"/></record_update>]]></payload>
+        <payload_hash>305826037</payload_hash>
+        <record_name>Edit Recipe default - 3.0.0 preview.</record_name>
+        <reverted_from/>
+        <source>e1e7ef96a18301107f449182c2d2a16d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:15:19</sys_created_on>
+        <sys_id>d4a79f0ba1c3c1107f449182c2d2a17b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180723e2f3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 22:15:19</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>10a79f0b27c3c1108dbf118474b41e7b</update_guid>
+        <update_guid_history>10a79f0b27c3c1108dbf118474b41e7b:305826037,b267dfc74cc3c11086e739b7f0dce491:828444445</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 22:16:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>5ba74dde9230467fbb9200cc136ae0a1</sys_id>
+        <sys_metadata>fa67dfc7a1c3c1107f449182c2d2a18e</sys_metadata>
+        <sys_name>Edit Recipe default - 3.0.0 preview.</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_fa67dfc7a1c3c1107f449182c2d2a18e</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_fa67dfc7a1c3c1107f449182c2d2a18e">d4a79f0ba1c3c1107f449182c2d2a17b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
