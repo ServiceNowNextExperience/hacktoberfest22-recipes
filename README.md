@@ -5,3 +5,21 @@ Let's enhance a simple, two-page recipe portal that lets you search and view rec
 🔔🔔🔔<br>
 ***CONTRIBUTORS must follow all guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)*** or run the risk of having your Pull Requests labeled as spam.<br>
 🔔🔔🔔
+
+## Getting started
+
+1. Fork this repo
+2. Go to your ServiceNow instance
+3. Go to `System Applications` => `Studio`
+4. Once Studio loads, select `Import From Source Control`
+5. Use your forked repo to [Import your application](https://developer.servicenow.com/dev.do#!/learn/learning-plans/quebec/new_to_servicenow/app_store_learnv2_devenvironment_quebec_importing_an_application_from_source_control)
+6. Make updates to the application
+7. In Studio, commit your changes to source control
+8. Submit a pull request to the ServiceNowNextExperience/hacktoberfest22-recipes
+ `main` branch
+
+### The Recipe DB
+
+Once imported, you can view the experience by going to https://`your_instance_name`.service-now.com/now/recipe-db/
+
+![Recipe DB Example](recipedb.png)
