@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ratings" max_length="40" name="x_snc_recipe_db_ratings" type="collection">
+        <element label="Comment" max_length="500" name="comment" type="string"/>
+        <element label="Rating" max_length="40" name="rating" type="integer"/>
+        <element label="Recipe" max_length="32" name="recipe" reference="x_snc_recipe_db_recipe" type="reference"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="recipe"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
