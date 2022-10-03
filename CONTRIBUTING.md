@@ -21,6 +21,10 @@ See the Issues tab for parser ideas. Make sure to leave a comment on an issue if
 7. In Studio, commit your changes to source control
 8. Submit a pull request to the ServiceNowNextExperience/hacktoberfest22-recipes
  `main` branch
+ 
+## Existing pages
+
+If you are trying to make changes to an existing page, instead of directly editing the page, duplicate the page into a new variant and make your changes in the variant. Do not edit existing pages!
 
 ## Recipes are enough!
 
