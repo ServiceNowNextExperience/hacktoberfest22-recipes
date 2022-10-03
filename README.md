@@ -4,7 +4,7 @@ Let's enhance a simple, two-page recipe portal that lets you search and view rec
 
 🔔🔔🔔<br>
 ***CONTRIBUTORS must follow all guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)*** or run the risk of having your Pull Requests labeled as spam.<br><br>
-*NEW: If you are trying to make changes to an existing page, instead of directly editing the page, duplicate the page into a new variant and make your changes in the variant. *Do not edit existing pages!*
+*NEW: If you are trying to make changes to an existing page, instead of directly editing the page, duplicate the page into a new variant and make your changes in the variant. **Do not edit existing pages!**<br>
 🔔🔔🔔
 
 ## Getting started
