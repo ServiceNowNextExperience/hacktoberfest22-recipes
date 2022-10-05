@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9ff1a99edb565110189272c7f496199b" label="Recipe Comment" max_length="40" name="x_snc_recipe_db_recipe_comment" type="collection">
+        <element label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
+        <element label="Comment" max_length="4000" name="comment" type="html"/>
+        <element label="Likes" max_length="40" name="likes" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_snc_recipe_db_recipe_comment" type="reference"/>
+        <element label="Recipe" max_length="32" name="recipe" reference="x_snc_recipe_db_recipe" type="reference"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+        <index name="index2">
+            <element name="parent"/>
+        </index>
+        <index name="index3">
+            <element name="recipe"/>
+        </index>
+    </element>
+</database>

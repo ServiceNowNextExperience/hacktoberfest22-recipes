@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_snc_recipe_db.Recipe Comments Transform</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Recipe Comments Transform</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{&#13;
+"name": "comments",&#13;
+"label": "Comments Object",&#13;
+"fieldType": "object",&#13;
+"mandatory": "true"&#13;
+}]</props>
+        <required_translations>[ {
+  "message" : "Comments Object",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+    var commentArray = input.comments;
+    var newCommentArray = [];
+
+
+    for (i = 0; i < commentArray.length; i++) {
+        var commentObj = commentArray[i];
+        var newCommentObj = {
+            "id": commentObj.sys_id.value,
+            "created": commentObj.sys_created_on.displayValue,
+            "text": commentObj.comment.value,
+            "parent": "",
+            "user": {
+                "name": commentObj.author.displayValue,
+                "id": commentObj.author.value,
+                "avatar": ""
+            },
+            "reactionCount": commentObj.likes.displayValue,
+            "isReacted": false,
+            "children": []
+        };
+
+        newCommentArray.push(newCommentObj);
+    }
+
+    return newCommentArray;
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 21:42:59</sys_created_on>
+        <sys_id>de82869edbd65110189272c7f4961900</sys_id>
+        <sys_name>Recipe Comments Transform</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_de82869edbd65110189272c7f4961900</sys_update_name>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=de82869edbd65110189272c7f4961900"/>
+</record_update>

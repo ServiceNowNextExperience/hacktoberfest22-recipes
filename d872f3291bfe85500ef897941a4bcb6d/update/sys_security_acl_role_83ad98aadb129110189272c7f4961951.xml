@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 08:49:57</sys_created_on>
+        <sys_id>83ad98aadb129110189272c7f4961951</sys_id>
+        <sys_name>x_snc_recipe_db_like.x_snc_recipe_db.user</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_security_acl display_value="x_snc_recipe_db_like">cfad98aadb129110189272c7f496194e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_83ad98aadb129110189272c7f4961951</sys_update_name>
+        <sys_user_role display_value="x_snc_recipe_db.user" name="x_snc_recipe_db.user">ba026d9edb565110189272c7f4961976</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
