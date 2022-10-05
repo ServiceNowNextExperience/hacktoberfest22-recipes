@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>600</order>
+        <published_ref/>
+        <question display_value="Quantity">039fce0e1b9211108d459758b04bcb9c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 03:53:09</sys_created_on>
+        <sys_id>3120d64e1b9211108d459758b04bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>question_choice_3120d64e1b9211108d459758b04bcb1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 03:53:09</sys_updated_on>
+        <text>5</text>
+        <value>5</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=3120d64e1b9211108d459758b04bcb1f"/>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event Item" max_length="40" name="x_snc_recipe_db_event_item" sizeclass="0" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activities" max_length="40" name="activities" type="journal"/>
+        <element label="Event" max_length="32" name="event" reference="x_snc_recipe_db_event" type="reference"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Participant" max_length="32" name="participant" reference="sys_user" type="reference"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Recipe" max_length="32" name="recipe" reference="x_snc_recipe_db_recipe" type="reference"/>
+        <element default="False" label="RSVP" max_length="40" name="rsvp" type="boolean"/>
+        <element choice="3" label="Stage" max_length="40" name="stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="2" value="confirmed"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+            </choice>
+        </element>
+        <element choice="2" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Food" sequence="0" value="food"/>
+                <element inactive_on_update="false" label="Utensils" sequence="1" value="utensils"/>
+                <element inactive_on_update="false" label="Supplies" sequence="2" value="supplies"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="recipe"/>
+        </index>
+        <index name="index2">
+            <element name="event"/>
+        </index>
+        <index name="index3">
+            <element name="participant"/>
+        </index>
+    </element>
+</database>

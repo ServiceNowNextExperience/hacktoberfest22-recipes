@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f3329ace1b9211108d459758b04bcbde" sys_domain="global" table="x_snc_recipe_db_event" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 04:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f329ace1b9211108d459758b04bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_recipe_db_event" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">f3329ace1b9211108d459758b04bcbde</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">c6ce7dca1b5211108d459758b04bcb80</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 04:02:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 04:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b329ace1b9211108d459758b04bcbe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_recipe_db_event" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">f3329ace1b9211108d459758b04bcbde</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">bb329ace1b9211108d459758b04bcb3a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 04:02:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 04:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff329ace1b9211108d459758b04bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_recipe_db_event" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">f3329ace1b9211108d459758b04bcbde</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">3b329ace1b9211108d459758b04bcb3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 04:02:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 04:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b329ace1b9211108d459758b04bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_recipe_db_event" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">f3329ace1b9211108d459758b04bcbde</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_recipe_db_event" sys_domain="global" view="Default view">3f329ace1b9211108d459758b04bcbdd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 04:02:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_recipe_db_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-04 04:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3329ace1b9211108d459758b04bcbde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_recipe_db_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f3329ace1b9211108d459758b04bcbde</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-04 04:02:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

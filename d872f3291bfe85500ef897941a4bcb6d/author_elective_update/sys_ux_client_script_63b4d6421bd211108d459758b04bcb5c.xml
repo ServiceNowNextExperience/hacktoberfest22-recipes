@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">d8ede8eea18701107f449182c2d2a147</macroponent>
+        <name>repeater_2_repeatWith</name>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return '';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 04:13:12</sys_created_on>
+        <sys_id>63b4d6421bd211108d459758b04bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>repeater_2_repeatWith</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_63b4d6421bd211108d459758b04bcb5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 04:13:12</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</application>
+        <file_path/>
+        <instance_id>a0da49d1db95bfc04d2bac44d49619f8</instance_id>
+        <instance_name>dev85714</instance_name>
+        <name>sys_ux_client_script_63b4d6421bd211108d459758b04bcb5c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;d8ede8eea18701107f449182c2d2a147&lt;/macroponent&gt;&lt;name&gt;repeater_2_repeatWith&lt;/name&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return '';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-04 04:13:12&lt;/sys_created_on&gt;&lt;sys_id&gt;63b4d6421bd211108d459758b04bcb5c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;repeater_2_repeatWith&lt;/sys_name&gt;&lt;sys_package display_value="Recipe DB" source="x_snc_recipe_db"&gt;d872f3291bfe85500ef897941a4bcb6d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Recipe DB"&gt;d872f3291bfe85500ef897941a4bcb6d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_63b4d6421bd211108d459758b04bcb5c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-04 04:13:12&lt;/sys_updated_on&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1085157256</payload_hash>
+        <record_name>repeater_2_repeatWith</record_name>
+        <reverted_from/>
+        <source>063628b91b9ad1108d459758b04bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 04:13:12</sys_created_on>
+        <sys_id>ebb4d6421bd211108d459758b04bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a1329f400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 04:13:12</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>67b4d642d9d21110a9a2d4ff3eb7ef5e</update_guid>
+        <update_guid_history>67b4d642d9d21110a9a2d4ff3eb7ef5e:-1085157256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 04:28:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>41dc1377769f4888830a22d3a777dc40</sys_id>
+        <sys_metadata>63b4d6421bd211108d459758b04bcb5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>repeater_2_repeatWith</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_63b4d6421bd211108d459758b04bcb5c</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_63b4d6421bd211108d459758b04bcb5c">ebb4d6421bd211108d459758b04bcb5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 04:28:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

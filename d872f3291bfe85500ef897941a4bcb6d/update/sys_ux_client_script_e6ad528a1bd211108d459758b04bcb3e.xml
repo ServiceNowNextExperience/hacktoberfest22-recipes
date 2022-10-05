@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">82ad128a1bd211108d459758b04bcbf3</macroponent>
+        <name>setSidebarRatio</name>
+        <required_translations/>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (event.payload.interaction === "USER_ACTION") {
+        const sidebarRatio = event.payload.dividerPosition;
+        const sidebarRatioPreference = api.state.sidebarRatioPreference;
+
+        api.setState('sidebarRatioSaved', sidebarRatio);
+
+        api.data.setSidebarRatioPreference.execute({
+            'name': sidebarRatioPreference,
+            'value': sidebarRatio
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 04:52:11</sys_created_on>
+        <sys_id>e6ad528a1bd211108d459758b04bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>setSidebarRatio</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_e6ad528a1bd211108d459758b04bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 04:52:11</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

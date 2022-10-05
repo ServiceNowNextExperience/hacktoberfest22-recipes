@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Schedule Event">4d6802461b9211108d459758b04bcb74</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 03:31:28</sys_created_on>
+        <sys_id>883bc20a1b9211108d459758b04bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Schedule Event</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sc_cat_item_category_883bc20a1b9211108d459758b04bcb40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 03:31:28</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</application>
+        <file_path/>
+        <instance_id>a0da49d1db95bfc04d2bac44d49619f8</instance_id>
+        <instance_name>dev85714</instance_name>
+        <name>sc_cat_item_category_883bc20a1b9211108d459758b04bcb40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Schedule Event">4d6802461b9211108d459758b04bcb74</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-04 03:31:28</sys_created_on><sys_id>883bc20a1b9211108d459758b04bcb40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Schedule Event</sys_name><sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package><sys_policy/><sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope><sys_update_name>sc_cat_item_category_883bc20a1b9211108d459758b04bcb40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-04 03:31:28</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>225220195</payload_hash>
+        <record_name>Services.Schedule Event</record_name>
+        <reverted_from/>
+        <source>063628b91b9ad1108d459758b04bcb8e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 03:31:28</sys_created_on>
+        <sys_id>0c3bc20a1b9211108d459758b04bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183a10c68380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 03:31:28</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>803bc20add9211105ded59c92997494b</update_guid>
+        <update_guid_history>803bc20add9211105ded59c92997494b:225220195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Schedule Event">6beb8e0a1b9211108d459758b04bcb85</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 03:34:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4fa3bcf55f354374aa1ed47b2967f084</sys_id>
+        <sys_metadata>883bc20a1b9211108d459758b04bcb40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Schedule Event</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_883bc20a1b9211108d459758b04bcb40</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_883bc20a1b9211108d459758b04bcb40">0c3bc20a1b9211108d459758b04bcb4b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 03:34:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

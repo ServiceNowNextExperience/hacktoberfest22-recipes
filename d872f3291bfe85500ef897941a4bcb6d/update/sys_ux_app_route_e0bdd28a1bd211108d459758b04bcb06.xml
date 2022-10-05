@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <fields>userGivenTable,table,label,parentRecordSysId,parentFieldName,referencedFieldName,extensionPoint,view,columns,hideSelectAll,type,relatedListName</fields>
+        <icon/>
+        <name>Event default DA Modal Multi-Record Associator</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">82ad128a1bd211108d459758b04bcbf3</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>mra</route_type>
+        <screen_type display_value="DA Modal Multi-Record Associator">5413351eff67501035be517f793bf1ce</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-04 04:52:19</sys_created_on>
+        <sys_id>e0bdd28a1bd211108d459758b04bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event default DA Modal Multi-Record Associator</sys_name>
+        <sys_package display_value="Agent Workspace - Declarative Actions" source="com.snc.agent_workspace.declarative_actions">e35c44bd21d20110a866589604c20d57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_app_route_e0bdd28a1bd211108d459758b04bcb06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-04 04:52:19</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0bdd28a1bd211108d459758b04bcb06"/>
+</record_update>

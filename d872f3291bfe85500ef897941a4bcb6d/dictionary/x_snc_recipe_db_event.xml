@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event" max_length="40" name="x_snc_recipe_db_event" sizeclass="1" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Activities" max_length="40" name="activities" type="journal"/>
+        <element label="Cost" max_length="40" name="cost" type="currency"/>
+        <element label="Description" max_length="40" name="description" type="html"/>
+        <element label="End" max_length="40" name="end" type="glide_date_time"/>
+        <element label="Flyer" max_length="40" name="flyer" type="user_image"/>
+        <element label="Host" max_length="32" name="host" reference="sys_user" type="reference"/>
+        <element label="Location" max_length="240" name="location" type="string"/>
+        <element display="true" label="Name" max_length="140" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Start" max_length="40" name="start" type="glide_date_time"/>
+        <element label="Theme" max_length="40" name="theme" type="string"/>
+        <element choice="3" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dinner" sequence="0" value="dinner"/>
+                <element inactive_on_update="false" label="Potluck" sequence="1" value="potluck"/>
+                <element inactive_on_update="false" label="BBQ" sequence="2" value="bbq"/>
+                <element inactive_on_update="false" label="Celebration" sequence="3" value="celebration"/>
+                <element inactive_on_update="false" label="Fundraiser" sequence="4" value="fundraiser"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="host"/>
+        </index>
+    </element>
+</database>
