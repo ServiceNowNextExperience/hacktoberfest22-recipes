@@ -4,7 +4,7 @@
         <documentkey>0484a19197de111050eabc7ef053af04</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
-        &lt;category/&gt;
+        &lt;category display_value="Main Course"&gt;c3c0c39e9712111050eabc7ef053af0a&lt;/category&gt;
         &lt;cook_time&gt;1970-01-01 01:00:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;ol style="list-style-position: inside;"&gt;&lt;li&gt;Cook the cod in a saucepan with water for 6 to 7 minutes. Turn off the heat and drain the cod with a skimmer. Let cool slightly and remove the skin and bones. Flake the cod with a fork and set aside.&lt;/li&gt;&lt;li&gt;Meanwhile, peel and wash the potatoes. Cut the potatoes into cubes, season with salt and fry in hot oil (don’t fry too much). Turn off the heat and place the potatoes on a dish with absorbent paper.&lt;/li&gt;&lt;li&gt;In a saucepan, add the olive oil, chopped onion and the chopped garlic. Sauté on a low heat until the onion start to turn slightly golden brown, stirring occasionally. Add the potatoes and the cod and season with pepper. Stir gently with a spoon and cook for 4 to 5 minutes, stirring occasionally.&lt;/li&gt;&lt;li&gt;Preheat the oven to 180ºC &lt;strong&gt;(350ºF)&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;In a bowl, combine the béchamel sauce, cream, lemon juice and nutmeg.&lt;/li&gt;&lt;li&gt;Place the potatoes and the cod mixture on a baking dish. Drizzle with the béchamel mixture and sprinkle with grated cheese. Bake until golden brown, about 35 to 40 minutes.&lt;/li&gt;&lt;li&gt;Turn off the oven and serve with lettuce and tomato salad.&lt;/li&gt;&lt;/ol&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;false&lt;/favorite&gt;
@@ -19,9 +19,9 @@
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-01 16:50:19&lt;/sys_created_on&gt;
         &lt;sys_id&gt;0484a19197de111050eabc7ef053af04&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
-        &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-01 17:02:50&lt;/sys_updated_on&gt;
+        &lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-06 07:52:13&lt;/sys_updated_on&gt;
         &lt;total&gt;1970-01-01 01:15:00&lt;/total&gt;
         &lt;url&gt;https://www.foodfromportugal.com/recipes/cod-cream/#jrecipe&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;

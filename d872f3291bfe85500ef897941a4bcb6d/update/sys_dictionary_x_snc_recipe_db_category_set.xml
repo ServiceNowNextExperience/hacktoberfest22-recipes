@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="category" table="x_snc_recipe_db_recipe">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="set" table="x_snc_recipe_db_category">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Category</column_label>
+        <column_label>Set</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,39 +21,37 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>category</element>
+        <element>set</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
-        <name>x_snc_recipe_db_recipe</name>
+        <max_length>40</max_length>
+        <name>x_snc_recipe_db_category</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_snc_recipe_db_category">x_snc_recipe_db_category</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual>set=course^EQ</reference_qual>
-        <reference_qual_condition table="x_snc_recipe_db_category">set=course^EQ<item endquery="false" field="set" goto="false" newquery="false" operator="=" or="false" value="course"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-11 22:25:45</sys_created_on>
-        <sys_name>Category</sys_name>
+        <sys_created_on>2022-10-06 07:48:48</sys_created_on>
+        <sys_name>Set</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_recipe_db_recipe_category</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_recipe_db_category_set</sys_update_name>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

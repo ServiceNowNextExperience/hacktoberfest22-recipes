@@ -4,7 +4,7 @@
         <documentkey>0bc8a59597de111050eabc7ef053afae</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
-        &lt;category/&gt;
+        &lt;category display_value="Main Course"&gt;c3c0c39e9712111050eabc7ef053af0a&lt;/category&gt;
         &lt;cook_time&gt;1970-01-01 00:35:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;ol style="list-style-position: inside;"&gt;&lt;li&gt;Cook the cod in a saucepan with water. When the cod is cooked, drain it, remove the skin and bones and flake it with a fork. Season with a little pepper and set aside.&lt;/li&gt;&lt;li&gt;Meanwhile, peel, wash the potatoes and cut them into thin sticks. Season with salt and fry them in hot oil. When they are fried, place them in a dish with absorbent paper. Whisk the egg in a bowl and set aside.&lt;/li&gt;&lt;li&gt;Place the olive oil, chopped onion and the chopped garlic in a saucepan and saute over low heat until the onion start to turn golden brown. Add the flaked cod, stir and cook for about 4 to 5 minutes, stirring occasionally. Then, add the fried potatoes and mix gently in the cod. Remove briefly the pan from heat and let cool slightly. Pour the beaten egg, mix well and place back the pan over low heat for more two to three minutes.&lt;/li&gt;&lt;li&gt;Turn off the heat and add the chopped coriander and the egg yolk. Mix and serve.&lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;/ol&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;true&lt;/favorite&gt;
@@ -19,9 +19,9 @@
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-01 17:08:31&lt;/sys_created_on&gt;
         &lt;sys_id&gt;0bc8a59597de111050eabc7ef053afae&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
-        &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-01 17:10:48&lt;/sys_updated_on&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-06 07:52:48&lt;/sys_updated_on&gt;
         &lt;total&gt;1970-01-01 00:50:00&lt;/total&gt;
         &lt;url&gt;https://www.foodfromportugal.com/recipes/cod-bras/#jrecipe&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
