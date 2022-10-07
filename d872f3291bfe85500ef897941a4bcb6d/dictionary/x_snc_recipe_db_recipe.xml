@@ -10,6 +10,7 @@
         <element display="true" label="Name" max_length="100" name="name" type="string"/>
         <element label="Notes" max_length="40" name="notes" type="journal"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Nutrition Information" max_length="8000" name="nutrition" type="html"/>
         <element attributes="edge_encryption_enabled=true" label="Prep time" max_length="40" name="prep_time" type="glide_duration"/>
         <element attributes="edge_encryption_enabled=true" label="Servings" max_length="40" name="servings" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Total" max_length="40" name="total" type="glide_duration"/>

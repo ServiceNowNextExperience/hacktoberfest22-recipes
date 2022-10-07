@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>2eb630961bcf41101363ff37dc4bcbe6</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c45b1bcf47161110a7a58c38c26d4375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>url</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>aeb630961bcf41101363ff37dc4bcbe6</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>485b1bcf47161110a7a58c38c26d4375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>22b630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c85b1bcf47161110a7a58c38c26d4375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>image</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>a2b630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>4c5b1bcf47161110a7a58c38c26d4375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>category</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>26b630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>cc5b1bcf47161110a7a58c38c26d4375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>favorite</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>a6b630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>405b1bcf47161110a7a58c38c26d4376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>2ab630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c05b1bcf47161110a7a58c38c26d4376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>number</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>aab630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>445b1bcf47161110a7a58c38c26d4376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>servings</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>2eb630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c45b1bcf47161110a7a58c38c26d4376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>prep_time</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>aeb630961bcf41101363ff37dc4bcbe7</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>4c5b1f4347561110a7a58c38c26d4306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>cook_time</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>22b630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>cc5b1f4347561110a7a58c38c26d4306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>total</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>a2b630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>405b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>.end_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>26b630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c05b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>information</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>a6b630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>445b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>ingredients</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>2ab630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c45b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,27 +214,41 @@
             <element>directions</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>aab630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>485b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nutrition</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>c85b1f4347561110a7a58c38c26d4307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>notes</element>
-            <position>16</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-04-26 02:36:51</sys_created_on>
-            <sys_id>2eb630961bcf41101363ff37dc4bcbe8</sys_id>
+            <sys_created_on>2022-10-07 11:55:27</sys_created_on>
+            <sys_id>4c5b1f4347561110a7a58c38c26d4307</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-04-26 02:36:51</sys_updated_on>
+            <sys_updated_on>2022-10-07 11:55:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
