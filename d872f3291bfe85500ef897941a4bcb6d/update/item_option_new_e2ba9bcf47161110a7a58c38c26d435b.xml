@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>nutrition</name>
-        <order/>
+        <order>1000</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -82,7 +82,7 @@
         <sys_update_name>item_option_new_e2ba9bcf47161110a7a58c38c26d435b</sys_update_name>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>23</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
