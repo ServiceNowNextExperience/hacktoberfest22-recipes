@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comment" label="Comment" language="en" table="x_snc_recipe_db_recipe_comment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <help/>
+            <hint/>
+            <label>Comment</label>
+            <language>en</language>
+            <name>x_snc_recipe_db_recipe_comment</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 19:50:05</sys_created_on>
+            <sys_name>Comment</sys_name>
+            <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_recipe_db_recipe_comment_comment_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
