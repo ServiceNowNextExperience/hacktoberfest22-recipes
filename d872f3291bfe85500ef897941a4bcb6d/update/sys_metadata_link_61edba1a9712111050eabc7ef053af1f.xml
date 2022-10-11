@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2c8b3a969712111050eabc7ef053affe</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
+    &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
+        &lt;category display_value="Dessert"&gt;c45c76d69712111050eabc7ef053af0c&lt;/category&gt;
+        &lt;cook_time&gt;1970-01-01 00:35:00&lt;/cook_time&gt;
+        &lt;directions&gt;&lt;![CDATA[&lt;ol style="list-style-position: inside;"&gt;&lt;li&gt;Preheat oven to 350 F / 180 C.&lt;/li&gt;&lt;li&gt;Beat the eggs at high speed for about 20 minutes, while incorporating the sugar gradually.&lt;/li&gt;&lt;li&gt;Then gently fold in the flour, previously mixed with the baking powder and the salt, then add the lemon zest.&lt;/li&gt;&lt;li&gt;Place in a lightly oiled round pan. Bake for 30 to 35 minutes.&lt;/li&gt;&lt;li&gt;Wait about 10 minutes before unmoulding the cake.&lt;/li&gt;&lt;/ol&gt;]]&gt;&lt;/directions&gt;
+        &lt;favorite&gt;false&lt;/favorite&gt;
+        &lt;image&gt;653cba169712111050eabc7ef053af15&lt;/image&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 35 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour 5 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: disc;"&gt;10 eggs (at room temperature)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 cup sugar&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;2 cups flour, sifted&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 teaspoon baking powder&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;½ teaspoon salt&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;Zest of a lemon&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;name&gt;Pao de lo (Portuguese airy cake)&lt;/name&gt;
+        &lt;notes/&gt;
+        &lt;number&gt;RCP0001005&lt;/number&gt;
+        &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;servings&gt;8&lt;/servings&gt;
+        &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-05 01:43:25&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;2c8b3a969712111050eabc7ef053affe&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-05 01:45:13&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-01 01:05:00&lt;/total&gt;
+        &lt;url&gt;https://www.196flavors.com/portugal-pao-de-lo/&lt;/url&gt;
+    &lt;/x_snc_recipe_db_recipe&gt;
+    &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
+        &lt;average_image_color&gt;#a77d5e&lt;/average_image_color&gt;
+        &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
+        &lt;compressed&gt;true&lt;/compressed&gt;
+        &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;file_name&gt;image&lt;/file_name&gt;
+        &lt;hash&gt;961fd51bb1fc2ae131078c8ce02bdd9d600b64a1c518cc9e943e46141ae19780&lt;/hash&gt;
+        &lt;image_height&gt;150&lt;/image_height&gt;
+        &lt;image_width&gt;150&lt;/image_width&gt;
+        &lt;size_bytes&gt;5685&lt;/size_bytes&gt;
+        &lt;size_compressed&gt;5551&lt;/size_compressed&gt;
+        &lt;state&gt;available&lt;/state&gt;
+        &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-05 01:44:08&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;653cba169712111050eabc7ef053af15&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-05 01:44:08&lt;/sys_updated_on&gt;
+        &lt;table_name&gt;ZZ_YYx_snc_recipe_db_recipe&lt;/table_name&gt;
+        &lt;table_sys_id&gt;2c8b3a969712111050eabc7ef053affe&lt;/table_sys_id&gt;
+    &lt;/sys_attachment&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;H4sIAAAAAAAAAA==&lt;/data&gt;
+        &lt;length&gt;16&lt;/length&gt;
+        &lt;position&gt;0&lt;/position&gt;
+        &lt;sys_attachment display_value="image" sys_id="653cba169712111050eabc7ef053af15"&gt;653cba169712111050eabc7ef053af15&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-05 01:44:08&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;a53cba169712111050eabc7ef053af15&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;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&lt;/data&gt;
+        &lt;length&gt;7388&lt;/length&gt;
+        &lt;position&gt;1&lt;/position&gt;
+        &lt;sys_attachment display_value="image" sys_id="653cba169712111050eabc7ef053af15"&gt;653cba169712111050eabc7ef053af15&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-05 01:44:08&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;293cba169712111050eabc7ef053af15&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>w.geek8</sys_created_by>
+        <sys_created_on>2022-10-05 01:51:30</sys_created_on>
+        <sys_id>61edba1a9712111050eabc7ef053af1f</sys_id>
+        <sys_name>Pao de lo (Portuguese airy cake)</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_61edba1a9712111050eabc7ef053af1f</sys_update_name>
+        <tablename>x_snc_recipe_db_recipe</tablename>
+    </sys_metadata_link>
+</record_update>
