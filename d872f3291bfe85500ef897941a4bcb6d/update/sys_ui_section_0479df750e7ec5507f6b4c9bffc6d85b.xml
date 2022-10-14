@@ -39,12 +39,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0479df750e7ec5507f6b4c9bffc6d85b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>sysapproval_approver</sys_name>
             <sys_overrides/>
             <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
             <sys_update_name>sys_ui_section_0479df750e7ec5507f6b4c9bffc6d85b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-14 00:49:10</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Custom portal (x_snc_recipe_db)" name="custom_portal_approval_x_snc_recipe_db">c479df75bd7ec55063ca6269713a7c5b</view>

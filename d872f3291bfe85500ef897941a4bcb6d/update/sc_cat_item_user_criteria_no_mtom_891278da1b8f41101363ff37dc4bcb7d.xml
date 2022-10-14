@@ -5,11 +5,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-26 02:16:34</sys_created_on>
         <sys_id>891278da1b8f41101363ff37dc4bcb7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New Recipe.SNC External</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sc_cat_item_user_criteria_no_mtom_891278da1b8f41101363ff37dc4bcb7d</sys_update_name>
-        <user_criteria display_value="">66c1b50e730333009508738234f6a7c9</user_criteria>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:48:49</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
     </sc_cat_item_user_criteria_no_mtom>
 </record_update>

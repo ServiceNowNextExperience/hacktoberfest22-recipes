@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d3f741ab1b8b4110b676ddf6b04bcbfa" label="Category" max_length="40" name="x_snc_recipe_db_category" type="collection">
+    <element label="Category" max_length="40" name="x_snc_recipe_db_category" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
     </element>
 </database>

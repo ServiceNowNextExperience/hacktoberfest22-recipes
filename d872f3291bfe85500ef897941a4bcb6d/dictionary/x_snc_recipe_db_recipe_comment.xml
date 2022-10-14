@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7d54c95fdb5e1510189272c7f4961933" label="Recipe Comment" max_length="40" name="x_snc_recipe_db_recipe_comment" type="collection">
+    <element label="Recipe Comment" max_length="40" name="x_snc_recipe_db_recipe_comment" type="collection">
         <element label="Author" max_length="32" name="author" reference="sys_user" type="reference"/>
         <element label="Comment" max_length="40" name="comment" type="html"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Recipe" max_length="32" name="recipe" reference="x_snc_recipe_db_recipe" type="reference"/>
         <element label="Replied to" max_length="32" name="replied_to" reference="x_snc_recipe_db_recipe_comment" type="reference"/>
         <index name="index">
-            <element name="author"/>
+            <element name="replied_to"/>
         </index>
         <index name="index2">
-            <element name="recipe"/>
+            <element name="author"/>
         </index>
         <index name="index3">
-            <element name="replied_to"/>
+            <element name="recipe"/>
         </index>
     </element>
 </database>

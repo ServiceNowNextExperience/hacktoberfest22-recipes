@@ -2,7 +2,6 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="CMDB Workspace App Config">6825d0ae8f312010960c53ac37bdee72</app_config>
         <description/>
-        <extension_point/>
         <fields/>
         <icon>configuration-item-outline</icon>
         <name>Edit Recipe default Infrastructure Relationships</name>
@@ -16,11 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-28 22:13:07</sys_created_on>
         <sys_id>14271bc7a1c3c1107f449182c2d2a193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Edit Recipe default Infrastructure Relationships</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_app_route_14271bc7a1c3c1107f449182c2d2a193</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:14</sys_updated_on>
     </sys_ux_app_route>
     <sys_translated_text action="delete_multiple" query="documentkey=14271bc7a1c3c1107f449182c2d2a193"/>
 </record_update>

@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>paige</sys_created_by>
         <sys_created_on>2022-09-30 18:44:13</sys_created_on>
-        <sys_id>2a05b0c187d21510ab680f65dabb35ef</sys_id>
+        <sys_id>e8d5c195972211105dfe79100153affb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_recipe_db_ratings_user</sys_update_name>
-        <sys_updated_by>paige</sys_updated_by>
-        <sys_updated_on>2022-09-30 18:44:13</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:48:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -7,11 +7,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:09</sys_created_on>
         <sys_id>cc79df751c7ec55058a19eba16f12b5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>sysapproval_approver</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_scope_privilege_cc79df751c7ec55058a19eba16f12b5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:08</sys_updated_on>
         <target_name>sysapproval_approver</target_name>
         <target_scope display_value="Global">global</target_scope>
         <target_type>sys_db_object</target_type>

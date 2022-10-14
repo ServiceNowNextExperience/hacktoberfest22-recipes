@@ -11,11 +11,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:09</sys_created_on>
         <sys_id>c079df752a7ec5507411ec3677ac0060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_recipe_db.custom_portal_login.svg</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>db_image_c079df752a7ec5507411ec3677ac0060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:48:48</sys_updated_on>
         <thumbnail/>
         <width/>
     </db_image>

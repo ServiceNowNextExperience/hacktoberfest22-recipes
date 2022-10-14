@@ -2,7 +2,6 @@
     <sys_data_source action="INSERT_OR_UPDATE">
         <batch_size>1000</batch_size>
         <category/>
-        <connection_override_last_success_time/>
         <connection_timeout>0</connection_timeout>
         <connection_url>attachment://sys_data_source:b0c237291bfe85500ef897941a4bcbd4/x_snc_recipe_category.xlsx</connection_url>
         <connection_url_parameters/>
@@ -59,11 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-11 22:07:16</sys_created_on>
         <sys_id>b0c237291bfe85500ef897941a4bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_recipe_category.xlsx (Uploaded)</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_data_source_b0c237291bfe85500ef897941a4bcbd4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:48:49</sys_updated_on>
         <table_name/>
         <type>File</type>
         <use_batch_import>false</use_batch_import>

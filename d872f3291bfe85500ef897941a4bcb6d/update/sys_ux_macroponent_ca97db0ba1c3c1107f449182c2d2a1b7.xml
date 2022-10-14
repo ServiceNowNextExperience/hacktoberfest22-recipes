@@ -477,9 +477,7 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events>cbe77c46535630105016ddeeff7b1258</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -499,7 +497,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>CI Infrastructure Relationships</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "ciSysId",
   "label" : "ciSysId",
@@ -554,10 +551,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-28 22:15:10</sys_created_on>
         <sys_id>ca97db0ba1c3c1107f449182c2d2a1b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>CI Infrastructure Relationships</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_ca97db0ba1c3c1107f449182c2d2a1b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:27</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

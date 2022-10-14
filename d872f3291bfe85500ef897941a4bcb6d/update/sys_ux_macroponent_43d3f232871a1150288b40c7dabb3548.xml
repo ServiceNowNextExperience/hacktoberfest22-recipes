@@ -1495,9 +1495,7 @@
   },
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
-        <description/>
         <dispatched_events>e5e2b52ea10b01107f449182c2d2a135</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1518,7 +1516,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home - Paige Copy</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Enter a label",
@@ -1570,10 +1567,13 @@
         <sys_created_by>paige</sys_created_by>
         <sys_created_on>2022-10-06 14:24:36</sys_created_on>
         <sys_id>43d3f232871a1150288b40c7dabb3548</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Home - Paige Copy</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_43d3f232871a1150288b40c7dabb3548</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:26</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
