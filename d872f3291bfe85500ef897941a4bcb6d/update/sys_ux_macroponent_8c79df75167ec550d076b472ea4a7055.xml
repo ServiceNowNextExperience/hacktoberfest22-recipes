@@ -216,9 +216,7 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
-        <description/>
         <dispatched_events/>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -239,7 +237,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Task Approved</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Return to home",
@@ -257,10 +254,13 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:11</sys_created_on>
         <sys_id>8c79df75167ec550d076b472ea4a7055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Task Approved</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_8c79df75167ec550d076b472ea4a7055</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:27</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

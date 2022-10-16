@@ -492,9 +492,7 @@
   },&#13;
   "readEvaluationMode" : "EAGER"&#13;
 } ]</data>
-        <description/>
         <dispatched_events>8079df756b7ec55020997cff1944eb51</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -515,7 +513,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Login</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Log in",
@@ -533,10 +530,13 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:10</sys_created_on>
         <sys_id>0c79df75867ec55076c27cce6a694950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Login</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_0c79df75867ec55076c27cce6a694950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:25</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

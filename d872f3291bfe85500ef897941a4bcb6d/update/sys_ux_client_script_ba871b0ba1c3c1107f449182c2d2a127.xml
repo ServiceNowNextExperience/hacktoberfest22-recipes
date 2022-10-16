@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Business process reject modal">3a871b0ba1c3c1107f449182c2d2a100</macroponent>
         <name>Close modal</name>
-        <preset/>
         <required_translations/>
         <script><![CDATA[/**
  * @param {params} params
@@ -29,12 +28,14 @@ function handler({
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-28 22:14:57</sys_created_on>
         <sys_id>ba871b0ba1c3c1107f449182c2d2a127</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Close modal</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_client_script_ba871b0ba1c3c1107f449182c2d2a127</sys_update_name>
-        <target/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:20</sys_updated_on>
         <type>default</type>
     </sys_ux_client_script>
 </record_update>

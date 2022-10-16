@@ -4,12 +4,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-07 19:34:27</sys_created_on>
         <sys_id>a3540d5fdb5e1510189272c7f4961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_recipe_db_recipe_comment.x_snc_recipe_db.admin</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_security_acl display_value="x_snc_recipe_db_recipe_comment">23540d5fdb5e1510189272c7f4961964</sys_security_acl>
         <sys_update_name>sys_security_acl_role_a3540d5fdb5e1510189272c7f4961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:09</sys_updated_on>
         <sys_user_role display_value="x_snc_recipe_db.admin" name="x_snc_recipe_db.admin">1754c95fdb5e1510189272c7f49619c4</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

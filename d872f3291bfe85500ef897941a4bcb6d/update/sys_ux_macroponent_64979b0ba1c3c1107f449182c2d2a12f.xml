@@ -108,9 +108,7 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
-        <description/>
         <dispatched_events>f078e8db0f0210107d20409dc4767e94,4578e8db0f0210107d20409dc4767e99,0d78e8db0f0210107d20409dc4767ea1</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -130,7 +128,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Attachment</name>
-        <output_prop_mapping/>
         <props>[ {
   "name" : "table",
   "label" : "table",
@@ -168,10 +165,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-28 22:15:04</sys_created_on>
         <sys_id>64979b0ba1c3c1107f449182c2d2a12f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Attachment</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_64979b0ba1c3c1107f449182c2d2a12f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:26</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

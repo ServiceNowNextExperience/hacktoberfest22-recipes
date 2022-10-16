@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Article page">4879df75767ec550536ddbb358801157</macroponent>
         <name>Show Submit Comment Alert</name>
-        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({
     api
@@ -25,12 +24,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:11</sys_created_on>
         <sys_id>4479df75357ec5509ef5317dbaea6456</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Show Submit Comment Alert</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_client_script_4479df75357ec5509ef5317dbaea6456</sys_update_name>
-        <target>macroponent</target>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:18</sys_updated_on>
         <type/>
     </sys_ux_client_script>
 </record_update>

@@ -2,6 +2,7 @@
     <sys_declarative_action_payload_field action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -30,7 +31,6 @@
         <element>sysId</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -55,16 +55,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_declarative_action_payload_field</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-04-12 14:55:11</sys_created_on>
+        <sys_id>87d50995972211105dfe79100153af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>sysId</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_declarative_action_payload_field_c079df75577ec550a149a7e5f939d25f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:48:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -72,7 +77,6 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
-        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 00:49:09</sys_created_on>
+        <sys_id>3be54d95972211105dfe79100153af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8479df751a7ec55066ed7762b6697c5c.snc_internal</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_security_acl display_value="8479df751a7ec55066ed7762b6697c5c">8c79df75a87ec55096110dc27a9c335c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3be54d95972211105dfe79100153af56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:09</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>68c54195972211105dfe79100153afd3</transaction_id>
+    </sys_security_acl_role>
+</record_update>

@@ -42,7 +42,7 @@
         <update_guid_history>23f470c1cad215104ff4b54205fc0f9a:-261932008</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_recipe_db_ratings.x_snc_recipe_db.ratings_user">cc763c0587d21510ab680f65dabb3557</sys_audit_delete>
+        <sys_audit_delete display_value="">cc763c0587d21510ab680f65dabb3557</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>paige</sys_created_by>
         <sys_created_on>2022-09-30 18:47:15</sys_created_on>

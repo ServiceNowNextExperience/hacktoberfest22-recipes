@@ -70,11 +70,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:51</sys_created_on>
         <sys_id>e84e0d7c971e9190c6fc7e0e6253af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Mom's Pork Tenderloin</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_e84e0d7c971e9190c6fc7e0e6253af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:01</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

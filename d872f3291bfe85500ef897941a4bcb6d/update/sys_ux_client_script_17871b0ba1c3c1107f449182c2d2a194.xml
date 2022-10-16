@@ -3,7 +3,6 @@
         <includes/>
         <macroponent display_value="Retire">8b871b0ba1c3c1107f449182c2d2a178</macroponent>
         <name>set client states</name>
-        <preset/>
         <required_translations/>
         <script><![CDATA[/**
  * @param {params} params
@@ -29,12 +28,14 @@ function handler({api, event, helpers, imports}) {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-28 22:14:58</sys_created_on>
         <sys_id>17871b0ba1c3c1107f449182c2d2a194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>set client states</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_client_script_17871b0ba1c3c1107f449182c2d2a194</sys_update_name>
-        <target/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:17</sys_updated_on>
         <type>default</type>
     </sys_ux_client_script>
 </record_update>

@@ -12,11 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-07 19:34:27</sys_created_on>
         <sys_id>23540d5fdb5e1510189272c7f4961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_recipe_db_recipe_comment</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_security_acl_23540d5fdb5e1510189272c7f4961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 00:49:08</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
