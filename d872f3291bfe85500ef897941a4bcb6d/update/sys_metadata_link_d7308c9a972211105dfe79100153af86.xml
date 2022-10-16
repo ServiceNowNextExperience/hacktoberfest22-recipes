@@ -4,7 +4,7 @@
         <documentkey>4c580d55972211105dfe79100153af67</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
-        &lt;category/&gt;
+        &lt;category display_value="Chicken Recipe"&gt;e5e80816976211105dfe79100153af20&lt;/category&gt;
         &lt;cook_time&gt;1970-01-01 00:30:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;p&gt;INSTRUCTIONS&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;In a bowl, combine chicken with all of the ingredients for the chicken marinade; let marinate for 30 minutes to an hour (or overnight if time allows).&lt;/li&gt;&lt;li&gt;Heat oil in a large skillet or pot over medium-high heat. When sizzling, add chicken pieces in batches of two or three, making sure not to crowd the pan. Fry until browned for only 3 minutes on each side. Set aside and keep warm. (You will finish cooking the chicken in the sauce.)&lt;/li&gt;&lt;li&gt;Heat butter or ghee in the same pan. Fry the onions until they start to sweat (about 6 minutes) while scraping up any browned bits stuck on the bottom of the pan.&lt;/li&gt;&lt;li&gt;Add garlic and ginger and sauté for 1 minute until fragrant, then add ground coriander, cumin and garam masala. Let cook for about 20 seconds until fragrant, while stirring occasionally.&lt;/li&gt;&lt;li&gt;Add crushed tomatoes, chili powder and salt. Let simmer for about 10-15 minutes, stirring occasionally until sauce thickens and becomes a deep brown red colour.&lt;/li&gt;&lt;li&gt;Remove from heat, scoop mixture into a blender and blend until smooth. You may need to add a couple tablespoons of water to help it blend (up to 1/4 cup). Work in batches depending on the size of your blender.&lt;/li&gt;&lt;li&gt;Pour the puréed sauce back into the pan. Stir the cream, sugar and crushed kasoori methi (or fenugreek leaves) through the sauce.&lt;/li&gt;&lt;li&gt;Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.
@@ -36,9 +36,9 @@
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-14 01:20:12&lt;/sys_created_on&gt;
         &lt;sys_id&gt;4c580d55972211105dfe79100153af67&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-16 22:09:39&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2022-10-16 22:56:32&lt;/sys_updated_on&gt;
         &lt;total/&gt;
         &lt;url&gt;https://cafedelites.com/butter-chicken/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
@@ -87,14 +87,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-16 22:18:34</sys_created_on>
         <sys_id>d7308c9a972211105dfe79100153af86</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Butter Chicken Recipe</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_d7308c9a972211105dfe79100153af86</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-16 22:18:34</sys_updated_on>
+        <sys_updated_on>2022-10-16 22:56:45</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
