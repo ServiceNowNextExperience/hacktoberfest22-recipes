@@ -108,9 +108,7 @@
             "value" : null
           },
           "isHero" : false,
-          "extensionPoints" : [ ],
           "isNonDestructive" : false,
-          "items" : [ ],
           "styles" : { }
         }, {
           "elementId" : "typeahead_1",
@@ -188,10 +186,8 @@
               "type" : "CLIENT_TRANSFORM_SCRIPT",
               "script" : {
                 "apiVersion" : "2.0.0",
-                "controllerElementId" : null,
                 "inlineScript" : null,
-                "scriptSysId" : "1d07309a479211104d8f690cd36d4382",
-                "target" : null
+                "scriptSysId" : "1d07309a479211104d8f690cd36d4382"
               }
             },
             "hideRequiredIndicator" : {
@@ -260,7 +256,10 @@
                       "type" : "JSON_LITERAL",
                       "value" : null
                     },
-                    "external" : null
+                    "external" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    }
                   }
                 },
                 "sysId" : "7e97349a479211104d8f690cd36d43a7"
@@ -338,9 +337,7 @@
             "value" : null
           },
           "isHero" : false,
-          "extensionPoints" : [ ],
           "isNonDestructive" : false,
-          "items" : [ ],
           "styles" : {
             "background" : "rgb(var(--now-color--neutral-1))"
           }
@@ -364,9 +361,7 @@
         "value" : null
       },
       "isHero" : false,
-      "extensionPoints" : [ ],
       "isNonDestructive" : false,
-      "items" : [ ],
       "styles" : {
         "width" : "100%",
         "max-width" : "80rem"
@@ -391,9 +386,7 @@
     "value" : null
   },
   "isHero" : false,
-  "extensionPoints" : [ ],
   "isNonDestructive" : false,
-  "items" : [ ],
   "styles" : {
     "width" : "100%",
     "background" : "rgb(var(--now-color--primary-1))"
@@ -539,18 +532,12 @@
                 "value" : null
               },
               "isHero" : false,
-              "extensionPoints" : [ ],
               "isNonDestructive" : false,
-              "items" : [ ],
               "styles" : { }
             }, {
               "elementId" : "checkbox_1",
               "elementLabel" : "Checkbox 1",
               "propertyValues" : {
-                "size" : {
-                  "type" : "JSON_LITERAL",
-                  "value" : "md"
-                },
                 "readonly" : {
                   "type" : "JSON_LITERAL",
                   "value" : false
@@ -657,9 +644,7 @@
                 "value" : null
               },
               "isHero" : false,
-              "extensionPoints" : [ ],
               "isNonDestructive" : false,
-              "items" : [ ],
               "styles" : {
                 "margin" : "var(--now-static-space--lg)"
               }
@@ -683,9 +668,7 @@
             "value" : null
           },
           "isHero" : false,
-          "extensionPoints" : [ ],
           "isNonDestructive" : false,
-          "items" : [ ],
           "styles" : {
             "width" : "100%"
           }
@@ -715,10 +698,6 @@
                 "interaction" : {
                   "type" : "JSON_LITERAL",
                   "value" : "click"
-                },
-                "hideShadow" : {
-                  "type" : "JSON_LITERAL",
-                  "value" : true
                 },
                 "configAria" : {
                   "type" : "MAP_CONTAINER",
@@ -767,7 +746,10 @@
                             }
                           }
                         },
-                        "params" : null,
+                        "params" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
                         "redirect" : {
                           "type" : "JSON_LITERAL",
                           "value" : null
@@ -788,7 +770,10 @@
                           "type" : "JSON_LITERAL",
                           "value" : null
                         },
-                        "external" : null
+                        "external" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        }
                       }
                     },
                     "sysId" : "7e97349a479211104d8f690cd36d43a7"
@@ -894,9 +879,7 @@
                     "value" : false
                   },
                   "isHero" : false,
-                  "extensionPoints" : [ ],
                   "isNonDestructive" : false,
-                  "items" : [ ],
                   "styles" : { }
                 }, {
                   "elementId" : "container_4",
@@ -978,9 +961,7 @@
                         "value" : null
                       },
                       "isHero" : false,
-                      "extensionPoints" : [ ],
                       "isNonDestructive" : false,
-                      "items" : [ ],
                       "styles" : { }
                     } ],
                     "layout" : {
@@ -1002,9 +983,7 @@
                     "value" : null
                   },
                   "isHero" : false,
-                  "extensionPoints" : [ ],
                   "isNonDestructive" : false,
-                  "items" : [ ],
                   "styles" : {
                     "width" : "100%",
                     "min-height" : "8rem"
@@ -1029,9 +1008,7 @@
                 "value" : null
               },
               "isHero" : false,
-              "extensionPoints" : [ ],
               "isNonDestructive" : false,
-              "items" : [ ],
               "styles" : {
                 "background" : "rgb(var(--now-color--primary-0))",
                 "height" : "100%"
@@ -1056,9 +1033,7 @@
             "value" : null
           },
           "isHero" : false,
-          "extensionPoints" : [ ],
           "isNonDestructive" : false,
-          "items" : [ ],
           "repeatWith" : {
             "type" : "DATA_OUTPUT_BINDING",
             "binding" : {
@@ -1092,9 +1067,7 @@
         "value" : null
       },
       "isHero" : false,
-      "extensionPoints" : [ ],
       "isNonDestructive" : false,
-      "items" : [ ],
       "styles" : {
         "width" : "100%",
         "max-width" : "80rem"
@@ -1119,9 +1092,7 @@
     "value" : null
   },
   "isHero" : false,
-  "extensionPoints" : [ ],
   "isNonDestructive" : false,
-  "items" : [ ],
   "styles" : {
     "width" : "100%",
     "background" : "rgb(var(--now-color--neutral-3))"
@@ -1133,7 +1104,6 @@
     "id" : "b997a84053021010cbc2ddeeff7b1228",
     "type" : "COMPOSITE"
   },
-  "dependencies" : { },
   "elementId" : "look_up_favorites",
   "elementLabel" : "Look Up Favorites",
   "eventMappings" : [ ],
@@ -1195,7 +1165,6 @@
     "id" : "b997a84053021010cbc2ddeeff7b1228",
     "type" : "COMPOSITE"
   },
-  "dependencies" : { },
   "elementId" : "look_up_recipes",
   "elementLabel" : "Look Up Recipes",
   "eventMappings" : [ ],
@@ -1224,7 +1193,7 @@
     },
     "returnFields" : {
       "type" : "JSON_LITERAL",
-      "value" : "label_value,name,image,sys_id"
+      "value" : "label_value,name,image,sys_id,category,rating"
     },
     "orderBy" : {
       "type" : "JSON_LITERAL",
@@ -1251,11 +1220,9 @@
       "value" : false
     }
   },
-  "readEvaluationMode" : "EXPLICIT"
+  "readEvaluationMode" : "EAGER"
 } ]</data>
-        <description/>
         <dispatched_events>7e97349a479211104d8f690cd36d43a7,e5e2b52ea10b01107f449182c2d2a135</dispatched_events>
-        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1276,7 +1243,6 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home default Copy</name>
-        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Card actions",
@@ -1328,11 +1294,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-04 16:02:12</sys_created_on>
         <sys_id>0107309a479211104d8f690cd36d4380</sys_id>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Home default Copy</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_0107309a479211104d8f690cd36d4380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-17 15:12:59</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=0107309a479211104d8f690cd36d4380"/>
 </record_update>
