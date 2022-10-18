@@ -11,10 +11,13 @@
         &lt;image&gt;61d3b61e116ec1107f4444bd6579ad87&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 20 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 25 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 tablespoon extra virgin olive oil&lt;/li&gt;&lt;li&gt;1/3 cup diced shallots approximately 2 shallots&lt;/li&gt;&lt;li&gt;2 peeled garlic cloves, finely diced&lt;/li&gt;&lt;li&gt;2 tablespoons chili powder&lt;/li&gt;&lt;li&gt;1/4 teaspoon cayenne pepper&lt;/li&gt;&lt;li&gt;1/2 teaspoon dry mustard&lt;/li&gt;&lt;li&gt;1 cup Pinot Noir or other light bodied red wine&lt;/li&gt;&lt;li&gt;1 cup ketchup&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Pinot Noir BBQ Sauce", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Pinot Noir BBQ Sauce&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001008&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:05:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;20&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 15:11:36&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;1464ea3815df7f19ee115c6051074fab7f540b2b4b1a25639327be6a918e4d3f&lt;/hash&gt;
         &lt;image_height&gt;400&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 15:12:05&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;61d3b61e116ec1107f4444bd6579ad87&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

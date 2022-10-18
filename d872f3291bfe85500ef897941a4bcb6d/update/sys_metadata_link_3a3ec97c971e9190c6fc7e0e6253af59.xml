@@ -11,10 +11,13 @@
         &lt;image&gt;b4c629dc117ec9107f4444bd6579add0&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 1 Hour&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour 30 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="list-style-type: disc;"&gt;6 tablespoons honey&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;5 to 6 tablespoons lime juice, 2 to 3 large limes&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 tablespoon chili powder&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;½ teaspoon garlic powder&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;¼ teaspoon coarse, kosher salt&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;⅛ to ¼ teaspoon black pepper, I use coarsely ground&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;2 pounds chicken, cooked and shredded – about 4 cups total (see note)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;8 to 10 (6 to 8-inch) flour or corn tortillas&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;4 cups about 1 pound shredded Monterey jack cheese, (or a combo of cheddar and Monterey Jack)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;16 ounces green enchilada sauce (see note)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 cup heavy cream, sour cream, or half-and-half&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;Additional Toppings, optional: sour cream, chopped tomatoes, extra lime wedges, avocado, chopped cilantro&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Honey Lime Chicken Enchiladas", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Honey Lime Chicken Enchiladas&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001016&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 01:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 14:43:03&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;e2d99331840f12c721a370263399b7b57f1c2d5e73d156dcc61fadc7ab6f17c0&lt;/hash&gt;
         &lt;image_height&gt;425&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 14:43:12&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;b4c629dc117ec9107f4444bd6579add0&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

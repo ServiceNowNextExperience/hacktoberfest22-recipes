@@ -14,10 +14,13 @@
         &lt;image/&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 3&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 40 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;2 tbsp green chutney&lt;/li&gt;&lt;li&gt;2 tbsp tamarind chutney&lt;/li&gt;&lt;li&gt;½ tsp chilli powder&lt;/li&gt;&lt;li&gt;¼ tsp cumin powder&lt;/li&gt;&lt;li&gt;¼ tsp aamchur&lt;/li&gt;&lt;li&gt;¼ tsp chaat masala&lt;/li&gt;&lt;li&gt;¼ tsp salt&lt;/li&gt;&lt;li&gt;1 tbsp coriander (finely chopped)&lt;/li&gt;&lt;li&gt;2 tbsp onion (finely chopped)&lt;/li&gt;&lt;li&gt;2 tbsp sev&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"CHAAT (Indian)", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;CHAAT (Indian)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001003&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;3&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 16:35:57&lt;/sys_created_on&gt;
@@ -33,6 +36,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;c957d11ff400f67c41bf2c4700f108ec31e718a2acb29e1b59f1599f6669ed51&lt;/hash&gt;
         &lt;image_height&gt;610&lt;/image_height&gt;
@@ -42,6 +46,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 16:35:57&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;e525f7712f569110936d3f96f699b61d&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

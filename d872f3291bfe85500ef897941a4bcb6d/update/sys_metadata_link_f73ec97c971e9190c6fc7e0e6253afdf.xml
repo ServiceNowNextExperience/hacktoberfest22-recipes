@@ -14,10 +14,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;sweet potato, diced&lt;/li&gt;&lt;li&gt;broccoli florets&lt;/li&gt;&lt;li&gt;chicken sausage, cut into rounds&lt;/li&gt;&lt;li&gt;EVOO&lt;/li&gt;&lt;li&gt;S&amp;amp;P&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Honey Mustard&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;dijon mustard (approx 3 tbs)&lt;/li&gt;&lt;li&gt;honey (approx 1/4 c)&lt;/li&gt;&lt;li&gt;paprika (1 tsp)&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"NTK One Pan Meal", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;NTK One Pan Meal&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001020&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;6&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 15:09:04&lt;/sys_created_on&gt;
@@ -33,6 +36,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;a60a6addffd5886d4bf7664a15fb09ab84ce1f6e60fd486eeb8c7508caeea720&lt;/hash&gt;
         &lt;image_height&gt;392&lt;/image_height&gt;
@@ -42,6 +46,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 15:09:15&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;e6bc291411bec9107f4444bd6579ad9f&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

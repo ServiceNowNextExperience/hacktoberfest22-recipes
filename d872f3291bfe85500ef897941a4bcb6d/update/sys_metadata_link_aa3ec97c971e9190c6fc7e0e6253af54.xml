@@ -11,10 +11,13 @@
         &lt;image&gt;e1143e9c11b20d107f4444bd6579adc7&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 1 Hour 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour 45 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Kosher salt&lt;/li&gt;&lt;li&gt;1/2 teaspoon (4g) baking soda&lt;/li&gt;&lt;li&gt;4 pounds (about 2 kg) russet or Yukon Gold potatoes, peeled and cut into quarters, sixths, or eighths, depending on size (see note)&lt;/li&gt;&lt;li&gt;5 tablespoons (75ml) extra virgin olive oil, duck fat, goose fat, or beef fat&lt;/li&gt;&lt;li&gt;Small handful picked fresh rosemary leaves, finely chopped&lt;/li&gt;&lt;li&gt;3 medium cloves garlic, minced&lt;/li&gt;&lt;li&gt;Freshly ground black pepper&lt;/li&gt;&lt;li&gt;Small handful fresh parsley leaves, minced &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"The Best Crispy Roast Potatoes Ever", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;The Best Crispy Roast Potatoes Ever&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001022&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 20:20:50&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;20211201-crispy-roasted-potatoes-vicky-wasik-48-7bca1f8c09ee46c087b0865f9a053c45 - Adam Celli co.png&lt;/file_name&gt;
         &lt;hash&gt;6771d3e6543b264a30c45fa6637bfd9cc017b7ca26ec944de5aa211985302608&lt;/hash&gt;
         &lt;image_height&gt;300&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 20:21:02&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;e1143e9c11b20d107f4444bd6579adc7&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

@@ -34,10 +34,13 @@
 &lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li&gt;3 Cups Flour&lt;/li&gt;&lt;li&gt;1 cup Ghee (solidified)&lt;/li&gt;&lt;li&gt;3-4 Ice cubes&lt;/li&gt;&lt;li&gt;4 cups Water&lt;/li&gt;&lt;li&gt;1/2 cup Milk&lt;/li&gt;&lt;li&gt;1 kg Ghee (for deep frying)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;For the syrup:&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;1 1/2 cup Sugar&lt;/li&gt;&lt;li&gt;1 cup Water&lt;/li&gt;&lt;li&gt;&lt;strong&gt;For topping:&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;1 tsp Cardamom, powdered&lt;/li&gt;&lt;li&gt;1 tbsp Almonds &amp;amp; pistachios, chopped&lt;/li&gt;&lt;li&gt;1 tbsp Milk (with 1/2 tsp saffron)&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Ghewar - Indian Desert", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Ghewar - Indian Desert&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 02:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;2&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-11 13:23:51&lt;/sys_created_on&gt;
@@ -53,6 +56,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;Ghewar.jfif&lt;/file_name&gt;
         &lt;hash&gt;60c238e395be17391d01e01f51922a67b26a0c535cfd8f2e64b1fb3005d0465b&lt;/hash&gt;
         &lt;image_height&gt;184&lt;/image_height&gt;
@@ -62,6 +66,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-11 13:23:48&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;45e510281b22d910339397d7bd4bcba9&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
@@ -92,6 +98,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;d514fd957fb41170cd62290c4d2c163461e971681d6aa4209a37bda1a811b0bc&lt;/hash&gt;
         &lt;image_height&gt;562&lt;/image_height&gt;
@@ -101,6 +108,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-11 14:34:04&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;62f520a81b22d910339397d7bd4bcbab&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

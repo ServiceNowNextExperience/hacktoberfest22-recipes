@@ -11,10 +11,13 @@
         &lt;image&gt;443815be2f5a9110a72c5aab2799b636&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;strong&gt;eggs &lt;/strong&gt;- 3 medium &lt;/li&gt;&lt;li&gt;&lt;strong&gt;butter &lt;/strong&gt;- tablespoon, cut in small cubes&lt;/li&gt;&lt;li&gt;pinch of &lt;strong&gt;salt&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;black pepper&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;chives&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Additional equipment:&lt;/li&gt;&lt;li&gt;medium pan&lt;/li&gt;&lt;li&gt;silicone spatula&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Scrambled Eggs", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Scrambled Eggs&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:05:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;1&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-06 07:43:32&lt;/sys_created_on&gt;
@@ -40,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-06 07:44:05&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;443815be2f5a9110a72c5aab2799b636&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
@@ -80,6 +85,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-06 07:42:04&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;96b711fe2f5a9110a72c5aab2799b624&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

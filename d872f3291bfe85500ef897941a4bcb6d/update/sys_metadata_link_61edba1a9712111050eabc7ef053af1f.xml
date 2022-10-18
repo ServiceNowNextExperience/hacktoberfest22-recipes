@@ -4,17 +4,20 @@
         <documentkey>2c8b3a969712111050eabc7ef053affe</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
-        &lt;category display_value="Dessert"&gt;c45c76d69712111050eabc7ef053af0c&lt;/category&gt;
+        &lt;category display_value=""&gt;c45c76d69712111050eabc7ef053af0c&lt;/category&gt;
         &lt;cook_time&gt;1970-01-01 00:35:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;ol style="list-style-position: inside;"&gt;&lt;li&gt;Preheat oven to 350 F / 180 C.&lt;/li&gt;&lt;li&gt;Beat the eggs at high speed for about 20 minutes, while incorporating the sugar gradually.&lt;/li&gt;&lt;li&gt;Then gently fold in the flour, previously mixed with the baking powder and the salt, then add the lemon zest.&lt;/li&gt;&lt;li&gt;Place in a lightly oiled round pan. Bake for 30 to 35 minutes.&lt;/li&gt;&lt;li&gt;Wait about 10 minutes before unmoulding the cake.&lt;/li&gt;&lt;/ol&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;false&lt;/favorite&gt;
         &lt;image&gt;653cba169712111050eabc7ef053af15&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 35 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour 5 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: disc;"&gt;10 eggs (at room temperature)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 cup sugar&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;2 cups flour, sifted&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 teaspoon baking powder&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;½ teaspoon salt&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;Zest of a lemon&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Pao de lo (Portuguese airy cake)", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Pao de lo (Portuguese airy cake)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001005&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-05 01:43:25&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;961fd51bb1fc2ae131078c8ce02bdd9d600b64a1c518cc9e943e46141ae19780&lt;/hash&gt;
         &lt;image_height&gt;150&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-05 01:44:08&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;653cba169712111050eabc7ef053af15&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;

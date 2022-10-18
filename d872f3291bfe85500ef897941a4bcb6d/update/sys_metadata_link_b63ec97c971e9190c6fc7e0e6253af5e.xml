@@ -13,10 +13,13 @@
         &lt;ingredients&gt;&lt;![CDATA[&lt;div&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 2-3 pound beef eye of round roast (thin sliced against the grain)&lt;/li&gt;&lt;li&gt;2 cups Dr. Pepper&lt;/li&gt;&lt;li&gt;2 jalapenos (sliced)&lt;/li&gt;&lt;li&gt;2 Tablespoons kosher salt&lt;/li&gt;&lt;li&gt;1 Tablespoon Worcestershire sauce&lt;/li&gt;&lt;li&gt;2 teaspoons black pepper&lt;/li&gt;&lt;li&gt;1 teaspoon garlic powder&lt;/li&gt;&lt;li&gt;1 teaspoon onion powder&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Dr. Pepper Jalapeno Beef Jerky", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Dr. Pepper Jalapeno Beef Jerky&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001010&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 12:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 15:19:52&lt;/sys_created_on&gt;
@@ -32,6 +35,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;882b1a8eb55fb8024531d45c5694a7fc6ec03d0897459e988b378d6e304ef504&lt;/hash&gt;
         &lt;image_height&gt;267&lt;/image_height&gt;
@@ -41,6 +45,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 15:20:02&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;caa57e1e116ec1107f4444bd6579ad4e&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

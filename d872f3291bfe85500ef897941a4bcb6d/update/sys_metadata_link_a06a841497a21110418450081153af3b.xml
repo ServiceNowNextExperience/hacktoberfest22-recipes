@@ -39,10 +39,13 @@
 &lt;p&gt;16 ounces Gruyère, grated (about 5 cups)&lt;/p&gt;
 &lt;p&gt;12 ounces white Cheddar, grated (about 4 cups)&lt;/p&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"French Onion Macaroni and Cheese", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;French Onion Macaroni and Cheese&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;6&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-10 17:50:50&lt;/sys_created_on&gt;
@@ -58,6 +61,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;137ff5aeac3c4eabbc6426b5eef84bd053d6d8d584a4674e3371453cba1f845f&lt;/hash&gt;
         &lt;image_height&gt;512&lt;/image_height&gt;
@@ -67,6 +71,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-10 17:52:55&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;25e9041097621110418450081153af4d&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
@@ -98,14 +104,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-10 17:55:02</sys_created_on>
         <sys_id>a06a841497a21110418450081153af3b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>French Onion Macaroni and Cheese</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_a06a841497a21110418450081153af3b</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-10 17:55:02</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

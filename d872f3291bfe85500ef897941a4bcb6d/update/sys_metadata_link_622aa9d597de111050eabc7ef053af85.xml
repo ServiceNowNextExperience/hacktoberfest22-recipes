@@ -11,10 +11,13 @@
         &lt;image&gt;4dc9295597de111050eabc7ef053afd3&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 35 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 50 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;3 desalted cod steaks (about 750 grams &lt;strong&gt;(1 2/3 pounds)&lt;/strong&gt;)&lt;/li&gt;&lt;li&gt;1 medium onion&lt;/li&gt;&lt;li&gt;50 ml &lt;strong&gt;(1/4 cup)&lt;/strong&gt; olive oil&lt;/li&gt;&lt;li&gt;3 cloves of garlic&lt;/li&gt;&lt;li&gt;700 grams &lt;strong&gt;(1 1/2 pounds)&lt;/strong&gt; potatoes&lt;/li&gt;&lt;li&gt;1 egg&lt;/li&gt;&lt;li&gt;1 egg yolk&lt;/li&gt;&lt;li&gt;Salt (to taste)&lt;/li&gt;&lt;li&gt;Pepper (to taste)&lt;/li&gt;&lt;li&gt;Coriander (to taste)&lt;/li&gt;&lt;li&gt;Vegetable oil for frying&lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Cod “à brás”", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Cod “à brás”&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001003&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:15:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-01 17:08:31&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;1776128a2c1d466b0654c42a0b7a82633683d62e35be7dca25b8b678b2b65b9f&lt;/hash&gt;
         &lt;image_height&gt;563&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-01 17:10:02&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;4dc9295597de111050eabc7ef053afd3&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;

@@ -13,10 +13,13 @@
         &lt;ingredients&gt;&lt;![CDATA[&lt;div&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 lb oyster mushrooms — stems removed, sliced into thin strips&lt;/li&gt;&lt;li&gt;4 tablespoons butter&lt;/li&gt;&lt;li&gt;1 tsp salt&lt;/li&gt;&lt;li&gt;1 cup water&lt;/li&gt;&lt;li&gt;2 tablespoons flour&lt;/li&gt;&lt;li&gt;1 cup milk&lt;/li&gt;&lt;li&gt;3 cloves garlic — pressed&lt;/li&gt;&lt;li&gt;1/3 cup red wine vinegar&lt;/li&gt;&lt;li&gt;hot red pepper flakes for garnishing&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"OYSTER MUSHROOM SOUP (FAKE TRIPE SOUP)", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;OYSTER MUSHROOM SOUP (FAKE TRIPE SOUP)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001004&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings/&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 14:30:48&lt;/sys_created_on&gt;
@@ -32,6 +35,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;120630bf9d5a8d29fbcdd5b79e2cab675537ec9b09a880da2c18fb377cb92af2&lt;/hash&gt;
         &lt;image_height&gt;990&lt;/image_height&gt;
@@ -41,6 +45,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 14:30:59&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;5788133597d29d10710650081153af5c&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;

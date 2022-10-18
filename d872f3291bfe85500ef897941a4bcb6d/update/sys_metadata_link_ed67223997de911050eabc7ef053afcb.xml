@@ -16,10 +16,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;¾ cup white sugar&lt;/li&gt;&lt;li&gt;¼ cup water&lt;/li&gt;&lt;li&gt;1 tablespoon water&lt;/li&gt;&lt;li&gt;1 cinnamon stick (Optional)&lt;/li&gt;&lt;li&gt;1 lemon, zested in large strips (Optional)&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Custard Base:&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;⅓ cup all-purpose flour&lt;/li&gt;&lt;li&gt;¼ teaspoon kosher salt&lt;/li&gt;&lt;li&gt;1 ½ cups milk&lt;/li&gt;&lt;li&gt;6 large egg yolks&lt;/li&gt;&lt;li&gt;1 teaspoon vanilla extract (Optional)&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Portuguese Custard Tarts (Pasteis de Nata)", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Portuguese Custard Tarts (Pasteis de Nata)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001004&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 01:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;12&lt;/servings&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 10:46:16&lt;/sys_created_on&gt;
@@ -35,6 +38,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;281599d6b60acb38dba20f8edb85e8330dbcbda2da50d4357f97e0981ce40571&lt;/hash&gt;
         &lt;image_height&gt;1500&lt;/image_height&gt;
@@ -44,6 +48,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 10:47:09&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;fe45aaf197de911050eabc7ef053af8b&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;w.geek8&lt;/sys_updated_by&gt;

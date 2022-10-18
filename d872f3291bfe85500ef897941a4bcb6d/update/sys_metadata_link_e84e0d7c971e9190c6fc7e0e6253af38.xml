@@ -11,10 +11,13 @@
         &lt;image&gt;8461463d112a41107f4444bd6579ad86&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 8 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 2 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 10 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1/4 cup soy sauce&lt;/li&gt;&lt;li&gt;1/4 cup packed brown sugar&lt;/li&gt;&lt;li&gt;2 tablespoons sherry&lt;/li&gt;&lt;li&gt;1 1/2 teaspoons dried minced onion&lt;/li&gt;&lt;li&gt;1 teaspoon ground cinnamon&lt;/li&gt;&lt;li&gt;2 tablespoons olive oil&lt;/li&gt;&lt;li&gt;1 pinch garlic powder&lt;/li&gt;&lt;li&gt;2 (3/4 pound) pork tenderloins&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Mom's Pork Tenderloin", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Mom's Pork Tenderloin&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 08:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-03-30 02:44:46&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;87105dc4d227c2811743ce9386d2d72cc90f48c2d96dfbcba911f12bc3108df2&lt;/hash&gt;
         &lt;image_height&gt;394&lt;/image_height&gt;
@@ -39,6 +43,8 @@
         &lt;state&gt;available&lt;/state&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-03-30 22:14:39&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;8461463d112a41107f4444bd6579ad86&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
