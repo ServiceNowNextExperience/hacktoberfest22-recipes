@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ad9debcd97a611101501337e6253af03</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_recipe_db_category">
+    <x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+        <name>Non-vegetarian</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 18:23:12</sys_created_on>
+        <sys_id>ad9debcd97a611101501337e6253af03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-13 18:23:12</sys_updated_on>
+    </x_snc_recipe_db_category>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 18:23:32</sys_created_on>
+        <sys_id>d3adeb8197e611101501337e6253af24</sys_id>
+        <sys_name>Non-vegetarian</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_d3adeb8197e611101501337e6253af24</sys_update_name>
+        <tablename>x_snc_recipe_db_category</tablename>
+    </sys_metadata_link>
+</record_update>
