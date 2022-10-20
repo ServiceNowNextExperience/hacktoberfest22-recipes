@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b660f9db976e9110dd0178300153af35</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
+    &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
+        &lt;category display_value="Vegetarian"&gt;773d278197e611101501337e6253af9d&lt;/category&gt;
+        &lt;cook_time&gt;1970-01-01 00:20:00&lt;/cook_time&gt;
+        &lt;directions&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Heat oil in a cooking vessel. Once hot, add the cumin seeds and allow to crackle. Add crushed garlic and saute for few secs.&lt;/li&gt;&lt;li&gt;Add the bhindi and saute on high flame for 2 to 3 mins, Mix the bhindi once in a while. Reduce flame to low-medium, add lemon juice and cook for 10 mins.&lt;/li&gt;&lt;li&gt;Add the chopped onions and mix well. Cook without lid for 15-18 mins or till the bhindi is cooked. Add red chili powder, turmeric powder, and mix. Add jaggery or sugar and mix well&lt;/li&gt;&lt;li&gt;Add salt to taste and turn off heat.&lt;/li&gt;&lt;li&gt;Remove to a serving bowl and serve warm with rice or chapatis.&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/directions&gt;
+        &lt;favorite&gt;false&lt;/favorite&gt;
+        &lt;image/&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 20 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Bhindi 1/4 kg (okra/bendakaya), wash, dry, trim the ends and cut into 1&amp;#34; piece&lt;/li&gt;&lt;li&gt;Onions 1, large, sliced or roughly chopped&lt;/li&gt;&lt;li&gt;Garlic 1- 2 cloves, crushed (optional)&lt;/li&gt;&lt;li&gt;Turmeric powder 1/4 tsp&lt;/li&gt;&lt;li&gt;Red chili powder 1 1/4 tsp (adjust)&lt;/li&gt;&lt;li&gt;Salt to taste&lt;/li&gt;&lt;li&gt;Jaggery or sugar 1/2 tsp&lt;/li&gt;&lt;li&gt;Lemon juice 1 tbsp&lt;/li&gt;&lt;li&gt;Cooking oil 1 1/2 tbsps&lt;/li&gt;&lt;li&gt;For tempering: Cumin seeds 1/2 tsp&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Bhindi Fry", "lines":"1", "size":"md"}&lt;/label_value&gt;
+        &lt;name&gt;Bhindi Fry&lt;/name&gt;
+        &lt;notes/&gt;
+        &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition&gt;&lt;![CDATA[&lt;table style="border-collapse: collapse; width: 25.4891%; height: 276.969px;" border="1"&gt;&lt;tbody&gt;&lt;tr style="height: 27px;"&gt;&lt;td style="width: 47.6424%; height: 27px;"&gt;Calories&lt;/td&gt;&lt;td style="width: 52.361%; height: 27px;"&gt;196&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 38px;"&gt;&lt;td style="width: 47.6424%; height: 38px;"&gt;Calories from fat&lt;/td&gt;&lt;td style="width: 52.361%; height: 38px;"&gt;150&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 37.3125px;"&gt;&lt;td style="width: 47.6424%; height: 37.3125px;"&gt;
+&lt;div&gt;Vitamin A&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;/td&gt;&lt;td style="width: 52.361%; height: 37.3125px;"&gt;56%&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 23px;"&gt;&lt;td style="width: 47.6424%; height: 23px;"&gt;Vitamin C&lt;/td&gt;&lt;td style="width: 52.361%; height: 23px;"&gt;6.7%&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 31px;"&gt;&lt;td style="width: 47.6424%; height: 31px;"&gt;Calcium&lt;/td&gt;&lt;td style="width: 52.361%; height: 31px;"&gt;8.7%&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 21px;"&gt;&lt;td style="width: 47.6424%; height: 21px;"&gt;Iron&lt;/td&gt;&lt;td style="width: 52.361%; height: 21px;"&gt;8.7%&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 31px;"&gt;&lt;td style="width: 47.6424%; height: 31px;"&gt;Cholesterol&lt;/td&gt;&lt;td style="width: 52.361%; height: 31px;"&gt;0mg&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 28px;"&gt;&lt;td style="width: 47.6424%; height: 28px;"&gt;Sodium &lt;/td&gt;&lt;td style="width: 52.361%; height: 28px;"&gt;260mg&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 22px;"&gt;&lt;td style="width: 47.6424%; height: 22px;"&gt;Potassium &lt;/td&gt;&lt;td style="width: 52.361%; height: 22px;"&gt;342mg&lt;/td&gt;&lt;/tr&gt;&lt;tr style="height: 18.6562px;"&gt;&lt;td style="width: 47.6424%; height: 18.6562px;"&gt;Carbohydrates &lt;/td&gt;&lt;td style="width: 52.361%; height: 18.6562px;"&gt;12mg&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;]]&gt;&lt;/nutrition&gt;
+        &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
+        &lt;servings&gt;1&lt;/servings&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-20 09:20:55&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;b660f9db976e9110dd0178300153af35&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-20 09:20:55&lt;/sys_updated_on&gt;
+        &lt;total/&gt;
+        &lt;url/&gt;
+    &lt;/x_snc_recipe_db_recipe&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-20 09:25:54</sys_created_on>
+        <sys_id>00c53d9397ae9110dd0178300153afba</sys_id>
+        <sys_name>Bhindi Fry</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_00c53d9397ae9110dd0178300153afba</sys_update_name>
+        <tablename>x_snc_recipe_db_recipe</tablename>
+    </sys_metadata_link>
+</record_update>
