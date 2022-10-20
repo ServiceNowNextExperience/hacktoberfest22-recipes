@@ -12,7 +12,7 @@
 &lt;/div&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;true&lt;/favorite&gt;
         &lt;image&gt;fef4a23a976211105dfe79100153af05&lt;/image&gt;
-        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 10 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 15 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Day 1 Hour&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 10 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 15 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Day 11 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 raw plantain / raw banana&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-1" type="checkbox" /&gt;&lt;label for="wprm-checkbox-1"&gt;▢&lt;/label&gt;¾ cup besan / gram flour&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-2" type="checkbox" /&gt;&lt;label for="wprm-checkbox-2"&gt;▢&lt;/label&gt;2 tbsp rice flour&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-3" type="checkbox" /&gt;&lt;label for="wprm-checkbox-3"&gt;▢&lt;/label&gt;¼ tsp turmeric&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-4" type="checkbox" /&gt;&lt;label for="wprm-checkbox-4"&gt;▢&lt;/label&gt;½ tsp kashmiri red chilli powder&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-5" type="checkbox" /&gt;&lt;label for="wprm-checkbox-5"&gt;▢&lt;/label&gt;pinch hing / asafoetida&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-6" type="checkbox" /&gt;&lt;label for="wprm-checkbox-6"&gt;▢&lt;/label&gt;¾ tsp salt&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-7" type="checkbox" /&gt;&lt;label for="wprm-checkbox-7"&gt;▢&lt;/label&gt;½ cup water&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-8" type="checkbox" /&gt;&lt;label for="wprm-checkbox-8"&gt;▢&lt;/label&gt;¼ tsp baking soda&lt;/li&gt;&lt;li&gt;&lt;input id="wprm-checkbox-9" type="checkbox" /&gt;&lt;label for="wprm-checkbox-9"&gt;▢&lt;/label&gt;oil for frying&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
         &lt;label_value&gt;{"label":"Banana bajji recipe", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Banana bajji recipe&lt;/name&gt;
@@ -25,10 +25,10 @@
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-18 23:33:07&lt;/sys_created_on&gt;
         &lt;sys_id&gt;fe64ea3a976211105dfe79100153af68&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-18 23:38:20&lt;/sys_updated_on&gt;
-        &lt;total&gt;1970-01-02 01:00:00&lt;/total&gt;
+        &lt;sys_updated_on&gt;2022-10-20 20:06:22&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-02 11:00:00&lt;/total&gt;
         &lt;url&gt;https://hebbarskitchen.com/banana-bajji-recipe-aratikaya-bajji/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
     &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
@@ -76,14 +76,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 23:46:50</sys_created_on>
         <sys_id>b397627e976211105dfe79100153afa9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Banana bajji recipe</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_b397627e976211105dfe79100153afa9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 23:46:50</sys_updated_on>
+        <sys_updated_on>2022-10-20 20:06:30</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

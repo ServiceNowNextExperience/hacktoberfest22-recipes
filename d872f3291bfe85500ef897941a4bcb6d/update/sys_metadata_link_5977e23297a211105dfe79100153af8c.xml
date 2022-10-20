@@ -5,11 +5,11 @@
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
         &lt;category display_value="Lunch Recipe"&gt;f624509297a211105dfe79100153afd9&lt;/category&gt;
-        &lt;cook_time&gt;1970-01-02 16:00:00&lt;/cook_time&gt;
+        &lt;cook_time&gt;1970-01-01 00:30:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;INSTRUCTIONS &lt;/li&gt;&lt;li&gt;firstly, cut the brinjals in x-shape without taking off the stalk.&lt;/li&gt;&lt;li&gt;soak in water along with 1 tsp salt to avoid discolouring for 10 minutes.&lt;/li&gt;&lt;li&gt;meanwhile, prepare masala paste by roasting 3 tbsp peanuts until it turns crisp.&lt;/li&gt;&lt;li&gt;now add 2 tsp sesame seeds, 1 tbsp coriander seeds, 1 tsp cumin, ¼ tsp methi, 1 inch cinnamon, 2 pods cardamom and 4 clove.&lt;/li&gt;&lt;li&gt;roast on low flame until spices turn aromatic.&lt;/li&gt;&lt;li&gt;further, add 2 tbsp dry coconut and roast slightly.&lt;/li&gt;&lt;li&gt;cool completely and transfer to the blender.&lt;/li&gt;&lt;li&gt;also add 1 inch ginger, 3 clove garlic, ¼ onion, 1 tsp chilli powder, ¼ tsp turmeric and 1 tsp salt.&lt;/li&gt;&lt;li&gt;blend to a thick paste adding ¼ cup water.&lt;/li&gt;&lt;li&gt;now stuff in the prepared masala paste to all the brinjals and keep aside.&lt;/li&gt;&lt;li&gt;in a large kadai heat 3 tbsp oil and splutter 1 tsp mustard, 1 tsp cumin, 1 chilli and few curry leaves.&lt;/li&gt;&lt;li&gt;saute ½ onion until it changes colour slightly.&lt;/li&gt;&lt;li&gt;now add ¼ tsp turmeric and ½ tsp chilli powder. saute on low flame.&lt;/li&gt;&lt;li&gt;add in stuffed brinjal and saute gently.&lt;/li&gt;&lt;li&gt;cover and cook for 2-4 minutes stirring occasionally.&lt;/li&gt;&lt;li&gt;add in the leftover masala paste and saute well.&lt;/li&gt;&lt;li&gt;also, add ½ cup tamarind extract and mix well adjusting consistency as required.&lt;/li&gt;&lt;li&gt;cover and simmer for 20 minutes stirring in between.&lt;/li&gt;&lt;li&gt;after completely cooked, the masala will ooze out the oil. add 2 tbsp coriander and mix well.&lt;/li&gt;&lt;li&gt;finally, enjoy gutti vankaya curry with roti or rice.&lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;false&lt;/favorite&gt;
         &lt;image&gt;54c22a3a976211105dfe79100153afb8&lt;/image&gt;
-        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 1 Day 16 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 2 Days 7 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;p&gt; &lt;/p&gt;
 &lt;h4&gt;for soaking:&lt;/h4&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-0" type="checkbox" /&gt;&lt;label for="wprm-checkbox-0"&gt;▢&lt;/label&gt;8 brinjal / eggplant (small)&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-1" type="checkbox" /&gt;&lt;label for="wprm-checkbox-1"&gt;▢&lt;/label&gt;1 tsp salt&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-2" type="checkbox" /&gt;&lt;label for="wprm-checkbox-2"&gt;▢&lt;/label&gt;water for soaking&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;
@@ -26,16 +26,16 @@
         &lt;notes/&gt;
         &lt;number&gt;RCP0001006&lt;/number&gt;
         &lt;nutrition/&gt;
-        &lt;prep_time&gt;1970-01-01 15:00:00&lt;/prep_time&gt;
+        &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
         &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-18 23:24:44&lt;/sys_created_on&gt;
         &lt;sys_id&gt;f742a63e976211105dfe79100153af8f&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-18 23:29:37&lt;/sys_updated_on&gt;
-        &lt;total&gt;1970-01-03 07:00:00&lt;/total&gt;
+        &lt;sys_updated_on&gt;2022-10-20 20:07:54&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-01 01:00:00&lt;/total&gt;
         &lt;url&gt;https://hebbarskitchen.com/gutti-vankaya-curry-recipe/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
     &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
@@ -83,14 +83,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 23:46:07</sys_created_on>
         <sys_id>5977e23297a211105dfe79100153af8c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Stuffed Brinjal Curry</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_5977e23297a211105dfe79100153af8c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 23:46:07</sys_updated_on>
+        <sys_updated_on>2022-10-20 20:08:01</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

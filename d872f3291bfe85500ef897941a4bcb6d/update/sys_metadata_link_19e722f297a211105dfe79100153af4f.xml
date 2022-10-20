@@ -11,7 +11,7 @@
         &lt;image&gt;ef56aa3a976211105dfe79100153aff3&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 10 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 1 Day 6 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Day 16 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;div&gt;
-&lt;p&gt;for jamun:&lt;/p&gt;
+&lt;p&gt;For Jamun:&lt;/p&gt;
 &lt;p&gt;&lt;input id="wprm-checkbox-0" type="checkbox" /&gt;&lt;label for="wprm-checkbox-0"&gt;▢&lt;/label&gt;¾ cup (100 grams) milk powder, unsweetened&lt;/p&gt;
 &lt;p&gt;&lt;input id="wprm-checkbox-1" type="checkbox" /&gt;&lt;label for="wprm-checkbox-1"&gt;▢&lt;/label&gt;½ cup (60 grams) maida / plain flour&lt;/p&gt;
 &lt;p&gt;&lt;input id="wprm-checkbox-2" type="checkbox" /&gt;&lt;label for="wprm-checkbox-2"&gt;▢&lt;/label&gt;½ tsp baking powder&lt;/p&gt;
@@ -41,9 +41,9 @@
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-18 23:41:13&lt;/sys_created_on&gt;
         &lt;sys_id&gt;d5f5e23297a211105dfe79100153af80&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-18 23:45:29&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2022-10-20 20:05:37&lt;/sys_updated_on&gt;
         &lt;total&gt;1970-01-02 16:00:00&lt;/total&gt;
         &lt;url&gt;https://hebbarskitchen.com/milk-powder-gulab-jamun-recipe/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
@@ -92,14 +92,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 23:48:02</sys_created_on>
         <sys_id>19e722f297a211105dfe79100153af4f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Gulab Jamun Recipe</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_19e722f297a211105dfe79100153af4f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 23:48:02</sys_updated_on>
+        <sys_updated_on>2022-10-20 20:05:45</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

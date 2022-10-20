@@ -5,7 +5,7 @@
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
     &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
         &lt;category display_value="Lunch Recipe"&gt;f624509297a211105dfe79100153afd9&lt;/category&gt;
-        &lt;cook_time&gt;1970-01-02 06:00:00&lt;/cook_time&gt;
+        &lt;cook_time&gt;1970-01-01 00:15:00&lt;/cook_time&gt;
         &lt;directions&gt;&lt;![CDATA[&lt;h3&gt;Instructions&lt;/h3&gt;
 &lt;div&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;To Marinate Fish&lt;/li&gt;&lt;li&gt;In a bowl add turmeric powder, chili powder, coriander powder, pepper, ginger garlic paste, salt, and lemon juice and mix everything well to make a masala&lt;/li&gt;&lt;li&gt;Apply the masala on both sides of the fish and allow it to rest for 15 minutes
@@ -22,12 +22,14 @@
 &lt;/div&gt;]]&gt;&lt;/directions&gt;
         &lt;favorite&gt;true&lt;/favorite&gt;
         &lt;image&gt;1f6e1a3a976211105dfe79100153af25&lt;/image&gt;
-        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 1 Day 6 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Day 21 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;h4&gt;To Marinate&lt;/h4&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-0" type="checkbox" /&gt;&lt;label for="wprm-checkbox-0"&gt;▢&lt;/label&gt;1 Fish, Black Pomfret, full fish cleaned &amp;amp; slit&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-1" type="checkbox" /&gt;&lt;label for="wprm-checkbox-1"&gt;▢&lt;/label&gt;½ tsp Turmeric Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-2" type="checkbox" /&gt;&lt;label for="wprm-checkbox-2"&gt;▢&lt;/label&gt;1½ tsp Chili Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-3" type="checkbox" /&gt;&lt;label for="wprm-checkbox-3"&gt;▢&lt;/label&gt;1 tsp Pepper Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-4" type="checkbox" /&gt;&lt;label for="wprm-checkbox-4"&gt;▢&lt;/label&gt;1 tsp Coriander Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-5" type="checkbox" /&gt;&lt;label for="wprm-checkbox-5"&gt;▢&lt;/label&gt;1 tsp Ginger Garlic Paste&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-6" type="checkbox" /&gt;&lt;label for="wprm-checkbox-6"&gt;▢&lt;/label&gt;2 tsp Lemon Juice&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-7" type="checkbox" /&gt;&lt;label for="wprm-checkbox-7"&gt;▢&lt;/label&gt;Salt, as needed
 &lt;h4&gt;To Make Gravy&lt;/h4&gt;
+&lt;br /&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-8" type="checkbox" /&gt;&lt;label for="wprm-checkbox-8"&gt;▢&lt;/label&gt;0.55 lb Pearl Onion, shallot, chopped&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-9" type="checkbox" /&gt;&lt;label for="wprm-checkbox-9"&gt;▢&lt;/label&gt;2 Tomato, chopped&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-10" type="checkbox" /&gt;&lt;label for="wprm-checkbox-10"&gt;▢&lt;/label&gt;3 Green Chili, sliced&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-11" type="checkbox" /&gt;&lt;label for="wprm-checkbox-11"&gt;▢&lt;/label&gt;1 sprig Curry Leaves&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-12" type="checkbox" /&gt;&lt;label for="wprm-checkbox-12"&gt;▢&lt;/label&gt;2 tsp Ginger Garlic Paste&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-13" type="checkbox" /&gt;&lt;label for="wprm-checkbox-13"&gt;▢&lt;/label&gt;1 tsp Chili Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-14" type="checkbox" /&gt;&lt;label for="wprm-checkbox-14"&gt;▢&lt;/label&gt;1 tsp Coriander Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-15" type="checkbox" /&gt;&lt;label for="wprm-checkbox-15"&gt;▢&lt;/label&gt;½ tsp Turmeric Powder&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-16" type="checkbox" /&gt;&lt;label for="wprm-checkbox-16"&gt;▢&lt;/label&gt;Salt, as needed&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-17" type="checkbox" /&gt;&lt;label for="wprm-checkbox-17"&gt;▢&lt;/label&gt;½ cup Coconut Milk&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-18" type="checkbox" /&gt;&lt;label for="wprm-checkbox-18"&gt;▢&lt;/label&gt;2 tsp Coconut Oil&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;
 &lt;h4&gt;o Wrap &amp;amp; Serve&lt;/h4&gt;
+&lt;br /&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-19" type="checkbox" /&gt;&lt;label for="wprm-checkbox-19"&gt;▢&lt;/label&gt;1 Banana Leaf&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-20" type="checkbox" /&gt;&lt;label for="wprm-checkbox-20"&gt;▢&lt;/label&gt;1 tsp Coconut oil&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-21" type="checkbox" /&gt;&lt;label for="wprm-checkbox-21"&gt;▢&lt;/label&gt;1 sprig Curry Leaves&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-22" type="checkbox" /&gt;&lt;label for="wprm-checkbox-22"&gt;▢&lt;/label&gt;2 Green Chili&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-23" type="checkbox" /&gt;&lt;label for="wprm-checkbox-23"&gt;▢&lt;/label&gt;1 Lemon Slice&lt;/li&gt;&lt;li style="list-style-type: none;"&gt;&lt;input id="wprm-checkbox-24" type="checkbox" /&gt;&lt;label for="wprm-checkbox-24"&gt;▢&lt;/label&gt;Banana string, twine, to tie&lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;
 &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
@@ -38,16 +40,16 @@
         &lt;nutrition&gt;&lt;![CDATA[&lt;h3&gt;Nutrition&lt;/h3&gt;
 &lt;div&gt; &lt;/div&gt;
 &lt;div&gt;Serving: 1serving | Calories: 291kcal | Carbohydrates: 30g | Protein: 5g | Fat: 19g | Saturated Fat: 16g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 1g | Cholesterol: 0.3mg | Sodium: 438mg | Potassium: 724mg | Fiber: 10g | Sugar: 13g | Vitamin A: 2260IU | Vitamin C: 84mg | Calcium: 86mg | Iron: 4mg&lt;/div&gt;]]&gt;&lt;/nutrition&gt;
-        &lt;prep_time&gt;1970-01-01 15:00:00&lt;/prep_time&gt;
+        &lt;prep_time&gt;1970-01-01 00:15:00&lt;/prep_time&gt;
         &lt;rating/&gt;
         &lt;servings&gt;2&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-18 23:05:28&lt;/sys_created_on&gt;
         &lt;sys_id&gt;980e123a976211105dfe79100153af60&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-18 23:22:46&lt;/sys_updated_on&gt;
-        &lt;total&gt;1970-01-02 21:00:00&lt;/total&gt;
+        &lt;sys_updated_on&gt;2022-10-20 20:08:54&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-01 00:30:00&lt;/total&gt;
         &lt;url&gt;https://yellowchilis.com/meen-pollichathu-recipe-fried-fish-in-banana-leaf/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
     &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
@@ -95,14 +97,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 23:47:20</sys_created_on>
         <sys_id>4bb726b297a211105dfe79100153afae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Fish Fry in Banana Leaf Recipe</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_4bb726b297a211105dfe79100153afae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 23:47:20</sys_updated_on>
+        <sys_updated_on>2022-10-20 20:09:02</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
