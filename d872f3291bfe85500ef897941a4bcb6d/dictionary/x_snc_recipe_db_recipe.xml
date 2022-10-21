@@ -7,7 +7,7 @@
         <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Image" max_length="40" name="image" type="user_image"/>
         <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;&#10;    var recipeInfo = '&lt;ul style=&quot;list-style-position: inside;&quot;&gt;';&#10;    recipeInfo += '&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: ' + current.servings.getDisplayValue() + '&lt;/li&gt;';&#10;    recipeInfo += '&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: ' + current.prep_time.getDisplayValue() + '&lt;/li&gt;';&#10;    recipeInfo += '&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: ' + current.cook_time.getDisplayValue() + '&lt;/li&gt;';&#10;    recipeInfo += '&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: ' + current.total.getDisplayValue() + '&lt;/li&gt;';&#10;    recipeInfo += '&lt;/ul&gt;';&#10;    return recipeInfo;&#10;&#10;})(current);" label="Information" max_length="4000" name="information" type="html" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" label="Ingredients" max_length="4000" name="ingredients" type="html"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;var label = new x_snc_recipe_db.helpers().generateLabel(current);&#13;&#10;&#9;return label;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Label value" max_length="400" name="label_value" type="string_full_utf8" virtual="true"/>
+        <element calculation="(function calculatedFieldValue(current) {&#10;&#10;&#9;var label = new x_snc_recipe_db.helpers().generateLabel(current);&#10;&#9;return label;  // return the calculated value&#10;&#10;})(current);" label="Label value" max_length="400" name="label_value" type="string_full_utf8" virtual="true"/>
         <element display="true" label="Name" max_length="100" name="name" type="string"/>
         <element label="Notes" max_length="40" name="notes" type="journal"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -15,7 +15,7 @@
         <element attributes="edge_encryption_enabled=true" label="Prep time" max_length="40" name="prep_time" type="glide_duration"/>
         <element label="Raiting" max_length="40" name="rating" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Servings" max_length="40" name="servings" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Total" max_length="40" name="total" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Total" max_length="40" name="total" read_only="true" type="glide_duration"/>
         <element label="URL" max_length="200" name="url" type="url"/>
         <index name="index">
             <element name="category"/>
