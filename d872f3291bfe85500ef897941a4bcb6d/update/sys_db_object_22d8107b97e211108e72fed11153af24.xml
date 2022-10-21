@@ -9,7 +9,6 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Ratings</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,22 +18,17 @@
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>paige</sys_created_by>
         <sys_created_on>2022-09-30 18:40:54</sys_created_on>
-        <sys_id>d5e4b88187d21510ab680f65dabb357c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>22d8107b97e211108e72fed11153af24</sys_id>
         <sys_name>Ratings</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
-        <sys_update_name>sys_db_object_d5e4b88187d21510ab680f65dabb357c</sys_update_name>
-        <sys_updated_by>paige</sys_updated_by>
-        <sys_updated_on>2022-09-30 18:40:54</sys_updated_on>
+        <sys_update_name>sys_db_object_22d8107b97e211108e72fed11153af24</sys_update_name>
         <update_access>false</update_access>
-        <user_role display_value="x_snc_recipe_db.ratings_user" name="x_snc_recipe_db.ratings_user">32f470c187d21510ab680f65dabb3537</user_role>
+        <user_role display_value="">32f470c187d21510ab680f65dabb3537</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

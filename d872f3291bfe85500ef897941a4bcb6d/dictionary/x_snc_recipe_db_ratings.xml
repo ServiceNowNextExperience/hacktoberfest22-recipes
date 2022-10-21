@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Ratings" max_length="40" name="x_snc_recipe_db_ratings" type="collection">
+    <element db_object_id="22d8107b97e211108e72fed11153af24" label="Ratings" max_length="40" name="x_snc_recipe_db_ratings" type="collection">
         <element label="Comment" max_length="500" name="comment" type="string"/>
         <element label="Rating" max_length="40" name="rating" type="integer"/>
         <element label="Recipe" max_length="32" name="recipe" reference="x_snc_recipe_db_recipe" type="reference"/>

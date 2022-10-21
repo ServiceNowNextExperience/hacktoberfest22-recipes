@@ -98,14 +98,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-10 17:55:02</sys_created_on>
         <sys_id>a06a841497a21110418450081153af3b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>French Onion Macaroni and Cheese</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_a06a841497a21110418450081153af3b</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-10 17:55:02</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
