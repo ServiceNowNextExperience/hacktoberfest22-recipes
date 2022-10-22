@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cfed9584973a51101501337e6253af46</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_recipe_db_ratings">
+    <x_snc_recipe_db_ratings action="INSERT_OR_UPDATE">
+        <comment>These sweet and spicy Korean BBQ Chicken Wings are oven baked and oh so crispy! A great main dish or appetizer</comment>
+        <rating>5</rating>
+        <recipe display_value="Korean BBQ Oven Baked Chicken Wings">6c3e8067476211101f8ea946926d435a</recipe>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-22 15:38:49</sys_created_on>
+        <sys_id>cfed9584973a51101501337e6253af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-22 15:38:49</sys_updated_on>
+        <user display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</user>
+    </x_snc_recipe_db_ratings>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-22 15:39:09</sys_created_on>
+        <sys_id>3e5e9944973a51101501337e6253afe8</sys_id>
+        <sys_name>Created 2022-10-22 21:08:49</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_3e5e9944973a51101501337e6253afe8</sys_update_name>
+        <tablename>x_snc_recipe_db_ratings</tablename>
+    </sys_metadata_link>
+</record_update>
