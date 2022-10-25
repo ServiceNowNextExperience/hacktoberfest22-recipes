@@ -1049,9 +1049,9 @@
                   "elementLabel" : "Rich text 1",
                   "propertyValues" : {
                     "html" : {
-                      "type" : "DATA_OUTPUT_BINDING",
+                      "type" : "STATE_BINDING",
                       "binding" : {
-                        "address" : [ "look_up_recipe", "result", "ingredients", "value" ]
+                        "address" : [ "ingredients_to_display" ]
                       }
                     }
                   },
@@ -1173,7 +1173,7 @@
                           "type" : "TRANSLATION_LITERAL",
                           "value" : {
                             "code" : null,
-                            "message" : "&lt;p style=\"text-align: center;\"&gt;You don't have enough ingredients, or you want to make more? No problem!&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;Enter the amount that you have of one ingredient, and we'll proportion every ingredient accordingly for you!&lt;/p&gt;",
+                            "message" : "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 10pt;\"&gt;You don't have enough ingredients, or you want to make more? No problem!&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 10pt;\"&gt;Enter the amount&amp;nbsp; of one ingredient&amp;nbsp;that you have, and we'll proportion every ingredient accordingly for you!&lt;/span&gt;&lt;/p&gt;",
                             "comment" : ""
                           }
                         }
@@ -1290,8 +1290,8 @@
                   },
                   "overrides" : {
                     "composition" : [ {
-                      "elementId" : "input_1",
-                      "elementLabel" : "Input 1",
+                      "elementId" : "recipe_amount",
+                      "elementLabel" : "Recipe amount",
                       "propertyValues" : {
                         "type" : {
                           "type" : "JSON_LITERAL",
@@ -1314,8 +1314,12 @@
                           "value" : null
                         },
                         "value" : {
-                          "type" : "JSON_LITERAL",
-                          "value" : null
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "1",
+                            "comment" : ""
+                          }
                         },
                         "readonly" : {
                           "type" : "JSON_LITERAL",
@@ -1393,8 +1397,8 @@
                       "isNonDestructive" : false,
                       "styles" : { }
                     }, {
-                      "elementId" : "input_2",
-                      "elementLabel" : "Input 2",
+                      "elementId" : "amount_you_have",
+                      "elementLabel" : "Amount you have",
                       "propertyValues" : {
                         "type" : {
                           "type" : "JSON_LITERAL",
@@ -1417,8 +1421,12 @@
                           "value" : null
                         },
                         "value" : {
-                          "type" : "JSON_LITERAL",
-                          "value" : null
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "2",
+                            "comment" : ""
+                          }
                         },
                         "readonly" : {
                           "type" : "JSON_LITERAL",
@@ -1500,7 +1508,7 @@
                       "default" : {
                         "children" : null,
                         "isInline" : null,
-                        "items" : [{"element_id":"input_1","styles":{}},{"element_id":"input_2","styles":{}}],
+                        "items" : [{"element_id":"recipe_amount","styles":{}},{"element_id":"amount_you_have","styles":{}}],
                         "root" : null,
                         "rules" : null,
                         "styles" : {"flex-direction":"row"},
@@ -1560,7 +1568,31 @@
                       "container" : { }
                     }
                   },
-                  "eventMappings" : [ ],
+                  "eventMappings" : [ {
+                    "eventMappingId" : "cljjohhccaainaaeendddnhhffyrfiefflk",
+                    "isConfiguration" : false,
+                    "offRowStorageId" : null,
+                    "sourceEventApiName" : "sn_button.NOW_BUTTON#CLICKED",
+                    "sourceEventCorrelationId" : null,
+                    "sourceEventDefinition" : {
+                      "apiName" : "sn_button.NOW_BUTTON#CLICKED",
+                      "id" : null,
+                      "type" : "UXEVENT"
+                    },
+                    "sourceEventSysId" : null,
+                    "targets" : [ {
+                      "broker" : null,
+                      "clientScript" : {
+                        "sysId" : "372fc48d2ff611102a71dcb6f699b6fd"
+                      },
+                      "conditional" : null,
+                      "declarativeAction" : null,
+                      "event" : null,
+                      "operation" : null,
+                      "targetId" : "cljjohhccaainaaeeneddnhhffbqggzimvu",
+                      "type" : "CLIENT_SCRIPT"
+                    } ]
+                  } ],
                   "slot" : null,
                   "definition" : {
                     "id" : "d37ce8abca89d02905fed903c8e34d8e",
@@ -2198,7 +2230,13 @@
   "disabled" : false
 } ]</props>
         <required_translations>[ {
-  "message" : "&lt;p style=\"text-align: center;\"&gt;You don't have enough ingredients, or you want to make more? No problem!&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;Enter the amount that you have of one ingredient, and we'll proportion every ingredient accordingly for you!&lt;/p&gt;",
+  "message" : "1",
+  "comment" : ""
+}, {
+  "message" : "2",
+  "comment" : ""
+}, {
+  "message" : "&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 10pt;\"&gt;You don't have enough ingredients, or you want to make more? No problem!&lt;/span&gt;&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;span style=\"font-size: 10pt;\"&gt;Enter the amount&amp;nbsp; of one ingredient&amp;nbsp;that you have, and we'll proportion every ingredient accordingly for you!&lt;/span&gt;&lt;/p&gt;",
   "comment" : ""
 }, {
   "message" : "Amount that you have",
@@ -2247,18 +2285,44 @@
         <root_component_config>{ }</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
-        <state_properties>[ ]</state_properties>
+        <state_properties>[ {
+  "name" : "base_ingredients",
+  "label" : "base_ingredients",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "DATA_OUTPUT_BINDING",
+    "binding" : {
+      "address" : [ "look_up_recipe", "result", "ingredients", "value" ]
+    }
+  }
+}, {
+  "name" : "ingredients_to_display",
+  "label" : "ingredients_to_display",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "DATA_OUTPUT_BINDING",
+    "binding" : {
+      "address" : [ "look_up_recipe", "result", "ingredients", "value" ]
+    }
+  }
+} ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-25 11:40:14</sys_created_on>
         <sys_id>a87484052ff611102a71dcb6f699b682</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Recipe</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_a87484052ff611102a71dcb6f699b682</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-25 12:11:17</sys_updated_on>
+        <sys_updated_on>2022-10-25 12:59:42</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
