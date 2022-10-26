@@ -4,13 +4,13 @@
         <app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config>
         <description/>
         <event_mappings>[ {
-  "eventMappingId" : "cliiywwfzjjaaffyxddffhhsganxjjnwbb",
+  "eventMappingId" : "cljjoffoiyeaaeeccfddnhhffvyjtjjski",
   "isConfiguration" : false,
   "offRowStorageId" : null,
-  "sourceEventApiName" : "x_snc_recipe_db.NAV_ITEM_SELECTED_RELAY_30788d53db9e1510189272c7f4961912",
+  "sourceEventApiName" : "x_snc_recipe_db.NAV_ITEM_SELECTED_RELAY_a87484052ff611102a71dcb6f699b682",
   "sourceEventCorrelationId" : null,
   "sourceEventDefinition" : {
-    "apiName" : "x_snc_recipe_db.NAV_ITEM_SELECTED_RELAY_30788d53db9e1510189272c7f4961912",
+    "apiName" : "x_snc_recipe_db.NAV_ITEM_SELECTED_RELAY_a87484052ff611102a71dcb6f699b682",
     "id" : null,
     "type" : "UXEVENT"
   },
@@ -84,7 +84,7 @@
       "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
     },
     "operation" : null,
-    "targetId" : "cliiywwfzhhaaffywddffhhsnjfzjjkpy",
+    "targetId" : "cljjoffoiyeaaeecceddnhhfftgaggccvoee",
     "type" : "EVENT"
   } ]
 }, {
@@ -172,7 +172,7 @@
     "type" : "EVENT"
   } ]
 } ]</event_mappings>
-        <macroponent display_value="Recipe default Copy">30788d53db9e1510189272c7f4961912</macroponent>
+        <macroponent display_value="Recipe">a87484052ff611102a71dcb6f699b682</macroponent>
         <macroponent_config>{
   "recipeId" : {
     "type" : "JSON_LITERAL",
@@ -211,7 +211,7 @@
     "value" : false
   }
 }</macroponent_config>
-        <name>Recipe default comment</name>
+        <name>Recipe default proportion</name>
         <order>100</order>
         <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
         <required_translations>[ ]</required_translations>
@@ -220,19 +220,19 @@
         <screen_type display_value="Recipe">e31e6756a18301107f449182c2d2a120</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-10-07 19:52:18</sys_created_on>
+        <sys_created_on>2022-10-25 11:40:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b0788d53db9e1510189272c7f496191a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Recipe default comment</sys_name>
+        <sys_id>b47444452ff611102a71dcb6f699b695</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Recipe default proportion</sys_name>
         <sys_overrides/>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
-        <sys_update_name>sys_ux_screen_b0788d53db9e1510189272c7f496191a</sys_update_name>
+        <sys_update_name>sys_ux_screen_b47444452ff611102a71dcb6f699b695</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-25 13:11:14</sys_updated_on>
+        <sys_updated_on>2022-10-26 10:05:38</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=b0788d53db9e1510189272c7f496191a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=b47444452ff611102a71dcb6f699b695"/>
 </record_update>
