@@ -11,10 +11,13 @@
         &lt;image&gt;8461463d112a41107f4444bd6579ad86&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 8 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 2 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 10 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1/4 cup soy sauce&lt;/li&gt;&lt;li&gt;1/4 cup packed brown sugar&lt;/li&gt;&lt;li&gt;2 tablespoons sherry&lt;/li&gt;&lt;li&gt;1 1/2 teaspoons dried minced onion&lt;/li&gt;&lt;li&gt;1 teaspoon ground cinnamon&lt;/li&gt;&lt;li&gt;2 tablespoons olive oil&lt;/li&gt;&lt;li&gt;1 pinch garlic powder&lt;/li&gt;&lt;li&gt;2 (3/4 pound) pork tenderloins&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Mom's Pork Tenderloin", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Mom's Pork Tenderloin&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 08:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-03-30 02:44:46&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;87105dc4d227c2811743ce9386d2d72cc90f48c2d96dfbcba911f12bc3108df2&lt;/hash&gt;
         &lt;image_height&gt;394&lt;/image_height&gt;
@@ -70,11 +74,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:51</sys_created_on>
         <sys_id>e84e0d7c971e9190c6fc7e0e6253af38</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Mom's Pork Tenderloin</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_e84e0d7c971e9190c6fc7e0e6253af38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:38:06</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

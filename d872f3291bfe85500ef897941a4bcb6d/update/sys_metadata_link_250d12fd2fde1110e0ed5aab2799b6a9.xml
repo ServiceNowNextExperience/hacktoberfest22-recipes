@@ -34,10 +34,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;8 to 10 whole almonds&lt;/li&gt;&lt;li&gt;8 to 10 whole cashews&lt;/li&gt;&lt;li&gt;2 tablespoons unsalted butter, divided&lt;/li&gt;&lt;li&gt;1 tablespoon ginger garlic paste&lt;/li&gt;&lt;li&gt;1 teaspoon sugar&lt;/li&gt;&lt;li&gt;1 (15-ounce) can diced tomatoes&lt;/li&gt;&lt;li&gt;2 tablespoons dried coriander seed&lt;/li&gt;&lt;li&gt;1 1/2 teaspoons ground garam masala&lt;/li&gt;&lt;li&gt;1/2 teaspoon ground Kashmiri Lal Mirch&lt;/li&gt;&lt;li&gt;1/2 teaspoon salt&lt;/li&gt;&lt;li&gt;1 cup water&lt;/li&gt;&lt;li&gt;1/4 cup heavy cream&lt;/li&gt;&lt;li&gt;1/2 tablespoon Kasuri Methi&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;br /&gt;&lt;strong&gt;To serve:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Cooked rice, roti, or naan bread&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Indian Butter Chicken", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Indian Butter Chicken&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001002&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:30:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 10:09:38&lt;/sys_created_on&gt;
@@ -53,6 +56,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;14ac5814489a32ad4e0b757240c68f40aed9e1d32a63647e7c599d3aa9a7bc10&lt;/hash&gt;
         &lt;image_height&gt;1280&lt;/image_height&gt;
@@ -93,14 +97,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-03 10:10:55</sys_created_on>
         <sys_id>250d12fd2fde1110e0ed5aab2799b6a9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Indian Butter Chicken</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_250d12fd2fde1110e0ed5aab2799b6a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-03 10:10:55</sys_updated_on>
+        <sys_updated_on>2022-10-27 04:36:58</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
