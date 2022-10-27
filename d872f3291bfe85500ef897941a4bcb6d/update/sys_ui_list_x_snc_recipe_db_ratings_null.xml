@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_recipe_db_ratings" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comment</element>
+            <list_id display_value="x_snc_recipe_db_ratings" element="NULL" name="x_snc_recipe_db_ratings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a463f52d2fb61110b7d32ea62799b66e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>VaishnaviLathkar98</sys_created_by>
+            <sys_created_on>2022-10-27 09:01:54</sys_created_on>
+            <sys_id>a063f52d2fb61110b7d32ea62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>VaishnaviLathkar98</sys_updated_by>
+            <sys_updated_on>2022-10-27 09:01:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rating</element>
+            <list_id display_value="x_snc_recipe_db_ratings" element="NULL" name="x_snc_recipe_db_ratings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a463f52d2fb61110b7d32ea62799b66e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>VaishnaviLathkar98</sys_created_by>
+            <sys_created_on>2022-10-27 09:01:54</sys_created_on>
+            <sys_id>2463f52d2fb61110b7d32ea62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>VaishnaviLathkar98</sys_updated_by>
+            <sys_updated_on>2022-10-27 09:01:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>recipe</element>
+            <list_id display_value="x_snc_recipe_db_ratings" element="NULL" name="x_snc_recipe_db_ratings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a463f52d2fb61110b7d32ea62799b66e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>VaishnaviLathkar98</sys_created_by>
+            <sys_created_on>2022-10-27 09:01:54</sys_created_on>
+            <sys_id>a463f52d2fb61110b7d32ea62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>VaishnaviLathkar98</sys_updated_by>
+            <sys_updated_on>2022-10-27 09:01:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_snc_recipe_db_ratings" element="NULL" name="x_snc_recipe_db_ratings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a463f52d2fb61110b7d32ea62799b66e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>VaishnaviLathkar98</sys_created_by>
+            <sys_created_on>2022-10-27 09:01:54</sys_created_on>
+            <sys_id>2863f52d2fb61110b7d32ea62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>VaishnaviLathkar98</sys_updated_by>
+            <sys_updated_on>2022-10-27 09:01:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_recipe_db_ratings</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>VaishnaviLathkar98</sys_created_by>
+            <sys_created_on>2022-10-27 09:01:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a463f52d2fb61110b7d32ea62799b66e</sys_id>
+            <sys_name>x_snc_recipe_db_ratings</sys_name>
+            <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_recipe_db_ratings_null</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
