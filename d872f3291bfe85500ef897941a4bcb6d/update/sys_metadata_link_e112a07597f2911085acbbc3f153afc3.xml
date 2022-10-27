@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7850e0f197f2911085acbbc3f153af5e</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
+    &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
+        &lt;category display_value="Pasta"&gt;73f34d689722111085acbbc3f153af3c&lt;/category&gt;
+        &lt;cook_time&gt;1970-01-02 06:00:00&lt;/cook_time&gt;
+        &lt;directions&gt;&lt;![CDATA[&lt;div&gt;
+&lt;div&gt;1. Heat the oven (two-sided heat: 200 °C / 392 F)&lt;/div&gt;
+&lt;div&gt;2. Either half the pumpkin or remove the lit by cutting around 4cm&lt;/div&gt;
+&lt;div&gt;3. Remove the inner parts of the pumpkin with a big spoon&lt;/div&gt;
+&lt;div&gt;4. Add some olive oil to the pumpkin (inside and outside)&lt;/div&gt;
+&lt;div&gt;5. Put the pumpkin into the oven for around 20 minutes (depening on pumpkin size can be longer)&lt;/div&gt;
+&lt;div&gt;6. Cut the onions and the garlic into small pieces / very small cubes.&lt;/div&gt;
+&lt;div&gt;7. Put a pan on the stove and heat the pine nuts until they are roasted&lt;/div&gt;
+&lt;div&gt;8. Remove the pine nuts from the pan&lt;/div&gt;
+&lt;div&gt;9. Add 1 tablespoon of olive oil to the pan&lt;/div&gt;
+&lt;div&gt;10. Add the onions and around 5 minutes later the garlic&lt;/div&gt;
+&lt;div&gt;11. Add the spinach&lt;/div&gt;
+&lt;div&gt;12. If frozen wait until it gets more fluid. If real spinach is used wait until it is collapsed&lt;/div&gt;
+&lt;div&gt;13. Add the riccotta or creme fraiche&lt;/div&gt;
+&lt;div&gt;14. Add salt, pepper, thyme and nutmeg&lt;/div&gt;
+&lt;div&gt;15. Add one third of the mozzarella and the pine nuts&lt;/div&gt;
+&lt;div&gt;16. Fill everything from the pan into the pumpkin&lt;/div&gt;
+&lt;div&gt;17. Put the last two thirds of mozzarella on top and bake until a brown crust forms&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/directions&gt;
+        &lt;favorite&gt;false&lt;/favorite&gt;
+        &lt;image/&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 20 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 1 Day 6 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 2 Days 2 Hours&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;ingredients&gt;&lt;![CDATA[&lt;div&gt;
+&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 Hokkaido-Pumpkin, around 1 kg&lt;/li&gt;&lt;li&gt;400g Baby-Spinach (can also be frozen young spinach which is already cut)&lt;/li&gt;&lt;li&gt;dry thyme&lt;/li&gt;&lt;li&gt;1 Onion&lt;/li&gt;&lt;li&gt;2 Gloves of Garlic&lt;/li&gt;&lt;li&gt;20g Pine nuts&lt;/li&gt;&lt;li&gt;250g Pasta&lt;/li&gt;&lt;li&gt;2 tablespoons olive oil&lt;/li&gt;&lt;li&gt;150g Ricotta or Créme fraiche&lt;/li&gt;&lt;li&gt;1 take of salt&lt;/li&gt;&lt;li&gt;1 take of pepper&lt;/li&gt;&lt;li&gt;1 take of nutmeg&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Baked Pumpkin with Pasta Spinach filling", "lines":"2", "size":"md"}&lt;/label_value&gt;
+        &lt;name&gt;Baked Pumpkin with Pasta Spinach filling&lt;/name&gt;
+        &lt;notes/&gt;
+        &lt;number&gt;RCP0001002&lt;/number&gt;
+        &lt;nutrition/&gt;
+        &lt;prep_time&gt;1970-01-01 20:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
+        &lt;servings&gt;2&lt;/servings&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-27 21:42:53&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;7850e0f197f2911085acbbc3f153af5e&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-27 21:42:53&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-03 02:00:00&lt;/total&gt;
+        &lt;url/&gt;
+    &lt;/x_snc_recipe_db_recipe&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-27 21:45:11</sys_created_on>
+        <sys_id>e112a07597f2911085acbbc3f153afc3</sys_id>
+        <sys_name>Baked Pumpkin with Pasta Spinach filling</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_e112a07597f2911085acbbc3f153afc3</sys_update_name>
+        <tablename>x_snc_recipe_db_recipe</tablename>
+    </sys_metadata_link>
+</record_update>
