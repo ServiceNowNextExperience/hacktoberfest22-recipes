@@ -11,10 +11,13 @@
         &lt;image&gt;66bb22d2116ec1107f4444bd6579ad01&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 25 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;2 1/2 cups flour&lt;/li&gt;&lt;li&gt;2/3 cup sugar&lt;/li&gt;&lt;li&gt;2 tablespoons baking powder&lt;/li&gt;&lt;li&gt;4 eggs, separated&lt;/li&gt;&lt;li&gt;1 stick butter, melted&lt;/li&gt;&lt;li&gt;4 cups milk&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Best Pancakes Ever", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Best Pancakes Ever&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001006&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:15:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 14:23:14&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;7ae739e21fb64375a209abed2abcf0a0d813520189ab380dcc569f832cdbe1a2&lt;/hash&gt;
         &lt;image_height&gt;400&lt;/image_height&gt;
@@ -70,11 +74,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:42</sys_created_on>
         <sys_id>da3ec97c971e9190c6fc7e0e6253af48</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Best Pancakes Ever</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_da3ec97c971e9190c6fc7e0e6253af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:35:30</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

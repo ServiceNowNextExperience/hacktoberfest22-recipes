@@ -42,14 +42,13 @@
         <update_guid_history>23f470c1cad215104ff4b54205fc0f9a:-261932008</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_recipe_db_ratings.x_snc_recipe_db.ratings_user">cc763c0587d21510ab680f65dabb3557</sys_audit_delete>
+        <sys_audit_delete display_value="">cc763c0587d21510ab680f65dabb3557</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>paige</sys_created_by>
         <sys_created_on>2022-09-30 18:47:15</sys_created_on>
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>4dd4ef24bf6840a883df9d48ca83c281</sys_id>
         <sys_metadata>6bf470c187d21510ab680f65dabb3597</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_recipe_db_ratings.x_snc_recipe_db.ratings_user</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_parent/>
@@ -58,7 +57,5 @@
         <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_6bf470c187d21510ab680f65dabb3597</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_6bf470c187d21510ab680f65dabb3597">2bf470c187d21510ab680f65dabb359a</sys_update_version>
-        <sys_updated_by>paige</sys_updated_by>
-        <sys_updated_on>2022-09-30 18:47:15</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
