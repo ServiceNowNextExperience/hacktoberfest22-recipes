@@ -33,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;73366e43c0c395d2b96607a93b82096ca11765d90e3d8c0f4241363dcf2b2503&lt;/hash&gt;
         &lt;image_height&gt;683&lt;/image_height&gt;
@@ -73,11 +74,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-22 16:43:09</sys_created_on>
         <sys_id>580da1881bf651100c3855f0604bcbad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>White Chicken Chili</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_580da1881bf651100c3855f0604bcbad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:39</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
