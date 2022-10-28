@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">d8ede8eea18701107f449182c2d2a147</macroponent>
+        <name>typeahead_1_items</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api}) {  
+  const testItems = [
+  {
+    "id": "1",
+    "label": "Mattias McPhelimy",
+    "sublabel": "trodden0@nsw.gov.au",
+    "avatarProps": {
+      "userName": "Tyler Rodden",
+      "imageSrc": "http://dummyimage.com/24x24.png/cc0000/ffffff",
+      "presence": "available"
+    }
+  },
+  {
+    "id": "2",
+    "label": "Norman Silmay",
+    "sublabel": "pbrunskill1@yahoo.com",
+    "avatarProps": {
+      "userName": "Phaidra Brunskill",
+      "imageSrc": "http://dummyimage.com/24x24.png/dddddd/000000",
+      "presence": "offline"
+    }
+  },
+  {
+    "id": "3",
+    "label": "Wilona Kmiec",
+    "sublabel": "tgarretts2@squidoo.com",
+    "avatarProps": {
+      "userName": "Teri Garretts",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/ff4444/ffffff",
+      "presence": "away"
+    }
+  },
+  {
+    "id": "4",
+    "label": "Dodi Lippett",
+    "sublabel": "azanazzi3@google.com.au",
+    "avatarProps": {
+      "userName": "Angeli Zanazzi",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "id": "5",
+    "label": "Jacob Wharton",
+    "sublabel": "nglastonbury4@livejournal.com",
+    "avatarProps": {
+      "userName": "Nonah Glastonbury",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/cc0000/ffffff",
+      "presence": "offline"
+    }
+  }
+];
+  const data =  api.data.look_up_recipes.results ;   
+  /*return data.map(e => ({   
+    id: e.sys_id.value, 
+    label: e.name.value,
+    sublabel: e.category.displayValue,
+    avatarProps: {
+        userName: e.name.value,
+        imageSrc: e.image.displayValue
+    }
+  }));   
+*/
+return testItems;
+} ]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 14:41:55</sys_created_on>
+        <sys_id>f7412bda47a21110450ccc88f36d4303</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>typeahead_1_items</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_f7412bda47a21110450ccc88f36d4303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-17 14:58:59</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</application>
+        <file_path/>
+        <instance_id>c79d3ac2db6f8d9c387021c4059619d3</instance_id>
+        <instance_name>dev128276</instance_name>
+        <name>sys_ux_client_script_f7412bda47a21110450ccc88f36d4303</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;d8ede8eea18701107f449182c2d2a147&lt;/macroponent&gt;&lt;name&gt;typeahead_1_items&lt;/name&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api}) {  
+  const testItems = [
+  {
+    "id": "1",
+    "label": "Mattias McPhelimy",
+    "sublabel": "trodden0@nsw.gov.au",
+    "avatarProps": {
+      "userName": "Tyler Rodden",
+      "imageSrc": "http://dummyimage.com/24x24.png/cc0000/ffffff",
+      "presence": "available"
+    }
+  },
+  {
+    "id": "2",
+    "label": "Norman Silmay",
+    "sublabel": "pbrunskill1@yahoo.com",
+    "avatarProps": {
+      "userName": "Phaidra Brunskill",
+      "imageSrc": "http://dummyimage.com/24x24.png/dddddd/000000",
+      "presence": "offline"
+    }
+  },
+  {
+    "id": "3",
+    "label": "Wilona Kmiec",
+    "sublabel": "tgarretts2@squidoo.com",
+    "avatarProps": {
+      "userName": "Teri Garretts",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/ff4444/ffffff",
+      "presence": "away"
+    }
+  },
+  {
+    "id": "4",
+    "label": "Dodi Lippett",
+    "sublabel": "azanazzi3@google.com.au",
+    "avatarProps": {
+      "userName": "Angeli Zanazzi",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/5fa2dd/ffffff"
+    }
+  },
+  {
+    "id": "5",
+    "label": "Jacob Wharton",
+    "sublabel": "nglastonbury4@livejournal.com",
+    "avatarProps": {
+      "userName": "Nonah Glastonbury",
+      "imageSrc": "http://dummyimage.com/24x24.bmp/cc0000/ffffff",
+      "presence": "offline"
+    }
+  }
+];
+  const data =  api.data.look_up_recipes.results ;   
+  /*return data.map(e =&gt; ({   
+    id: e.sys_id.value, 
+    label: e.name.value,
+    sublabel: e.category.displayValue,
+    avatarProps: {
+        userName: e.name.value,
+        imageSrc: e.image.displayValue
+    }
+  }));   
+*/
+return testItems;
+} ]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-17 14:41:55&lt;/sys_created_on&gt;&lt;sys_id&gt;f7412bda47a21110450ccc88f36d4303&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;typeahead_1_items&lt;/sys_name&gt;&lt;sys_package display_value="Recipe DB" source="x_snc_recipe_db"&gt;d872f3291bfe85500ef897941a4bcb6d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Recipe DB"&gt;d872f3291bfe85500ef897941a4bcb6d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_f7412bda47a21110450ccc88f36d4303&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-17 14:58:59&lt;/sys_updated_on&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-922483461</payload_hash>
+        <record_name>typeahead_1_items</record_name>
+        <reverted_from/>
+        <source>05eb7bd147121110450ccc88f36d432a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 14:58:59</sys_created_on>
+        <sys_id>7135631247e21110450ccc88f36d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183e674854c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-17 14:58:59</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>393563126de21110ea167b35023e0c2e</update_guid>
+        <update_guid_history>393563126de21110ea167b35023e0c2e:-922483461,f743a39e89a211108b4bc4d38f730e25:1731000074,a4f2afda5aa211109cde29e68ec1cc46:1680965890,48c2675e8ea21110bb854f7d22faf53d:1848503856,f341efda0da21110c83817711ccac375:-886232955</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 15:01:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>2ad74a35cf1946d89422f65428a0e2c9</sys_id>
+        <sys_metadata>f7412bda47a21110450ccc88f36d4303</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>typeahead_1_items</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_f7412bda47a21110450ccc88f36d4303</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_f7412bda47a21110450ccc88f36d4303">7135631247e21110450ccc88f36d432f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-17 15:01:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
