@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d7f741ab1b8b4110b676ddf6b04bcb84" label="Recipe" max_length="40" name="x_snc_recipe_db_recipe" type="collection">
+    <element label="Recipe" max_length="40" name="x_snc_recipe_db_recipe" type="collection">
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Category" max_length="32" name="category" reference="x_snc_recipe_db_category" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Cook time" max_length="40" name="cook_time" type="glide_duration"/>
         <element attributes="edge_encryption_enabled=true" label="Directions" max_length="8000" name="directions" type="html"/>
