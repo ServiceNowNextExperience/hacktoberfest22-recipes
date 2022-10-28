@@ -9,24 +9,24 @@
         <name>helpers</name>
         <script><![CDATA[var helpers = Class.create();
 helpers.prototype = {
-    initialize: function() {
+    initialize: function() { //This is the initialization of the function
     },
 
 	generateLabel: function(record){
-		var label = record.name.toString();
+		var label = record.name.toString(); //Get the record name
 		var lines = 1;
 		var size = 'md';
 		var payload = '';
 		var lblLength = 1;
-		lblLength = record.name.toString().length;
+		lblLength = record.name.toString().length; //Capture the length of the record
 		
-		if (lblLength > 30){
+		if (lblLength > 30){ //Logic to validate the length of the record
 			lines = Math.ceil(lblLength / 30);
 			if (lines > 2)
 				size = 'sm';
 		}
 		
-		payload = "{\"label\":\"" + label + "\", \"lines\":\"" + lines + "\", \"size\":\"" + size + "\"}";
+		payload = "{\"label\":\"" + label + "\", \"lines\":\"" + lines + "\", \"size\":\"" + size + "\"}"; //Final payload
 		
 		return payload;
 	},
