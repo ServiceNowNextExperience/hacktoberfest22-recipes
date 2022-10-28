@@ -888,7 +888,61 @@
                     "id" : "2212a6f3be369cc1d00636f94f2c287a",
                     "type" : "MACROPONENT"
                   },
-                  "overrides" : null,
+                  "overrides" : {
+                    "composition" : [ {
+                      "elementId" : "star_rating_1",
+                      "elementLabel" : "Star rating 1",
+                      "propertyValues" : {
+                        "size" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "md"
+                        },
+                        "rating" : {
+                          "type" : "CLIENT_TRANSFORM_SCRIPT",
+                          "script" : {
+                            "apiVersion" : "2.0.0",
+                            "controllerElementId" : null,
+                            "inlineScript" : null,
+                            "scriptSysId" : "a9380c4d472a11104d8f690cd36d4337",
+                            "target" : null
+                          }
+                        },
+                        "readOnly" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : true
+                        },
+                        "stars" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "5"
+                        },
+                        "ariaLabel" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "",
+                            "comment" : ""
+                          }
+                        }
+                      },
+                      "eventMappings" : [ ],
+                      "slot" : "metadata",
+                      "definition" : {
+                        "id" : "1370c8f32bc144533d453b80cd9d6c3b",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : null,
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : null
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    } ],
+                    "layout" : { }
+                  },
                   "isHidden" : {
                     "type" : "JSON_LITERAL",
                     "value" : false
@@ -1252,6 +1306,62 @@
     }
   },
   "readEvaluationMode" : "EXPLICIT"
+}, {
+  "definition" : {
+    "id" : "546cccd25310101024e5ddeeff7b123b",
+    "type" : "GRAPHQL"
+  },
+  "dependencies" : { },
+  "elementId" : "ratings_query",
+  "elementLabel" : "Ratings Query",
+  "eventMappings" : [ ],
+  "inputValues" : {
+    "table" : {
+      "type" : "JSON_LITERAL",
+      "value" : "x_snc_recipe_db_ratings"
+    },
+    "encodedQuery" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "groupBy" : {
+      "type" : "JSON_LITERAL",
+      "value" : "recipe"
+    },
+    "orderBy" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "having" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "sumField" : {
+      "type" : "JSON_LITERAL",
+      "value" : ""
+    },
+    "maxField" : {
+      "type" : "JSON_LITERAL",
+      "value" : "rating"
+    },
+    "minField" : {
+      "type" : "JSON_LITERAL",
+      "value" : "rating"
+    },
+    "avgField" : {
+      "type" : "JSON_LITERAL",
+      "value" : "rating"
+    },
+    "queryCategory" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "returnRowCount" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    }
+  },
+  "readEvaluationMode" : "EAGER"
 } ]</data>
         <description/>
         <dispatched_events>7e97349a479211104d8f690cd36d43a7,e5e2b52ea10b01107f449182c2d2a135</dispatched_events>
@@ -1275,7 +1385,7 @@
   "version" : "3.0.0"
 }</layout>
         <macroponent_dependencies/>
-        <name>Home default Copy</name>
+        <name>Home default - Cards based</name>
         <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
@@ -1328,7 +1438,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-04 16:02:12</sys_created_on>
         <sys_id>0107309a479211104d8f690cd36d4380</sys_id>
-        <sys_name>Home default Copy</sys_name>
+        <sys_name>Home default - Cards based</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
