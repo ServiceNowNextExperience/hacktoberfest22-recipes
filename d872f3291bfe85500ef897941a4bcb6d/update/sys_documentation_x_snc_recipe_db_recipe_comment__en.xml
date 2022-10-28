@@ -9,8 +9,8 @@
             <name>x_snc_recipe_db_recipe_comment</name>
             <plural>Recipe Comments</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>VaishnaviLathkar98</sys_created_by>
-            <sys_created_on>2022-10-27 06:52:05</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-21 15:56:59</sys_created_on>
             <sys_name>Recipe Comment</sys_name>
             <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
             <sys_policy/>

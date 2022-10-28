@@ -14,10 +14,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 box lemon supreme cake mix&lt;/li&gt;&lt;li&gt;3 Tbsp flour&lt;/li&gt;&lt;li&gt;1 small package lemon instant pudding&lt;/li&gt;&lt;li&gt;3/4 cup oil&lt;/li&gt;&lt;li&gt;3/4 cup water&lt;/li&gt;&lt;li&gt;1 tsp vanilla&lt;/li&gt;&lt;li&gt;1/2 cup fresh squeezed lemon juice&lt;/li&gt;&lt;li&gt;3 large eggs, room temperature &lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Glaze&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;2-3 cups sifted powdered sugar&lt;/li&gt;&lt;li&gt;1/8-1/4 cup fresh squeezed lemon juice&lt;/li&gt;&lt;li&gt;1 tsp vanilla&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Euna Mae's Lemon Glazed Cake", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Euna Mae's Lemon Glazed Cake&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001013&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 14:32:04&lt;/sys_created_on&gt;
@@ -33,6 +36,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;1a83037e5fb264c2aaf93c9ee67ad1f4c4beb12052062aa9678729e4356dbf31&lt;/hash&gt;
         &lt;image_height&gt;300&lt;/image_height&gt;
@@ -73,11 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:43</sys_created_on>
         <sys_id>e23ec97c971e9190c6fc7e0e6253af52</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Euna Mae's Lemon Glazed Cake</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_e23ec97c971e9190c6fc7e0e6253af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:35:46</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
