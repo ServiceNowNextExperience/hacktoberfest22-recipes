@@ -14,10 +14,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;sweet potato, diced&lt;/li&gt;&lt;li&gt;broccoli florets&lt;/li&gt;&lt;li&gt;chicken sausage, cut into rounds&lt;/li&gt;&lt;li&gt;EVOO&lt;/li&gt;&lt;li&gt;S&amp;amp;P&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Honey Mustard&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;dijon mustard (approx 3 tbs)&lt;/li&gt;&lt;li&gt;honey (approx 1/4 c)&lt;/li&gt;&lt;li&gt;paprika (1 tsp)&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"NTK One Pan Meal", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;NTK One Pan Meal&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001020&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;6&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 15:09:04&lt;/sys_created_on&gt;
@@ -33,6 +36,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;a60a6addffd5886d4bf7664a15fb09ab84ce1f6e60fd486eeb8c7508caeea720&lt;/hash&gt;
         &lt;image_height&gt;392&lt;/image_height&gt;
@@ -73,11 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:48</sys_created_on>
         <sys_id>f73ec97c971e9190c6fc7e0e6253afdf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>NTK One Pan Meal</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_f73ec97c971e9190c6fc7e0e6253afdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:36</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

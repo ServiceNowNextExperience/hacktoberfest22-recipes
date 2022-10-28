@@ -16,10 +16,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;¾ cup white sugar&lt;/li&gt;&lt;li&gt;¼ cup water&lt;/li&gt;&lt;li&gt;1 tablespoon water&lt;/li&gt;&lt;li&gt;1 cinnamon stick (Optional)&lt;/li&gt;&lt;li&gt;1 lemon, zested in large strips (Optional)&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Custard Base:&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;⅓ cup all-purpose flour&lt;/li&gt;&lt;li&gt;¼ teaspoon kosher salt&lt;/li&gt;&lt;li&gt;1 ½ cups milk&lt;/li&gt;&lt;li&gt;6 large egg yolks&lt;/li&gt;&lt;li&gt;1 teaspoon vanilla extract (Optional)&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Portuguese Custard Tarts (Pasteis de Nata)", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Portuguese Custard Tarts (Pasteis de Nata)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001004&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 01:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;12&lt;/servings&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 10:46:16&lt;/sys_created_on&gt;
@@ -35,6 +38,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;281599d6b60acb38dba20f8edb85e8330dbcbda2da50d4357f97e0981ce40571&lt;/hash&gt;
         &lt;image_height&gt;1500&lt;/image_height&gt;
@@ -111,11 +115,14 @@
         <sys_created_by>w.geek8</sys_created_by>
         <sys_created_on>2022-10-03 10:56:15</sys_created_on>
         <sys_id>ed67223997de911050eabc7ef053afcb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Portuguese Custard Tarts (Pasteis de Nata)</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_ed67223997de911050eabc7ef053afcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:10</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

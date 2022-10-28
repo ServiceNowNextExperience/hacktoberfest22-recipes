@@ -41,6 +41,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;4ba0cf3209562eac149a467bdeba9cbfa72049c185782e98bbca8193165aba58&lt;/hash&gt;
         &lt;image_height&gt;533&lt;/image_height&gt;
@@ -80,6 +81,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;Okonomiyaki-Recipe-5674-I.jpg&lt;/file_name&gt;
         &lt;hash&gt;4ba0cf3209562eac149a467bdeba9cbfa72049c185782e98bbca8193165aba58&lt;/hash&gt;
         &lt;image_height&gt;533&lt;/image_height&gt;
@@ -120,11 +122,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 18:36:15</sys_created_on>
         <sys_id>da80a9fa47221110a7a58c38c26d43d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Okonomiyaki</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_da80a9fa47221110a7a58c38c26d43d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:19</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

@@ -38,14 +38,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-06 03:45:58</sys_created_on>
         <sys_id>bba128b247d6dd506eaffa37536d4330</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Link to destination Relay (Home default Updated UI)</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_event_bba128b247d6dd506eaffa37536d4330</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-06 03:45:58</sys_updated_on>
     </sys_ux_event>
     <sys_translated_text action="delete_multiple" query="documentkey=bba128b247d6dd506eaffa37536d4330"/>
 </record_update>
