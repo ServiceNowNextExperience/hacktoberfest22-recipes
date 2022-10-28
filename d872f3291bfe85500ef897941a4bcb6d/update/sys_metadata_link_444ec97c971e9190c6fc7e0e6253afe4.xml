@@ -19,10 +19,13 @@
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;span&gt;2/3 cup&lt;/span&gt; extra virgin olive oil&lt;/li&gt;&lt;li&gt;1/3 cup apple cider vinegar&lt;/li&gt;&lt;li&gt;2 tablespoons maple syrup (sub: honey)&lt;/li&gt;&lt;li&gt;1 tablespoon Dijon mustard&lt;/li&gt;&lt;li&gt;1/4 teaspoon Kosher salt&lt;/li&gt;&lt;li&gt;1/4 teaspoon ground black pepper&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Autumn Salad Ingredients:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;8 cups crisp Romaine or Green Leaf lettuce, chopped (approximately 1 head of lettuce)&lt;/li&gt;&lt;li&gt;2 medium tart red apples, cored and diced (do not peel) (recommended: Fuji or Honeycrisp)&lt;/li&gt;&lt;li&gt;1 cup dried cranberries&lt;/li&gt;&lt;li&gt;1 cup chopped pecans, toasted&lt;/li&gt;&lt;li&gt;8 slices bacon, cooked and crumbled (&lt;a href="https://thrivinghomeblog.com/no-fail-way-cook-bacon/" rel="nofollow"&gt;try baking it ahead of time&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;4 ounces crumbled feta cheese&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"AUTUMN SALAD WITH APPLE CIDER VINAIGRETTE", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;AUTUMN SALAD WITH APPLE CIDER VINAIGRETTE&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001014&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;6&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 14:36:16&lt;/sys_created_on&gt;
@@ -38,6 +41,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;d7f5702925f9be0f6c1c489b952d1592c112fe100b6813cad7d54e2c12dab24e&lt;/hash&gt;
         &lt;image_height&gt;296&lt;/image_height&gt;
@@ -78,11 +82,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:49</sys_created_on>
         <sys_id>444ec97c971e9190c6fc7e0e6253afe4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>AUTUMN SALAD WITH APPLE CIDER VINAIGRETTE</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_444ec97c971e9190c6fc7e0e6253afe4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:47</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
