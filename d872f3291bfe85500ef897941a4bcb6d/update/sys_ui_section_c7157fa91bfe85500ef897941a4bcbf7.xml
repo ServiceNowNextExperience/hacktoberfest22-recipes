@@ -239,6 +239,20 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <position>17</position>
+            <sys_created_by>paige</sys_created_by>
+            <sys_created_on>2022-10-03 16:59:46</sys_created_on>
+            <sys_id>2e9ab37d879e1d10288b40c7dabb35a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
+            <sys_updated_by>paige</sys_updated_by>
+            <sys_updated_on>2022-10-03 16:59:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>notes</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
@@ -253,16 +267,16 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>rating</element>
-            <position>17</position>
-            <sys_created_by>paige</sys_created_by>
-            <sys_created_on>2022-10-03 16:59:46</sys_created_on>
-            <sys_id>2e9ab37d879e1d10288b40c7dabb35a8</sys_id>
+            <element>type</element>
+            <position>18</position>
+            <sys_created_by>RaviKumar</sys_created_by>
+            <sys_created_on>2022-10-14 14:53:29</sys_created_on>
+            <sys_id>0c3704e1c32611108b7c241ce001311c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_recipe_db_recipe" sys_domain="global" view="Default view">c7157fa91bfe85500ef897941a4bcbf7</sys_ui_section>
-            <sys_updated_by>paige</sys_updated_by>
-            <sys_updated_on>2022-10-03 16:59:46</sys_updated_on>
+            <sys_updated_by>RaviKumar</sys_updated_by>
+            <sys_updated_on>2022-10-14 14:53:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
