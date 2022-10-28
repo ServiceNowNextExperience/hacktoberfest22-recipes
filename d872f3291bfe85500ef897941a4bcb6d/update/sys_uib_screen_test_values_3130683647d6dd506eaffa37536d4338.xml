@@ -6,13 +6,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-06 03:39:32</sys_created_on>
         <sys_id>3130683647d6dd506eaffa37536d4338</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_uib_screen_test_values_3130683647d6dd506eaffa37536d4338</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-17 14:39:08</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
