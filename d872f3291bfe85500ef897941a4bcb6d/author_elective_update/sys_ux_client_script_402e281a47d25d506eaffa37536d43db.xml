@@ -73,7 +73,6 @@ function evaluateProperty({api, helpers}) {
         <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
         <sys_id>11adbb5eb08147309d2cb7a281fad429</sys_id>
         <sys_metadata>402e281a47d25d506eaffa37536d43db</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>stylized_text_6_tag</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_parent/>
@@ -82,7 +81,5 @@ function evaluateProperty({api, helpers}) {
         <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
         <sys_update_name>sys_ux_client_script_402e281a47d25d506eaffa37536d43db</sys_update_name>
         <sys_update_version display_value="sys_ux_client_script_402e281a47d25d506eaffa37536d43db">963e605a47d25d506eaffa37536d439e</sys_update_version>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-04 15:30:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

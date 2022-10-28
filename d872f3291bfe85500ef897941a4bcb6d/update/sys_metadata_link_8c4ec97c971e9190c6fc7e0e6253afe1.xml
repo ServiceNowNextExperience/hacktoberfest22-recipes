@@ -11,10 +11,13 @@
         &lt;image&gt;0a49ed1011bec9107f4444bd6579ad94&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: &lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 30 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 35 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;2 tablespoons extra virgin olive oil (EVOO)&lt;/li&gt;&lt;li&gt;2 pounds ground chicken&lt;/li&gt;&lt;li&gt;2 large carrots, peeled and finely chopped&lt;/li&gt;&lt;li&gt;1 large onion, chopped&lt;/li&gt;&lt;li&gt;4 ribs celery with leafy tops, finely chopped&lt;/li&gt;&lt;li&gt;4 cloves garlic, chopped&lt;/li&gt;&lt;li&gt;1 tablespoon smoked sweet paprika&lt;/li&gt;&lt;li&gt;1 bay leaf, fresh or dried&lt;/li&gt;&lt;li&gt;Salt and freshly ground black pepper&lt;/li&gt;&lt;li&gt;2 cups chicken stock&lt;/li&gt;&lt;li&gt;1/2 cup hot sauce&lt;/li&gt;&lt;li&gt;1 can tomato sauce (15 ounces)&lt;/li&gt;&lt;li&gt;1 can stewed, fire-roasted or crushed tomatoes (15 ounces)&lt;/li&gt;&lt;li&gt;1 sack whole grain tortilla chips, lightly crushed&lt;/li&gt;&lt;li&gt;3/4 pound Maytag Blue cheese, crumbled&lt;/li&gt;&lt;li&gt;A handful of flat leaf parsley, chopped&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Buffalo Chicken Chili", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Buffalo Chicken Chili&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001018&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:05:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings/&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-07 14:53:58&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;40882f3c201616af3a576ad37c61830d9a6da9d7027d208a9c8168b4b88c90ab&lt;/hash&gt;
         &lt;image_height&gt;372&lt;/image_height&gt;
@@ -70,11 +74,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:49</sys_created_on>
         <sys_id>8c4ec97c971e9190c6fc7e0e6253afe1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Buffalo Chicken Chili</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_8c4ec97c971e9190c6fc7e0e6253afe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:37:45</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

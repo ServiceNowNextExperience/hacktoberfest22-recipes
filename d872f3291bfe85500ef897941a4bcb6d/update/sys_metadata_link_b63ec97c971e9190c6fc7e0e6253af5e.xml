@@ -13,10 +13,13 @@
         &lt;ingredients&gt;&lt;![CDATA[&lt;div&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 2-3 pound beef eye of round roast (thin sliced against the grain)&lt;/li&gt;&lt;li&gt;2 cups Dr. Pepper&lt;/li&gt;&lt;li&gt;2 jalapenos (sliced)&lt;/li&gt;&lt;li&gt;2 Tablespoons kosher salt&lt;/li&gt;&lt;li&gt;1 Tablespoon Worcestershire sauce&lt;/li&gt;&lt;li&gt;2 teaspoons black pepper&lt;/li&gt;&lt;li&gt;1 teaspoon garlic powder&lt;/li&gt;&lt;li&gt;1 teaspoon onion powder&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Dr. Pepper Jalapeno Beef Jerky", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Dr. Pepper Jalapeno Beef Jerky&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001010&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 12:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;8&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-04-01 15:19:52&lt;/sys_created_on&gt;
@@ -32,6 +35,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;882b1a8eb55fb8024531d45c5694a7fc6ec03d0897459e988b378d6e304ef504&lt;/hash&gt;
         &lt;image_height&gt;267&lt;/image_height&gt;
@@ -72,11 +76,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:44</sys_created_on>
         <sys_id>b63ec97c971e9190c6fc7e0e6253af5e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Dr. Pepper Jalapeno Beef Jerky</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_b63ec97c971e9190c6fc7e0e6253af5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:36:26</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
