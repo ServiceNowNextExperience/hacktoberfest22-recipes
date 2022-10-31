@@ -11,10 +11,13 @@
         &lt;image&gt;4dc9295597de111050eabc7ef053afd3&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 15 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 35 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 50 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;3 desalted cod steaks (about 750 grams &lt;strong&gt;(1 2/3 pounds)&lt;/strong&gt;)&lt;/li&gt;&lt;li&gt;1 medium onion&lt;/li&gt;&lt;li&gt;50 ml &lt;strong&gt;(1/4 cup)&lt;/strong&gt; olive oil&lt;/li&gt;&lt;li&gt;3 cloves of garlic&lt;/li&gt;&lt;li&gt;700 grams &lt;strong&gt;(1 1/2 pounds)&lt;/strong&gt; potatoes&lt;/li&gt;&lt;li&gt;1 egg&lt;/li&gt;&lt;li&gt;1 egg yolk&lt;/li&gt;&lt;li&gt;Salt (to taste)&lt;/li&gt;&lt;li&gt;Pepper (to taste)&lt;/li&gt;&lt;li&gt;Coriander (to taste)&lt;/li&gt;&lt;li&gt;Vegetable oil for frying&lt;/li&gt;&lt;li&gt; &lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Cod “à brás”", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Cod “à brás”&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001003&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:15:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;4&lt;/servings&gt;
         &lt;sys_created_by&gt;w.geek8&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-01 17:08:31&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;1776128a2c1d466b0654c42a0b7a82633683d62e35be7dca25b8b678b2b65b9f&lt;/hash&gt;
         &lt;image_height&gt;563&lt;/image_height&gt;
@@ -70,11 +74,14 @@
         <sys_created_by>w.geek8</sys_created_by>
         <sys_created_on>2022-10-01 17:11:44</sys_created_on>
         <sys_id>622aa9d597de111050eabc7ef053af85</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Cod “à brás”</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_622aa9d597de111050eabc7ef053af85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:35:33</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

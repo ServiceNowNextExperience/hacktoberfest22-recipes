@@ -52,6 +52,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;5b4b778643a7083e86e663ca71c80f5b4621a007dccef8b756fb9b70c125a54d&lt;/hash&gt;
         &lt;image_height&gt;247&lt;/image_height&gt;
@@ -92,14 +93,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-25 07:06:02</sys_created_on>
         <sys_id>37a5c3b02fb211102a71dcb6f699b67d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>TÖKIPOMPOS - a Hungarian specialty</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_37a5c3b02fb211102a71dcb6f699b67d</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-25 07:06:02</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

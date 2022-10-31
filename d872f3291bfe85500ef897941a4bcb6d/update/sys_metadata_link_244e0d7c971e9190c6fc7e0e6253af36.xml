@@ -11,10 +11,13 @@
         &lt;image&gt;4cd6f242116e81107f4444bd6579add5&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 12 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 12 Hours 10 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;12 pound beef brisket whole packer untrimmed, USDA Choice grade or higher&lt;/li&gt;&lt;li&gt;12 ounces  beef broth (approximately 1 ounce per pound of meat)&lt;/li&gt;&lt;li&gt;6 teaspoons Morton Coarse Kosher Salt (approximately ½ teaspoon per pound)&lt;/li&gt;&lt;li&gt;1/2 cup beef rub&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Authentic Texas Style Smoked Brisket", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Authentic Texas Style Smoked Brisket&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;REC0001005&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:10:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;12&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-03-31 20:44:02&lt;/sys_created_on&gt;
@@ -30,6 +33,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/png&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;e1b15e11535c6fb2b1ba4f7c07f144abde12fbb430553a1126a4af54cd82a003&lt;/hash&gt;
         &lt;image_height&gt;319&lt;/image_height&gt;
@@ -70,11 +74,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-30 01:52:51</sys_created_on>
         <sys_id>244e0d7c971e9190c6fc7e0e6253af36</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Authentic Texas Style Smoked Brisket</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_244e0d7c971e9190c6fc7e0e6253af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:38:03</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>
