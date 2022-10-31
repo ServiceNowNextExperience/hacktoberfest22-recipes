@@ -88,14 +88,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-16 15:27:20</sys_created_on>
         <sys_id>e312ee0647e61110b0b45934846d435c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>Kaju Katli (Indian Popular Dessert)</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_e312ee0647e61110b0b45934846d435c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-27 04:35:36</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

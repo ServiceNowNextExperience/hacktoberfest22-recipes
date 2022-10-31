@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
     <sys_ux_app_route action="INSERT_OR_UPDATE">
-        <app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config>
+        <app_config display_value="Recipe DB Configuration">4079df751b7ec5500ef897941a4bcb25</app_config>
         <description/>
         <extension_point/>
         <fields>table,sysId</fields>

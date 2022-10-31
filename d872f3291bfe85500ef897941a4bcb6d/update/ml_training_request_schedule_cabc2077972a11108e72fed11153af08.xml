@@ -6,12 +6,12 @@
         <condition/>
         <conditional>false</conditional>
         <entered_time/>
-        <ml_capability_definition display_value="Closed alert similarity">f8d74bdddbc18850a6d183243996194d</ml_capability_definition>
+        <ml_capability_definition display_value="">f8d74bdddbc18850a6d183243996194d</ml_capability_definition>
         <ml_solution/>
         <name>Closed alert similarity</name>
         <offset/>
         <offset_type>0</offset_type>
-        <run_as display_value="Harneet Sital">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek/>

@@ -15,6 +15,6 @@
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>m2m_app_config_theme_0079df75137ec550a82132b3d4d4ca60</sys_update_name>
         <theme display_value="Recipe Theme">8879df75be7ec5501c9b5bff1a39715f</theme>
-        <ux_app_configuration display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</ux_app_configuration>
+        <ux_app_configuration display_value="Recipe DB Configuration">4079df751b7ec5500ef897941a4bcb25</ux_app_configuration>
     </m2m_app_config_theme>
 </record_update>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a1c450c72ffed1102d2c2ca62799b64b</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_recipe_db_recipe"&gt;
+    &lt;x_snc_recipe_db_recipe action="INSERT_OR_UPDATE"&gt;
+        &lt;category/&gt;
+        &lt;cook_time&gt;1970-01-01 00:05:00&lt;/cook_time&gt;
+        &lt;directions&gt;&lt;![CDATA[&lt;p&gt;In bowl,add instant coffee,water and mix well.&lt;/p&gt;
+&lt;p&gt;In blender,add sugar,dissolves coffee,milk,cream,ice cubes and blend until smooth.&lt;/p&gt;
+&lt;p&gt;Add ice cream and blitz for 1-2 times.&lt;/p&gt;
+&lt;p&gt;In serving glass,add ice cubes,pour prepared cold coffee,add ice cream scoop and drizzle chocolate syrup &amp;amp; serve.&lt;/p&gt;]]&gt;&lt;/directions&gt;
+        &lt;favorite&gt;true&lt;/favorite&gt;
+        &lt;image&gt;33c8d0072f7215102d2c2ca62799b61c&lt;/image&gt;
+        &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: &lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
+        &lt;ingredients&gt;&lt;![CDATA[&lt;p&gt;Instant coffee 2 tbs&lt;/p&gt;
+&lt;p&gt;Water 2 tbs&lt;/p&gt;
+&lt;p&gt;Sugar 2 tbs or to taste&lt;/p&gt;
+&lt;p&gt;Milk chilled 2 Cups&lt;/p&gt;
+&lt;p&gt;Cream 2 tbs (optional)&lt;/p&gt;
+&lt;p&gt;Ice cubes&lt;/p&gt;
+&lt;p&gt;Ice cream 2 scoops&lt;/p&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Cold Coffee commit", "lines":"1", "size":"md"}&lt;/label_value&gt;
+        &lt;name&gt;Cold Coffee commit&lt;/name&gt;
+        &lt;notes/&gt;
+        &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
+        &lt;prep_time&gt;1970-01-01 00:05:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
+        &lt;servings/&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-31 18:03:11&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;a1c450c72ffed1102d2c2ca62799b64b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-31 18:17:20&lt;/sys_updated_on&gt;
+        &lt;total&gt;1970-01-01 00:10:00&lt;/total&gt;
+        &lt;type&gt;This is to store the type of recipe (Veg/Non-Veg/Dessert)&lt;/type&gt;
+        &lt;url/&gt;
+    &lt;/x_snc_recipe_db_recipe&gt;
+    &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
+        &lt;average_image_color&gt;#6d5e4b&lt;/average_image_color&gt;
+        &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
+        &lt;compressed&gt;true&lt;/compressed&gt;
+        &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;file_name&gt;image&lt;/file_name&gt;
+        &lt;hash&gt;ef089bdd62dc759db1597e38463322787a34ac290993f12127b51275df563930&lt;/hash&gt;
+        &lt;image_height&gt;225&lt;/image_height&gt;
+        &lt;image_width&gt;225&lt;/image_width&gt;
+        &lt;size_bytes&gt;6704&lt;/size_bytes&gt;
+        &lt;size_compressed&gt;6685&lt;/size_compressed&gt;
+        &lt;state&gt;available&lt;/state&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-31 18:17:03&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;33c8d0072f7215102d2c2ca62799b61c&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-10-31 18:17:04&lt;/sys_updated_on&gt;
+        &lt;table_name&gt;ZZ_YYx_snc_recipe_db_recipe&lt;/table_name&gt;
+        &lt;table_sys_id&gt;a1c450c72ffed1102d2c2ca62799b64b&lt;/table_sys_id&gt;
+    &lt;/sys_attachment&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;H4sIAAAAAAAAAA==&lt;/data&gt;
+        &lt;length&gt;16&lt;/length&gt;
+        &lt;position&gt;0&lt;/position&gt;
+        &lt;sys_attachment display_value="image" sys_id="33c8d0072f7215102d2c2ca62799b61c"&gt;33c8d0072f7215102d2c2ca62799b61c&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-31 18:17:03&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;b7c8d0072f7215102d2c2ca62799b61c&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;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&lt;/data&gt;
+        &lt;length&gt;8900&lt;/length&gt;
+        &lt;position&gt;1&lt;/position&gt;
+        &lt;sys_attachment display_value="image" sys_id="33c8d0072f7215102d2c2ca62799b61c"&gt;33c8d0072f7215102d2c2ca62799b61c&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-10-31 18:17:03&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;3bc8d0072f7215102d2c2ca62799b61c&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 18:17:47</sys_created_on>
+        <sys_id>e6f854472f7215102d2c2ca62799b617</sys_id>
+        <sys_name>Cold Coffee commit</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_metadata_link_e6f854472f7215102d2c2ca62799b617</sys_update_name>
+        <tablename>x_snc_recipe_db_recipe</tablename>
+    </sys_metadata_link>
+</record_update>

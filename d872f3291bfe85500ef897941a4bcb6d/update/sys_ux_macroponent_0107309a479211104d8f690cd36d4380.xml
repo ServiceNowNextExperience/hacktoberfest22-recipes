@@ -1332,7 +1332,9 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
+        <description/>
         <dispatched_events>7e97349a479211104d8f690cd36d43a7,e5e2b52ea10b01107f449182c2d2a135</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1353,6 +1355,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home default Copy</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Card actions",
@@ -1404,13 +1407,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-04 16:02:12</sys_created_on>
         <sys_id>0107309a479211104d8f690cd36d4380</sys_id>
-        <sys_mod_count>5</sys_mod_count>
         <sys_name>Home default Copy</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_0107309a479211104d8f690cd36d4380</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-17 15:12:59</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
         <includes/>
-        <macroponent display_value="Home default - Cards based">0107309a479211104d8f690cd36d4380</macroponent>
+        <macroponent display_value="Home default Copy">0107309a479211104d8f690cd36d4380</macroponent>
         <name>star_rating_1/rating</name>
         <preset/>
         <required_translations/>
