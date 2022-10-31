@@ -1872,5 +1872,4 @@
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_macroponent_30788d53db9e1510189272c7f4961912</sys_update_name>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=30788d53db9e1510189272c7f4961912"/>
 </record_update>

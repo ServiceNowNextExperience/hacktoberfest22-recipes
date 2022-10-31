@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>RECIPE_AMOUNT_SET</event_name>
+        <interfaces/>
+        <label>Recipe amount set</label>
+        <props>[{"name":"amount","fieldType":"number","label":"amount","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "amount",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 07:42:52</sys_created_on>
+        <sys_id>59b7dc952fb651102a71dcb6f699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recipe amount set</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_event_59b7dc952fb651102a71dcb6f699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 07:42:52</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=59b7dc952fb651102a71dcb6f699b698"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</application>
+        <file_path/>
+        <instance_id>ab47b99adb2e881052cec597059619dc</instance_id>
+        <instance_name>dev97812</instance_name>
+        <name>sys_ux_event_59b7dc952fb651102a71dcb6f699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>RECIPE_AMOUNT_SET</event_name><interfaces/><label>Recipe amount set</label><props>[{"name":"amount","fieldType":"number","label":"amount","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "amount",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-26 07:42:52</sys_created_on><sys_id>59b7dc952fb651102a71dcb6f699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Recipe amount set</sys_name><sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package><sys_policy/><sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope><sys_update_name>sys_ux_event_59b7dc952fb651102a71dcb6f699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-26 07:42:52</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=59b7dc952fb651102a71dcb6f699b698"/></record_update>]]></payload>
+        <payload_hash>-1645729794</payload_hash>
+        <record_name>Recipe amount set</record_name>
+        <reverted_from/>
+        <source>c27ffebc2f3211102a71dcb6f699b6e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 07:42:52</sys_created_on>
+        <sys_id>19b714592fb651102a71dcb6f699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184133e7b460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 07:42:52</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>51b714593fb651100eeacd5c62207f56</update_guid>
+        <update_guid_history>51b714593fb651100eeacd5c62207f56:-1645729794</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 08:49:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>08b5476742bd49448109ec175df9b2c4</sys_id>
+        <sys_metadata>59b7dc952fb651102a71dcb6f699b698</sys_metadata>
+        <sys_name>Recipe amount set</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_scope_delete display_value="">a66d6e4e3b0b4caa91e7d7398f78e204</sys_scope_delete>
+        <sys_update_name>sys_ux_event_59b7dc952fb651102a71dcb6f699b698</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_59b7dc952fb651102a71dcb6f699b698">19b714592fb651102a71dcb6f699b656</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

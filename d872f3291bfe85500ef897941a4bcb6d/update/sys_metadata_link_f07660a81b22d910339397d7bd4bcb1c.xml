@@ -34,10 +34,13 @@
 &lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li&gt;3 Cups Flour&lt;/li&gt;&lt;li&gt;1 cup Ghee (solidified)&lt;/li&gt;&lt;li&gt;3-4 Ice cubes&lt;/li&gt;&lt;li&gt;4 cups Water&lt;/li&gt;&lt;li&gt;1/2 cup Milk&lt;/li&gt;&lt;li&gt;1 kg Ghee (for deep frying)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;For the syrup:&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;1 1/2 cup Sugar&lt;/li&gt;&lt;li&gt;1 cup Water&lt;/li&gt;&lt;li&gt;&lt;strong&gt;For topping:&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;1 tsp Cardamom, powdered&lt;/li&gt;&lt;li&gt;1 tbsp Almonds &amp;amp; pistachios, chopped&lt;/li&gt;&lt;li&gt;1 tbsp Milk (with 1/2 tsp saffron)&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Ghewar - Indian Desert", "lines":"1", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Ghewar - Indian Desert&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 02:00:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;2&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-11 13:23:51&lt;/sys_created_on&gt;
@@ -53,6 +56,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;Ghewar.jfif&lt;/file_name&gt;
         &lt;hash&gt;60c238e395be17391d01e01f51922a67b26a0c535cfd8f2e64b1fb3005d0465b&lt;/hash&gt;
         &lt;image_height&gt;184&lt;/image_height&gt;
@@ -92,6 +96,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;d514fd957fb41170cd62290c4d2c163461e971681d6aa4209a37bda1a811b0bc&lt;/hash&gt;
         &lt;image_height&gt;562&lt;/image_height&gt;
@@ -132,11 +137,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-11 14:36:08</sys_created_on>
         <sys_id>f07660a81b22d910339397d7bd4bcb1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Ghewar - Indian Desert</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_f07660a81b22d910339397d7bd4bcb1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:35:43</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

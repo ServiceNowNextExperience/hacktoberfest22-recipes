@@ -35,10 +35,13 @@
 &lt;h3&gt;For the sauce:&lt;/h3&gt;
 &lt;ul style="list-style-position: inside;"&gt;&lt;li style="list-style-type: disc;"&gt;2 tablespoons olive oil&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;2 tablespoons ghee (or 1 tbs butter &amp;#43; 1 tbs oil)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 large onion, sliced or chopped&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 1/2 tablespoons garlic, minced&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 tablespoon ginger, minced or finely grated&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 1/2 teaspoons ground cumin&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 1/2 teaspoons garam masala&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 teaspoon ground coriander&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;14 oz (400 g) crushed tomatoes&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 teaspoon red chili powder (adjust to your taste preference)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 1/4 teaspoons salt (or to taste)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 cup of heavy or thickened cream (or evaporated milk to save calories)&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1 tablespoon sugar&lt;/li&gt;&lt;li style="list-style-type: disc;"&gt;1/2 teaspoon kasoori methi (or dried fenugreek leaves)&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;]]&gt;&lt;/ingredients&gt;
+        &lt;label_value&gt;{"label":"Murgh Makhani (Indian Butter Chicken)", "lines":"2", "size":"md"}&lt;/label_value&gt;
         &lt;name&gt;Murgh Makhani (Indian Butter Chicken)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
+        &lt;nutrition/&gt;
         &lt;prep_time&gt;1970-01-01 00:15:00&lt;/prep_time&gt;
+        &lt;rating/&gt;
         &lt;servings&gt;5&lt;/servings&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-03 21:48:50&lt;/sys_created_on&gt;
@@ -54,6 +57,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;69cd8055e9f238043c3856b6cde31bb148e0c5925eb5fa88464db1bec16ebee8&lt;/hash&gt;
         &lt;image_height/&gt;
@@ -94,11 +98,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-03 22:14:29</sys_created_on>
         <sys_id>74a2810a97d611100587322e6253afd0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Murgh Makhani (Indian Butter Chicken)</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_metadata_link_74a2810a97d611100587322e6253afd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 04:35:44</sys_updated_on>
         <tablename>x_snc_recipe_db_recipe</tablename>
     </sys_metadata_link>
 </record_update>

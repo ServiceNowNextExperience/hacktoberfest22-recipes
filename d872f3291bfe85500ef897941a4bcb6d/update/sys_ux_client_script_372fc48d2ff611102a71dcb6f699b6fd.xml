@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Recipe">a87484052ff611102a71dcb6f699b682</macroponent>
+        <name>Proportionate</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ * @param {ApiHelpers} params.helpers
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    //if Recipe amount or Amount that you have fields are not filled, show a message that prompts the user to fill them
+    if (!api.state.amount_you_have || !api.state.recipe_amount) {
+        api.emit("DISPLAY_MESSAGE", {
+            messageToDisplay: [{
+                "type": "info",
+                "message": "Please fill the Recipe amount and the Amount you have fields!"
+            }]
+        });
+        return;
+    }
+    //if the same amounts were provided, do nothing
+    if (api.state.amount_you_have === api.state.recipe_amount) return;
+
+    let recipe = api.data.look_up_recipe.result.ingredients.value;
+    //calculate the proportion ratio
+    let percentage = api.state.amount_you_have / api.state.recipe_amount;
+    //replace every number in the recipe based on the ratio
+    let modifiedRecipe = recipe.replace(/\d+/g, d => Math.round(d * percentage * 100) / 100);
+
+    //check if the modified recipe is the same as the original, which would mean that there are no numbers in the ingredients
+    if (recipe === modifiedRecipe) {
+        api.emit("DISPLAY_MESSAGE", {
+            messageToDisplay: [{
+                "type": "info",
+                "message": "Sorry, the ingredients section doesn't include the quantities, we can't proportionte this time :("
+            }]
+        });
+        return;
+    }
+    
+    //display the recipe with the modified amounts
+    api.setState("ingredients_to_display", modifiedRecipe);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 12:27:09</sys_created_on>
+        <sys_id>372fc48d2ff611102a71dcb6f699b6fd</sys_id>
+        <sys_name>Proportionate</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_ux_client_script_372fc48d2ff611102a71dcb6f699b6fd</sys_update_name>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>
