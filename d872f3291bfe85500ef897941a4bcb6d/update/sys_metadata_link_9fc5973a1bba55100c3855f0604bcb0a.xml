@@ -20,8 +20,8 @@
         &lt;image&gt;4fb5d7f61bba55100c3855f0604bcb9c&lt;/image&gt;
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 3&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 20 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 45 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 1 Hour 5 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 teaspoon salt (I use pink salt, you may reduce or increase according to the kind of salt you have)&lt;/li&gt;&lt;li&gt;½ to 2 teaspoons Kashmiri Red chilli powder (To make it less spicy use ½ teaspoon)&lt;/li&gt;&lt;li&gt;¼ teaspoon turmeric&lt;/li&gt;&lt;li&gt;¾ teaspoon roasted cumin powder (roasted ground cumin)&lt;/li&gt;&lt;li&gt;2 teaspoons coriander powder (ground coriander)&lt;/li&gt;&lt;li&gt;1 to 1 ¼ teaspoon garam masala&lt;/li&gt;&lt;li&gt;1 teaspoon chaat masala (skip if you don’t have or 1/3 teaspoon amchur, dried mango powder)&lt;/li&gt;&lt;li&gt;½ teaspoon black pepper crushed&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
-        &lt;label_value&gt;{"label":"Chicken Tikka Kebab Recipe", "lines":"1", "size":"md"}&lt;/label_value&gt;
-        &lt;name&gt;Chicken Tikka Kebab Recipe&lt;/name&gt;
+        &lt;label_value&gt;{"label":"Chicken Tikka Kebab", "lines":"1", "size":"md"}&lt;/label_value&gt;
+        &lt;name&gt;Chicken Tikka Kebab&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001002&lt;/number&gt;
         &lt;nutrition/&gt;
@@ -31,9 +31,9 @@
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
         &lt;sys_created_on&gt;2022-10-31 13:23:53&lt;/sys_created_on&gt;
         &lt;sys_id&gt;3d7417f61bba55100c3855f0604bcb22&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2022-10-31 13:24:02&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2022-10-31 13:32:45&lt;/sys_updated_on&gt;
         &lt;total&gt;1970-01-01 01:05:00&lt;/total&gt;
         &lt;url&gt;https://www.indianhealthyrecipes.com/chicken-tikka-in-oven/&lt;/url&gt;
     &lt;/x_snc_recipe_db_recipe&gt;
@@ -82,7 +82,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-31 13:24:18</sys_created_on>
         <sys_id>9fc5973a1bba55100c3855f0604bcb0a</sys_id>
-        <sys_name>Chicken Tikka Kebab Recipe</sys_name>
+        <sys_name>Chicken Tikka Kebab</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
